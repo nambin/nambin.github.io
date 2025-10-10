@@ -60,9 +60,15 @@
   <h1>Nambin's Movie Log</h1>
 
   <ul class="movie-list">
-    {% for movie in site.data.movies %}
+    {% for movie in site.data.movies-golden %}
     <li class="movie-card" data-director="{{ movie.director }}">
-      <img data-src="/assets/movie_posters/{{ movie.imdb_id }}.jpg"
+      {% if movie.tmdb_poster_url %}
+      {% assign poster_source = movie.tmdb_poster_url %}
+      {% else %}
+      {% assign poster_source = "/assets/movie_posters/" | append: movie.imdb_id | append: ".jpg" %}
+      {% endif %}
+
+      <img data-src="{{ poster_source }}"
         src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABBwABAQAIBAABBAQAOw=="
         alt="{{ movie.title }} Poster" class="movie-poster lazy" width="120" height="180">
       <div class="movie-info">
