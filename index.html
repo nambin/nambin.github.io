@@ -1,5 +1,6 @@
 ---
 # Jekyll Front Matter
+layout: default
 ---
 
 <!DOCTYPE html>
@@ -10,17 +11,21 @@
     <title>{{ site.title }}</title>
 </head>
 <body>
+
     <header>
-        <h1>{{ site.title }}</h1>        
+        <h1>{{ site.title }}</h1>
+        <p>{{ site.description }}</p>
     </header>
 
     <hr>
 
     <main>
+        <h2>Links</h2>
         <ul>
             <li><a href="https://www.dropbox.com/scl/fi/prhpdb38huddf6wwbd4ry/resume_nambinheo.pdf?rlkey=s8s25gjzakgpvezwyi8rhrh8t&e=2&st=feo3o3i4&dl=0" target="_blank">Resume (PDF)</a></li>
             <li><a href="movies.html">Movies</a></li>
         </ul>
     </main>
+
 </body>
 </html>
