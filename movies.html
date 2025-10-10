@@ -6,12 +6,59 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nambin's Movie Log</title>
-    <link rel="icon" type="image/svg+xml" href="/assets/beatles.svg">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nambin's Movie Log</title>
+  <link rel="icon" type="image/svg+xml" href="/assets/beatles.svg">
+  <style>
+    .movie-list {
+      padding: 0;
+      max-width: 600px;
+    }
+
+    .movie-card {
+      display: flex;
+      align-items: flex-start;
+      margin-bottom: 2rem;
+      padding: 1.5rem;
+      border: 1px solid #eee;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    .movie-poster {
+      width: 120px;
+      height: 180px;
+      object-fit: cover;
+      border-radius: 4px;
+      margin-right: 1.5rem;
+    }
+
+    .movie-info h2 {
+      margin: 0 0 0.5rem 0;
+    }
+
+    .movie-info p {
+      margin: 0.25rem 0;
+      color: #555;
+    }
+  </style>
 </head>
+
 <body>
-  <h1>Movie Log</h1>
+  <h1>Nambin's Movie Log</h1>
+  <ul class="movie-list">
+    {% for movie in site.data.movies %}
+    <li class="movie-card">
+      <img src="/assets/movie_posters/{{ movie.imdb_id }}.jpg" alt="{{ movie.title }} Poster" class="movie-poster">
+      <div class="movie-info">
+        <h2><a href="https://www.imdb.com/title/{{ movie.imdb_id }}/" target="_blank">{{ movie.title }}</a></h2>
+        <p>{{ movie.year }}</p>
+        <p>Directed by {{ movie.director }}</p>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
 </body>
+
 </html>

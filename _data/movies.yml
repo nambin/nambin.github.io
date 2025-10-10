@@ -1,0 +1,43 @@
+# _data/movies.yml
+
+- title: Parasite
+  year: 2019
+  director: Bong Joon-ho
+  imdb_id: tt6751668
+  meta:
+    country: South Korea
+
+- title: The Dark Knight
+  year: 2008
+  director: Christopher Nolan
+  imdb_id: tt0468569
+  meta:
+    country: USA
+
+- title: Mother
+  year: 2009
+  director: Bong Joon-ho
+  imdb_id: tt1216496
+  meta:
+    country: South Korea
+
+- title: Pulp Fiction
+  year: 1994
+  director: Quentin Tarantino
+  imdb_id: tt0110912
+  meta:
+    country: USA
+
+- title: Spirited Away
+  year: 2001
+  director: Hayao Miyazaki
+  imdb_id: tt0245429
+  meta:
+    country: Japan
+
+- title: Oldboy
+  year: 2003
+  director: Park Chan-wook
+  imdb_id: tt0364569
+  meta:
+    country: South Korea
