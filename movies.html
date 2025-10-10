@@ -42,23 +42,64 @@
       margin: 0.25rem 0;
       color: #555;
     }
+
+    .director-filter-link {
+      color: #3498db;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .director-filter-link:hover {
+      text-decoration: underline;
+      cursor: pointer;
+    }
   </style>
 </head>
 
 <body>
   <h1>Nambin's Movie Log</h1>
+
   <ul class="movie-list">
     {% for movie in site.data.movies %}
-    <li class="movie-card">
+    <li class="movie-card" data-director="{{ movie.director }}">
       <img src="/assets/movie_posters/{{ movie.imdb_id }}.jpg" alt="{{ movie.title }} Poster" class="movie-poster">
       <div class="movie-info">
         <h2><a href="https://www.imdb.com/title/{{ movie.imdb_id }}/" target="_blank">{{ movie.title }}</a></h2>
         <p>{{ movie.year }}</p>
-        <p>Directed by {{ movie.director }}</p>
+        <p>Directed by <a href="?director={{ movie.director | url_encode }}" class="director-filter-link">{{ movie.director }}</a></p>
       </div>
     </li>
     {% endfor %}
   </ul>
+
+  <script>
+    const movieCards = document.querySelectorAll('.movie-card');
+
+    function filterMoviesByDirector(director) {
+      movieCards.forEach(card => {
+        if (card.getAttribute('data-director') === director) {
+          card.style.display = 'flex';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+    }
+
+    /**
+     * When the page is loaded with a director query parameter, filters the movie list accordingly.
+     */
+    function applyFilterFromURL() {
+      const params = new URLSearchParams(window.location.search);
+      const directorParam = params.get('director');
+
+      if (directorParam) {
+        const decodedDirector = decodeURIComponent(directorParam);
+        filterMoviesByDirector(decodedDirector);
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', applyFilterFromURL);
+  </script>
 </body>
 
 </html>
