@@ -29,8 +29,31 @@ function initMovieFilter() {
   applyFilterFromURL();
 }
 
-initMovieFilter();
+function initLazyImagesLoader() {
+  const lazyImages = document.querySelectorAll('img.lazy');
 
-// document.addEventListener('DOMContentLoaded', () => {
-//   initMovieFilter();
-// });
+  if ('IntersectionObserver' in window) {
+    const lazyImageObserver = new IntersectionObserver((entries, observer) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          const lazyImage = entry.target;
+          lazyImage.src = lazyImage.dataset.src;
+          lazyImage.classList.remove('lazy');
+          lazyImageObserver.unobserve(lazyImage);
+        }
+      });
+    });
+
+    lazyImages.forEach(lazyImage => {
+      lazyImageObserver.observe(lazyImage);
+    });
+  } else {
+    // For old browsers which doesn't support Intersection Observer.
+    lazyImages.forEach(lazyImage => {
+      lazyImage.src = lazyImage.dataset.src;
+    });
+  }
+}
+
+initMovieFilter();
+initLazyImagesLoader();
