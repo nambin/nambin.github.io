@@ -6,64 +6,64 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ site.title }}</title>
-    <link rel="icon" type="image/svg+xml" href="/assets/beatles.svg">
-    <style>
-        body {
-            font-family: sans-serif;
-            text-align: center;
-            max-width: 500px;
-            margin: 0 auto;
-            padding: 20px;
-        }
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }}</title>
+  <link rel="icon" type="image/svg+xml" href="/assets/beatles.svg">
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 20px;
+    }
 
-        .link-container {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 15px;
-            margin-top: 20px;
-        }
+    .link-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 15px;
+      margin-top: 20px;
+    }
 
-        .link-item a {
-            text-decoration: none;
-            font-size: 1.1em;
-            color: #0077cc;
-        }
-    </style>
+    .link-item a {
+      text-decoration: none;
+      font-size: 1.1em;
+      color: #0077cc;
+    }
+  </style>
 </head>
 
 <body>
-    <header>
-        <img src="/assets/nambin.jpg" style="width:200px; border-radius:50%;" width="200" height="200"
-            alt="Nambin Heo's profile picture">
-        <h1>{{ site.title }}</h1>
-        <p style="white-space: pre-wrap;">{{ site.description }}</p>
-    </header>
+  <header>
+    <img src="/assets/nambin.jpg" style="width:200px; border-radius:50%;" width="200" height="200"
+      alt="Nambin Heo's profile picture">
+    <h1>{{ site.title }}</h1>
+    <p style="white-space: pre-wrap;">{{ site.description }}</p>
+  </header>
 
-    <hr>
+  <hr>
 
-    <main>
-        <div class="link-container">
-            <div class="link-item">
-                <a href="{{ site.resume_url }}" target="_blank">Resume (PDF)</a>
-            </div>
-            <div class="link-item">
-                <a href="{{ site.youtube_url }}" target="_blank">Youtube</a>
-            </div>
-            <div class="link-item">
-                <a href="{{ site.github_url }}" target="_blank">Github</a>
-            </div>
-            <div class="link-item">
-                <a href="{{ site.linkedin_url }}" target="_blank">LinkedIn</a>
-            </div>
-            <div class="link-item">
-                <a href="movies.html" target="_blank">Movie Logs</a>
-            </div>
-        </div>
-    </main>
+  <main>
+    <div class="link-container">
+      <div class="link-item">
+        <a href="{{ site.resume_url }}" target="_blank">Resume (PDF)</a>
+      </div>
+      <div class="link-item">
+        <a href="{{ site.youtube_url }}" target="_blank">Youtube</a>
+      </div>
+      <div class="link-item">
+        <a href="{{ site.github_url }}" target="_blank">Github</a>
+      </div>
+      <div class="link-item">
+        <a href="{{ site.linkedin_url }}" target="_blank">LinkedIn</a>
+      </div>
+      <div class="link-item">
+        <a href="movies.html" target="_blank">Movie Logs</a>
+      </div>
+    </div>
+  </main>
 </body>
 
 </html>
