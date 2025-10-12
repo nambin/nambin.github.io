@@ -36,6 +36,8 @@
 
     .movie-info h2 {
       margin: 0 0 0.5rem 0;
+      /* To avoid horizontal scroll for long titles (e.g., BlacKkKlansman) */
+      overflow-wrap: break-word;
     }
 
     .movie-info p {
@@ -60,7 +62,7 @@
   <h1>Nambin's Movie Log</h1>
 
   <ul class="movie-list">
-    {% for movie in site.data.movies-golden-251011 %}
+    {% for movie in site.data.movies %}
     <li class="movie-card" data-director="{{ movie.director }}">
       {% if movie.tmdb_poster_url %}
       {% assign poster_source = movie.tmdb_poster_url %}
