@@ -37,13 +37,23 @@
     }
 
     .movie-info {
-      min-width: 0; /* The key fix for allowing the container to shrink */
+      /* allows the container to shrink */
+      min-width: 0;
     }
 
     .movie-info h2 {
       margin: 0 0 0.5rem 0;
       /* To avoid horizontal scroll for long titles (e.g., BlacKkKlansman) */
       overflow-wrap: break-word;
+    }
+
+    .movie-info h2 a {
+      text-decoration: none;
+      color: #2c3e50;
+    }
+
+    .movie-info h2 a:hover {
+      text-decoration: underline;
     }
 
     .movie-info p {
