@@ -5,19 +5,19 @@ function initMovieFilter() {
 
   function filterMovies(director, myBest, award) {
     movieCards.forEach(card => {
-      let shouldHide = false;
+      let shouldShow = true;
       if (director && card.getAttribute('data-director') !== director) {
-        shouldHide = true;
+        shouldShow = false;
       }
       if (myBest && !card.getAttribute('data-my-best')) {
-        shouldHide = true;
+        shouldShow = false;
       }
       const awardsAttr = card.getAttribute('data-awards');
       if (award && (!awardsAttr || !awardsAttr.includes(award))) {
-        shouldHide = true;
+        shouldShow = false;
       }
 
-      card.style.display = shouldHide ? 'none' : 'flex';
+      card.style.display = shouldShow ? 'flex' : 'none';
     });
   }
 
@@ -32,8 +32,12 @@ function initMovieFilter() {
 
     if (directorParam || myBestParam || awardParam) {
       filterMovies(
-        directorParam ? decodeURIComponent(directorParam) : null, 
+        directorParam ? decodeURIComponent(directorParam) : null,
         myBestParam, awardParam);
+    } else {
+      movieCards.forEach(card => {
+        card.style.display = 'flex';
+      });
     }
   }
 
