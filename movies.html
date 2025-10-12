@@ -62,7 +62,7 @@
   <h1>Nambin's Movie Log</h1>
 
   <ul class="movie-list">
-    {% for movie in site.data.movies %}
+    {% for movie in site.data.movies-golden-251011 %}
     <li class="movie-card" data-director="{{ movie.director }}">
       {% if movie.tmdb_poster_url %}
       {% assign poster_source = movie.tmdb_poster_url %}
@@ -77,11 +77,15 @@
         <h2><a href="https://www.imdb.com/title/{{ movie.imdb_id }}/" target="_blank">{{ movie.tmdb_original_title
             }}</a></h2>
 
-        {% if movie.tmdb_title %}
+        {% if movie.custom_korean_title and movie.tmdb_title %}
+        <p><i>{{ movie.tmdb_title }} ({{ movie.custom_korean_title }})</i></p>
+        {% elsif movie.tmdb_title %}
         <p><i>{{ movie.tmdb_title }}</i></p>
         {% endif %}
-        <p>{{ movie.year }}</p>
+
         <p><a href="?director={{ movie.director | url_encode }}" class="director-filter-link">{{ movie.director }}</a>
+        <p></p>
+        <p>{{ movie.year }} &middot; {{ movie.tmdb_original_language }}</p>
         </p>
       </div>
     </li>
