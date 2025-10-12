@@ -3,13 +3,21 @@
 function initMovieFilter() {
   const movieCards = document.querySelectorAll('.movie-card');
 
-  function filterMoviesByDirector(director) {
+  function filterMovies(director, myBest, award) {
     movieCards.forEach(card => {
-      if (card.getAttribute('data-director') === director) {
-        card.style.display = 'flex';
-      } else {
-        card.style.display = 'none';
+      let shouldHide = false;
+      if (director && card.getAttribute('data-director') !== director) {
+        shouldHide = true;
       }
+      if (myBest && !card.getAttribute('data-my-best')) {
+        shouldHide = true;
+      }
+      const awardsAttr = card.getAttribute('data-awards');
+      if (award && (!awardsAttr || !awardsAttr.includes(award))) {
+        shouldHide = true;
+      }
+
+      card.style.display = shouldHide ? 'none' : 'flex';
     });
   }
 
@@ -19,10 +27,13 @@ function initMovieFilter() {
   function applyFilterFromURL() {
     const params = new URLSearchParams(window.location.search);
     const directorParam = params.get('director');
+    const myBestParam = params.get('my_best');
+    const awardParam = params.get('award');
 
-    if (directorParam) {
-      const decodedDirector = decodeURIComponent(directorParam);
-      filterMoviesByDirector(decodedDirector);
+    if (directorParam || myBestParam || awardParam) {
+      filterMovies(
+        directorParam ? decodeURIComponent(directorParam) : null, 
+        myBestParam, awardParam);
     }
   }
 

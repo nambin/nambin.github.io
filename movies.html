@@ -80,7 +80,9 @@
 
   <ul class="movie-list">
     {% for movie in site.data.movies %}
-    <li class="movie-card" data-director="{{ movie.director }}">
+    <li class="movie-card" data-director="{{ movie.director }}" {% if movie.my_best %} data-my-best="true" {% endif %}
+      {% if movie.awards %} data-awards="{{ movie.awards | join: ' ' }}" {% endif %}>
+
       {% if movie.tmdb_poster_url %}
       {% assign poster_source = movie.tmdb_poster_url %}
       {% else %}
@@ -107,30 +109,30 @@
 
         <div class="movie-badges">
           {% if movie.my_best %}
-          <a href="?filter=my_best" class="badge-link" title="Personal Best">
+          <a href="?my_best=true" class="badge-link" title="Personal Best">
             <img src="/assets/logo-bulb.svg" alt="Personal Best" class="badge-icon">
           </a>
           {% endif %}
 
           {% for award in movie.awards %}
           {% if award == 'oscar' %}
-          <a href="?filter=oscar" class="badge-link">
+          <a href="?award=oscar" class="badge-link">
             <img src="/assets/logo-oscar.svg" alt="Oscar" class="badge-icon">
           </a>
           {% elsif award == 'cannes' %}
-          <a href="?filter=cannes" class="badge-link">
+          <a href="?award=cannes" class="badge-link">
             <img src="/assets/logo-cannes.svg" alt="Cannes" class="badge-icon">
           </a>
           {% elsif award == 'berlin' %}
-          <a href="?filter=berlin" class="badge-link">
+          <a href="?award=berlin" class="badge-link">
             <img src="/assets/logo-berlin.svg" alt="Berlin" class="badge-icon">
           </a>
           {% elsif award == 'venice' %}
-          <a href="?filter=venice" class="badge-link">
+          <a href="?award=venice" class="badge-link">
             <img src="/assets/logo-venice.svg" alt="Venice" class="badge-icon">
           </a>
           {% elsif award == 'blue_dragon' %}
-          <a href="?filter=blue_dragon" class="badge-link">
+          <a href="?award=blue_dragon" class="badge-link">
             <img src="/assets/logo-blue_dragon.svg" alt="Blue Dragon" class="badge-icon">
           </a>
           {% endif %}
