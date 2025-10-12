@@ -95,7 +95,7 @@
   <h1>Nambin's Movie Log</h1>
 
   <ul class="movie-list">
-    {% for movie in site.data.movies-golden-251011 %}
+    {% for movie in site.data.movies %}
     <li class="movie-card" data-director="{{ movie.director }}" {% if movie.my_best %} data-my-best="true" {% endif %}
       {% if movie.awards %} data-awards="{{ movie.awards | join: ' ' }}" {% endif %}>
 
