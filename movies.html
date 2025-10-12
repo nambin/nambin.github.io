@@ -55,6 +55,23 @@
       text-decoration: underline;
       cursor: pointer;
     }
+
+    .movie-badges {
+      margin-top: 1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .badge-link {
+      width: 28px;
+      height: 28px;
+    }
+
+    .badge-icon {
+      width: 28px;
+      height: 28px;
+    }
   </style>
 </head>
 
@@ -87,6 +104,38 @@
         <p></p>
         <p>{{ movie.year }} &middot; {{ movie.tmdb_original_language }}</p>
         </p>
+
+        <div class="movie-badges">
+          {% if movie.my_best %}
+          <a href="?filter=my_best" class="badge-link" title="Personal Best">
+            <img src="/assets/logo-bulb.svg" alt="Personal Best" class="badge-icon">
+          </a>
+          {% endif %}
+
+          {% for award in movie.awards %}
+          {% if award == 'oscar' %}
+          <a href="?filter=oscar" class="badge-link">
+            <img src="/assets/logo-oscar.svg" alt="Oscar" class="badge-icon">
+          </a>
+          {% elsif award == 'cannes' %}
+          <a href="?filter=cannes" class="badge-link">
+            <img src="/assets/logo-cannes.svg" alt="Cannes" class="badge-icon">
+          </a>
+          {% elsif award == 'berlin' %}
+          <a href="?filter=berlin" class="badge-link">
+            <img src="/assets/logo-berlin.svg" alt="Berlin" class="badge-icon">
+          </a>
+          {% elsif award == 'venice' %}
+          <a href="?filter=venice" class="badge-link">
+            <img src="/assets/logo-venice.svg" alt="Venice" class="badge-icon">
+          </a>
+          {% elsif award == 'blue_dragon' %}
+          <a href="?filter=blue_dragon" class="badge-link">
+            <img src="/assets/logo-blue_dragon.svg" alt="Blue Dragon" class="badge-icon">
+          </a>
+          {% endif %}
+          {% endfor %}
+        </div>
       </div>
     </li>
     {% endfor %}

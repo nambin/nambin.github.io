@@ -42,8 +42,8 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/davwb31ZFhBUrZuRlxk8meRfATI.jpg
   my_best: true
   awards:
-  - cannes
   - oscar
+  - cannes
 - title: Inside Out 2
   year: 2024
   director: Kelsey Mann
@@ -1363,8 +1363,8 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dKT8rGDR55cM1vGn7QZLA9Tg9YC.jpg
   my_best: true
   awards:
-  - venice
   - oscar
+  - venice
 - title: I'm Thinking of Ending Things
   year: 2020
   director: Charlie Kaufman
@@ -1454,8 +1454,8 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg
   my_best: true
   awards:
-  - cannes
   - oscar
+  - cannes
 - title: 찬실이는 복도 많지
   year: 2019
   director: 김초희
@@ -2335,8 +2335,8 @@
   tmdb_poster_path: /dtIIyQyALk57ko5bjac7hi01YQ.jpg
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dtIIyQyALk57ko5bjac7hi01YQ.jpg
   awards:
-  - venice
   - oscar
+  - venice
 - title: 클레어의 카메라 (Claire's Camera)
   year: 2017
   director: 홍상수
@@ -2805,8 +2805,8 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg
   my_best: true
   awards:
-  - venice
   - oscar
+  - venice
 - title: Lady Bird
   year: 2017
   director: Greta Gerwig
@@ -8937,8 +8937,8 @@
   tmdb_poster_path: /iTNHwO896WKkaoPtpMMS74d8VNi.jpg
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iTNHwO896WKkaoPtpMMS74d8VNi.jpg
   awards:
-  - berlin
   - oscar
+  - berlin
 - title: Cocktail
   year: 1988
   director: Roger Donaldson
