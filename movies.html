@@ -125,7 +125,12 @@
 
         <p><a href="?director={{ movie.director | url_encode }}" class="director-filter-link">{{ movie.director }}</a>
         <p></p>
-        <p>{{ movie.year }} &middot; {{ movie.tmdb_original_language }}</p>
+        <p>
+          {{ movie.year }}
+          {% if movie.tmdb_original_language %}
+          &middot; {{ movie.tmdb_original_language }}
+          {% endif %}
+        </p>
         </p>
 
         <div class="movie-badges">
