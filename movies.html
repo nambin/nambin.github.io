@@ -101,13 +101,17 @@
 
       {% if movie.tmdb_poster_url %}
       {% assign poster_source = movie.tmdb_poster_url %}
+      {% assign movie_url = movie.tmdb_url %}
       {% else %}
       {% assign poster_source = "/assets/movie_posters/" | append: movie.imdb_id | append: ".jpg" %}
+      {% assign movie_url = movie.imdb_url %}
       {% endif %}
 
-      <img data-src="{{ poster_source }}"
-        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABBwABAQAIBAABBAQAOw=="
-        alt="{{ movie.tmdb_original_title }} Poster" class="movie-poster lazy" width="120" height="180">
+      <a href="{{ movie_url }}" target="_blank" rel="noopener noreferrer">
+        <img data-src="{{ poster_source }}"
+          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABBwABAQAIBAABBAQAOw=="
+          alt="{{ movie.tmdb_original_title }} Poster" class="movie-poster lazy" width="120" height="180">
+      </a>
       <div class="movie-info">
         <h2><a href="https://www.imdb.com/title/{{ movie.imdb_id }}/" target="_blank">
             {% if movie.tmdb_original_title %}
