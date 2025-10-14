@@ -96,7 +96,7 @@
 
   <ul class="movie-list">
     {% for movie in site.data.movies %}
-    <li class="movie-card" data-director="{{ movie.director }}" {% if movie.my_best %} data-my-best="true" {% endif %}
+    <li class="movie-card" data-director="{{ movie.director }}" {% if movie.masterpiece %} data-masterpiece="true" {% endif %} {% if movie.my_best %} data-my-best="true" {% endif %}
       {% if movie.awards %} data-awards="{{ movie.awards | join: ' ' }}" {% endif %}>
 
       {% if movie.tmdb_poster_url %}
@@ -138,6 +138,11 @@
         </p>
 
         <div class="movie-badges">
+          {% if movie.masterpiece %}
+          <a href="?masterpiece=true" class="badge-link" title="Masterpiece">
+            <img src="/assets/logo-star.svg" alt="Masterpiece" class="badge-icon">
+          </a>
+          {% endif %}
           {% if movie.my_best %}
           <a href="?my_best=true" class="badge-link" title="Personal Best">
             <img src="/assets/logo-bulb.svg" alt="Personal Best" class="badge-icon">

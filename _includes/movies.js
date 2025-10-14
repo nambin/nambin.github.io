@@ -3,13 +3,16 @@
 function initMovieFilter() {
   const movieCards = document.querySelectorAll('.movie-card');
 
-  function filterMovies(director, myBest, award) {
+  function filterMovies(director, masterpiece, myBest, award) {
     movieCards.forEach(card => {
       let shouldShow = true;
       if (director && card.getAttribute('data-director') !== director) {
         shouldShow = false;
       }
-      if (myBest && !card.getAttribute('data-my-best')) {
+      if (masterpiece && !card.getAttribute('data-masterpiece')) {
+        shouldShow = false;
+      }
+      if (myBest && (!card.getAttribute('data-my-best') && !card.getAttribute('data-masterpiece'))) {
         shouldShow = false;
       }
       const awardsAttr = card.getAttribute('data-awards');
@@ -27,13 +30,14 @@ function initMovieFilter() {
   function applyFilterFromURL() {
     const params = new URLSearchParams(window.location.search);
     const directorParam = params.get('director');
+    const masterpieceParam = params.get('masterpiece');
     const myBestParam = params.get('my_best');
     const awardParam = params.get('award');
 
-    if (directorParam || myBestParam || awardParam) {
+    if (directorParam || masterpieceParam || myBestParam || awardParam) {
       filterMovies(
         directorParam ? decodeURIComponent(directorParam) : null,
-        myBestParam, awardParam);
+        masterpieceParam, myBestParam, awardParam);
     } else {
       movieCards.forEach(card => {
         card.style.display = 'flex';
