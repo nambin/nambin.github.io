@@ -132,20 +132,21 @@
 
 
         <p>
-          {% if movie.tmdb_director_name_1 and movie.is_korean_director == false %}
+          {% if movie.tmdb_director_name_1 and movie.is_korean_director == false -%}
           <a href="?director={{ movie.tmdb_director_name_1 | url_encode }}" class="director-filter-link">{{
             movie.tmdb_director_name_1 }}</a>
-          {% else %}
+          {%- else -%}
           <a href="?director={{ movie.director | url_encode }}" class="director-filter-link">{{ movie.director }}</a>
-          {% endif %}
-          {% if movie.tmdb_director_name_2 %}
-          <span>,</span>
-          <a href="?director={{ movie.tmdb_director_name_2 | url_encode }}" class="director-filter-link">{{
-            movie.tmdb_director_name_2 }}</a>
-          {% endif %}
-          {% if movie.tmdb_num_directors and movie.tmdb_num_directors > 2 %}
-          <span>, {{ movie.tmdb_num_directors | minus: 2 }} more</span>
-          {% endif %}
+          {%- endif -%}
+
+          {%- if movie.tmdb_director_name_2 -%}
+          <span>, </span><a href="?director={{ movie.tmdb_director_name_2 | url_encode }}"
+            class="director-filter-link">{{ movie.tmdb_director_name_2 }}</a>
+          {%- endif -%}
+
+          {%- if movie.tmdb_num_directors and movie.tmdb_num_directors > 2 -%}
+          <span>, +{{ movie.tmdb_num_directors | minus: 2 }} more</span>
+          {%- endif %}
         </p>
         <p>
           {{ movie.year }}
