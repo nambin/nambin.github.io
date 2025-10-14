@@ -6,7 +6,7 @@ function initMovieFilter() {
   function filterMovies(director, masterpiece, myBest, award) {
     movieCards.forEach(card => {
       let shouldShow = true;
-      if (director && card.getAttribute('data-director') !== director) {
+      if (director && card.getAttribute('data-director') !== director && card.getAttribute('data-director-2') !== director) {
         shouldShow = false;
       }
       if (masterpiece && !card.getAttribute('data-masterpiece')) {
