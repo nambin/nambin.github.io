@@ -3,7 +3,9 @@
 function initMovieFilter() {
   const movieCards = document.querySelectorAll('.movie-card');
 
-  function filterMovies(director, masterpiece, myBest, award) {
+  function _filterMovies(searchTerm, director, masterpiece, myBest, award) {
+    const searchKeywords = searchTerm.toLowerCase().split(' ').filter(k => k);
+
     movieCards.forEach(card => {
       let shouldShow = true;
       if (director && card.getAttribute('data-director') !== director && card.getAttribute('data-director-2') !== director) {
@@ -19,6 +21,13 @@ function initMovieFilter() {
       if (award && (!awardsAttr || !awardsAttr.includes(award))) {
         shouldShow = false;
       }
+      if (shouldShow && searchKeywords.length > 0) {
+        const searchableText = card.dataset.searchText || '';
+        const matchesAllKeywords = searchKeywords.every(keyword => searchableText.includes(keyword));
+        if (!matchesAllKeywords) {
+          shouldShow = false;
+        }
+      }
 
       card.style.display = shouldShow ? 'flex' : 'none';
     });
@@ -27,25 +36,37 @@ function initMovieFilter() {
   /**
    * When the page is loaded with a director query parameter, filters the movie list accordingly.
    */
-  function applyFilterFromURL() {
+  function _applyAllFilters() {
     const params = new URLSearchParams(window.location.search);
     const directorParam = params.get('director');
     const masterpieceParam = params.get('masterpiece');
     const myBestParam = params.get('my_best');
     const awardParam = params.get('award');
 
-    if (directorParam || masterpieceParam || myBestParam || awardParam) {
-      filterMovies(
+    if (searchInput.value || directorParam || masterpieceParam || myBestParam || awardParam) {
+      _filterMovies(
+        searchInput.value,
         directorParam ? decodeURIComponent(directorParam) : null,
         masterpieceParam, myBestParam, awardParam);
+      // console.log('filters applied:', {
+      //   search: searchInput.value,
+      //   director: directorParam,
+      //   masterpiece: masterpieceParam,
+      //   myBest: myBestParam,
+      //   award: awardParam
+      // });
     } else {
       movieCards.forEach(card => {
         card.style.display = 'flex';
       });
+      console.log('No filters applied, showing all movies.');
     }
   }
 
-  applyFilterFromURL();
+  if (searchInput) {
+    searchInput.addEventListener('input', _applyAllFilters);
+  }
+  _applyAllFilters();
 }
 
 function initLazyImagesLoader() {

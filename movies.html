@@ -11,6 +11,8 @@
   <title>Nambin's Movie Log</title>
   <link rel="icon" type="image/svg+xml" href="/assets/beatles.svg">
   <style>
+    * { box-sizing: border-box; }
+
     .movie-list {
       padding: 0;
       max-width: 652px;
@@ -88,19 +90,49 @@
       width: 28px;
       height: 28px;
     }
+
+    .search-container {
+      max-width: 652px;
+      margin-bottom: 1rem;
+    }
+
+    #searchInput {
+      width: 100%;
+      padding: 10px 15px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+    }
   </style>
 </head>
 
 <body>
   <h1>Nambin's Movie Log</h1>
 
+  <div class="search-container">
+    <input type="search" id="searchInput" placeholder="Search by title, director, year, lanuguage, awards ..." aria-label="Search movies">
+  </div>
   <ul class="movie-list">
     {% for movie in site.data.movies %}
-    <li class="movie-card" {% if movie.tmdb_director_name_1 and movie.is_korean_director==false %}
-      data-director="{{ movie.tmdb_director_name_1}}" {% else %} data-director="{{ movie.director }}" {% endif %} {% if
-      movie.tmdb_director_name_2 %} data-director-2="{{ movie.tmdb_director_name_2}}" {% endif %} {% if
-      movie.masterpiece %} data-masterpiece="true" {% endif %} {% if movie.my_best %} data-my-best="true" {% endif %} {%
-      if movie.awards %} data-awards="{{ movie.awards | join: ' ' }}" {% endif %}>
+    {% capture search_text %}
+      {% if movie.tmdb_original_title %}{{ movie.tmdb_original_title }} {% else %}{{ movie.title }} {% endif %}
+      {% if movie.tmdb_title %}{{ movie.tmdb_title }} {% endif %}
+      {% if movie.custom_korean_title %}{{ movie.custom_korean_title }} {% endif %}
+      {% if movie.tmdb_director_name_1 %}{{ movie.tmdb_director_name_1 }} {% endif %}
+      {% if movie.tmdb_director_name_2 %}{{ movie.tmdb_director_name_2 }} {% endif %}
+      {% if movie.director %}{{ movie.director }} {% endif %}
+      {% if movie.year %}{{ movie.year }} {% endif %}
+      {% if movie.tmdb_original_language %}{{ movie.tmdb_original_language }} {% endif %}
+      {% if movie.awards %}{{ movie.awards | join: ' ' }} {% endif %}
+    {% endcapture %}
+
+    <li class="movie-card" 
+      {% if movie.tmdb_director_name_1 and movie.is_korean_director==false %} data-director="{{ movie.tmdb_director_name_1}}"
+      {% else %} data-director="{{ movie.director }}" {% endif %} 
+      {% if movie.tmdb_director_name_2 %} data-director-2="{{ movie.tmdb_director_name_2}}" {% endif %}
+      {% if movie.masterpiece %} data-masterpiece="true" {% endif %}
+      {% if movie.my_best %} data-my-best="true" {% endif %} 
+      {% if movie.awards %} data-awards="{{ movie.awards | join: ' ' }}" {% endif %}
+      data-search-text="{{ search_text | downcase | strip }}">
 
       {% if movie.tmdb_poster_url %}
       {% assign poster_source = movie.tmdb_poster_url %}
@@ -129,7 +161,6 @@
         {% elsif movie.tmdb_title %}
         <p><i>{{ movie.tmdb_title }}</i></p>
         {% endif %}
-
 
         <p>
           {% if movie.tmdb_director_name_1 and movie.is_korean_director == false -%}
