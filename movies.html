@@ -93,6 +93,32 @@
       height: 28px;
     }
 
+    #filter-display {
+      justify-content: space-between;
+      align-items: center;
+      
+      background-color: #eef7ff;
+      border: 1px solid #cce4ff;
+      border-radius: 8px;
+      padding: 6px 15px;
+      margin-bottom: 0.5rem;
+      max-width: 652px;
+      width: 100%;
+    }
+
+    #clear-filter {
+      color: #555;
+      text-decoration: none;
+      font-size: 1.5rem;
+      font-weight: bold;
+      margin-left: 1rem;
+      line-height: 1;
+    }
+    
+    #clear-filter:hover {
+      color: #000;
+    }
+
     .search-container {
       position: sticky;
       top: 0;
@@ -113,6 +139,10 @@
 <body>
   <h1>Nambin's Movie Log</h1>
 
+  <div id="filter-display" style="display: none;">
+    <span id="filter-text"></span>
+    <a href="/movies.html" id="clear-filter" title="Clear filter">&times;</a>
+  </div>
   <div class="search-container">
     <input type="search" id="searchInput" placeholder="Search by title, director, year, lanuguage, awards ..."
       aria-label="Search movies">
@@ -167,8 +197,7 @@
         {% endif %}
 
         <p>
-          {% if movie.tmdb_director_name_1 and
-          (movie.is_korean_director == false or movie.tmdb_director_name_2) -%}
+          {% if movie.tmdb_director_name_1 and (movie.is_korean_director == false or movie.tmdb_director_name_2) -%}
           <a href="?director={{ movie.tmdb_director_name_1 | url_encode }}" class="director-filter-link">{{
             movie.tmdb_director_name_1 }}</a>
           {%- else -%}

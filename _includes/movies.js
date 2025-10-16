@@ -44,10 +44,12 @@ function initMovieFilter() {
     const awardParam = params.get('award');
 
     if (searchInput.value || directorParam || masterpieceParam || myBestParam || awardParam) {
+      decodedDirectorParam = directorParam ? decodeURIComponent(directorParam) : null;
       _filterMovies(
         searchInput.value,
-        directorParam ? decodeURIComponent(directorParam) : null,
+        decodedDirectorParam,
         masterpieceParam, myBestParam, awardParam);
+
       // console.log('filters applied:', {
       //   search: searchInput.value,
       //   director: directorParam,
@@ -55,10 +57,39 @@ function initMovieFilter() {
       //   myBest: myBestParam,
       //   award: awardParam
       // });
+
+      let displayText = null;
+      if (directorParam) {
+        displayText = `Made by ${decodedDirectorParam}`;
+      } else if (masterpieceParam) {
+        displayText = 'Masterpiece';
+      } else if (myBestParam) {
+        displayText = 'My Best';
+      } else if (awardParam) {
+        switch (awardParam) {
+          case 'oscar': displayText = 'Oscar Best Picture or International Feature Film'; break;
+          case 'cannes': displayText = 'Cannes Palme d\'Or'; break;
+          case 'berlin': displayText = 'Berlin Goldener Bär'; break;
+          case 'venice': displayText = 'Venice Leone d\'oro'; break;
+          case 'blue_dragon': displayText = 'Korean Blue Dragon Best Film'; break;
+        }
+      }
+
+      const filterDisplay = document.getElementById('filter-display');
+      const filterText = document.getElementById('filter-text');
+      if (displayText && filterDisplay && filterText) {
+        filterText.textContent = displayText;
+        filterDisplay.style.display = 'flex';
+      } else if (filterDisplay) {
+        filterDisplay.style.display = 'none';
+      }
     } else {
       movieCards.forEach(card => {
         card.style.display = 'flex';
       });
+      const filterDisplay = document.getElementById('filter-display');
+      filterDisplay.style.display = 'none';
+
       console.log('No filters applied, showing all movies.');
     }
   }
