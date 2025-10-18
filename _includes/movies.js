@@ -64,7 +64,7 @@ function initMovieFilter() {
       } else if (masterpieceParam) {
         displayText = 'Masterpiece';
       } else if (myBestParam) {
-        displayText = 'My Best';
+        displayText = 'My Inspiration';
       } else if (awardParam) {
         switch (awardParam) {
           case 'oscar': displayText = 'Oscar Best Picture or International Feature Film'; break;
