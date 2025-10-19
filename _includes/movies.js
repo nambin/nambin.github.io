@@ -60,7 +60,7 @@ function initMovieFilter() {
 
       let displayText = null;
       if (directorParam) {
-        displayText = `Made by ${decodedDirectorParam}`;
+        displayText = `Directed by ${decodedDirectorParam}`;
       } else if (masterpieceParam) {
         displayText = 'Masterpiece';
       } else if (myBestParam) {
