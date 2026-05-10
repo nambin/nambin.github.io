@@ -26,6 +26,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg
+  custom_korean_title: 장항준
 - title: The World of Love (세계의 주인)
   year: 2025
   director: Yoon Ga-eun
@@ -40,6 +41,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cg679vCkXY9RH2iINLvdG68tzsQ.jpg
+  custom_korean_title: 윤가은
   my_best: true
 - title: The Wizard of Oz at Sphere
   year: 2025
@@ -314,6 +316,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uA3o8q7JTym6lUM8pnITwQDfvhO.jpg
+  custom_korean_title: 변상현
 - title: Anora
   year: 2024
   director: Sean Baker
