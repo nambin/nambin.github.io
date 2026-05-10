@@ -569,6 +569,7 @@
   masterpiece: true
   award_names:
     - Cannes Palme d'Or
+    - César Award for Best Film
   awards:
     - cannes
 - title: The Old Oak
@@ -1445,6 +1446,7 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3cOsf5HBjPK2QCz9ebQlGHNnE7y.jpg
   my_best: true
   award_names:
+    - Japan Academy Prize
     - Oscar Best International Film
   awards:
     - oscar
@@ -2414,6 +2416,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg
+  award_names:
+    - IIFA Awards
 - title: A Rainy Day in New York
   year: 2019
   director: Woody Allen
@@ -6052,6 +6056,7 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/19hyCudualHxCD0GrEngqsi0wBF.jpg
   award_names:
     - Cannes Palme d'Or
+    - César Award for Best Film
     - Oscar Best International Film
   awards:
     - cannes
@@ -6566,6 +6571,7 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/z68py0ZqPgeacGPG54AGVRbNBS7.jpg
   award_names:
+    - César Award for Best Film
     - Oscar Best Picture
   awards:
     - oscar
@@ -7412,6 +7418,7 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/mms4nMZuPYOyEengRxCaEk7SXMd.jpg
   custom_korean_title: 굿바이
   award_names:
+    - Japan Academy Prize
     - Oscar Best International Film
   awards:
     - oscar
@@ -10126,6 +10133,7 @@
   custom_korean_title: 와호장룡
   award_names:
     - Oscar Best International Film
+    - Hong Kong Film Awards
   awards:
     - oscar
 - title: 오! 수정
@@ -12909,6 +12917,8 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/56vi7JCrVZuCqBPDVLzfO5fEQMr.jpg
   custom_korean_title: 영웅본색
+  award_names:
+    - Hong Kong Film Awards
 - title: The Purple Rose of Cairo
   year: 1985
   director: Woody Allen
