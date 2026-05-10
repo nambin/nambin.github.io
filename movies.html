@@ -197,7 +197,7 @@
         {% endif %}
 
         <p>
-          {% if movie.tmdb_director_name_1 and (movie.is_korean_director == false or movie.tmdb_director_name_2) -%}
+          {% if movie.tmdb_director_name_1 and movie.is_korean_director == false or movie.tmdb_director_name_2 -%}
           <a href="?director={{ movie.tmdb_director_name_1 | url_encode }}" class="director-filter-link">{{
             movie.tmdb_director_name_1 }}</a>
           {%- else -%}
