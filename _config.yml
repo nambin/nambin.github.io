@@ -1,5 +1,10 @@
 theme: jekyll-theme-minimal
 title: Nambin Heo
+
+# Use non-underscored directory names. Jekyll defaults are _data and _includes;
+# these settings let the same content live under data/ and includes/ instead.
+data_dir: data
+includes_dir: includes
 description: |
   Senior Staff Software Engineer at Google
   PhD in Computer Graphics

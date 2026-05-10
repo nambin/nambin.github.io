@@ -1,4 +1,4 @@
-// _includes/movies.js
+// includes/movies.js
 
 function initMovieFilter() {
   const movieCards = document.querySelectorAll('.movie-card');
