@@ -9519,24 +9519,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/7xNVM4UmFm27UUr52q7cxwYrrrW.jpg
-- title: Infernal Affairs (무간도)
-  year: 2002
-  director: Wai Keung Lau, Alan Mak
-  country: Hong Kong
-  is_korean_director: false
-  imdb_id: tt0338564
-  imdb_url: https://www.imdb.com/title/tt0338564
-  tmdb_url: https://www.themoviedb.org/movie/10775
-  tmdb_title: Infernal Affairs
-  tmdb_original_title: 無間道
-  tmdb_original_language: cn
-  tmdb_director_name_1: Alan Mak Siu-Fai
-  tmdb_director_name_2: Andrew Lau Wai-Keung
-  tmdb_num_directors: 2
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/gix9thDBXfjJ8M7rYbihqbQGBcP.jpg
-  custom_korean_title: 무간도
-  award_names:
-    - Hong Kong Film Awards
 - title: Catch Me If You Can
   year: 2002
   director: Steven Spielberg
@@ -9750,6 +9732,22 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/2kjM5CUZRIU5yOANUowrbJcRL9L.jpg
+- title: Infernal Affairs (無間道)
+  year: 2002
+  director: Alan Mak Siu-Fai
+  is_korean_director: false
+  imdb_id: tt0338564
+  imdb_url: https://www.imdb.com/title/tt0338564
+  tmdb_url: https://www.themoviedb.org/movie/10775
+  tmdb_title: Infernal Affairs
+  tmdb_original_title: 無間道
+  tmdb_original_language: Cantonese
+  tmdb_director_name_1: Alan Mak Siu-Fai
+  tmdb_director_name_2: Andrew Lau Wai-Keung
+  tmdb_num_directors: 2
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/gix9thDBXfjJ8M7rYbihqbQGBcP.jpg
+  award_names:
+    - Hong Kong Film Awards
 - title: 봄날은 간다
   year: 2001
   director: 허진호
@@ -10200,22 +10198,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/oA4ss1x1TL9Il2ctplB2iXgAOoO.jpg
-- title: In the Mood for Love (花樣年華, 화양연화)
+- title: In the Mood for Love (花樣年華)
   year: 2000
-  director: Wong Kar-wai
-  country: Hong Kong
+  director: Wong Kar-Wai
   is_korean_director: false
   imdb_id: tt0118694
   imdb_url: https://www.imdb.com/title/tt0118694
   tmdb_url: https://www.themoviedb.org/movie/843
   tmdb_title: In the Mood for Love
   tmdb_original_title: 花樣年華
-  tmdb_original_language: cn
+  tmdb_original_language: Cantonese
   tmdb_director_name_1: Wong Kar-Wai
   tmdb_director_name_2: null
   tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8BgGbbWiLNhPtkMkN0gGTnbtvBv.jpg
-  custom_korean_title: 화양연화
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/iYypPT4bhqXfq1b6EnmxvRt6b2Y.jpg
 - title: Billy Elliot
   year: 2000
   director: Stephen Daldry
@@ -11288,7 +11284,7 @@
   tmdb_url: https://www.themoviedb.org/movie/9404
   tmdb_title: 'Police Story 4: First Strike'
   tmdb_original_title: 警察故事4之簡單任務
-  tmdb_original_language: cn
+  tmdb_original_language: Cantonese
   tmdb_director_name_1: Stanley Tong Gwai-Lai
   tmdb_director_name_2: null
   tmdb_num_directors: 1
@@ -11466,24 +11462,6 @@
     - Berlin Goldener Bär
   awards:
     - berlin
-- title: Chungking Express (重慶森林, 중경삼림)
-  year: 1995
-  director: Wong Kar-wai
-  country: Hong Kong
-  is_korean_director: false
-  imdb_id: tt0109424
-  imdb_url: https://www.imdb.com/title/tt0109424
-  tmdb_url: https://www.themoviedb.org/movie/11104
-  tmdb_title: Chungking Express
-  tmdb_original_title: 重慶森林
-  tmdb_original_language: cn
-  tmdb_director_name_1: Wong Kar-Wai
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg
-  custom_korean_title: 중경삼림
-  award_names:
-    - Hong Kong Film Awards
 - title: Outbreak
   year: 1995
   director: Wolfgang Petersen
@@ -11794,6 +11772,22 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/A8D7xLxLlr1HtvuLgEVSvG0sLdT.jpg
+- title: Chungking Express (重慶森林)
+  year: 1994
+  director: Wong Kar-Wai
+  is_korean_director: false
+  imdb_id: tt0109424
+  imdb_url: https://www.imdb.com/title/tt0109424
+  tmdb_url: https://www.themoviedb.org/movie/11104
+  tmdb_title: Chungking Express
+  tmdb_original_title: 重慶森林
+  tmdb_original_language: Cantonese
+  tmdb_director_name_1: Wong Kar-Wai
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg
+  award_names:
+    - Hong Kong Film Awards
 - title: 'Ace Ventura: Pet Detective'
   year: 1994
   director: Tom Shadyac
@@ -12237,7 +12231,7 @@
   tmdb_url: https://www.themoviedb.org/movie/11134
   tmdb_title: 'Police Story 3: Super Cop'
   tmdb_original_title: 警察故事 III：超級警察
-  tmdb_original_language: cn
+  tmdb_original_language: Cantonese
   tmdb_director_name_1: Stanley Tong Gwai-Lai
   tmdb_director_name_2: null
   tmdb_num_directors: 1
@@ -12785,7 +12779,7 @@
   tmdb_url: https://www.themoviedb.org/movie/10753
   tmdb_title: Police Story 2
   tmdb_original_title: 警察故事續集
-  tmdb_original_language: cn
+  tmdb_original_language: Cantonese
   tmdb_director_name_1: Jackie Chan
   tmdb_director_name_2: null
   tmdb_num_directors: 1
@@ -12911,23 +12905,6 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/56vi7JCrVZuCqBPDVLzfO5fEQMr.jpg
   custom_korean_title: 영웅본색
-- title: Police Story
-  year: 1986
-  director: Jackie Chan
-  country: Hong Kong
-  is_korean_director: false
-  imdb_id: tt0089374
-  imdb_url: https://www.imdb.com/title/tt0089374
-  tmdb_url: https://www.themoviedb.org/movie/9056
-  tmdb_title: Police Story
-  tmdb_original_title: 警察故事
-  tmdb_original_language: cn
-  tmdb_director_name_1: Jackie Chan
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/h2wxvGUK0ops0R3A7AA1QSXGOqV.jpg
-  award_names:
-    - Hong Kong Film Awards
 - title: The Purple Rose of Cairo
   year: 1985
   director: Woody Allen
@@ -12973,6 +12950,22 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/5xRAqywVo6tNUNQbAESGVP930la.jpg
+- title: Police Story (警察故事)
+  year: 1985
+  director: Jackie Chan
+  is_korean_director: false
+  imdb_id: tt0089374
+  imdb_url: https://www.imdb.com/title/tt0089374
+  tmdb_url: https://www.themoviedb.org/movie/9056
+  tmdb_title: Police Story
+  tmdb_original_title: 警察故事
+  tmdb_original_language: Cantonese
+  tmdb_director_name_1: Jackie Chan
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/1eFB0Iy1TMU4VO5hMcoCE064JAT.jpg
+  award_names:
+    - Hong Kong Film Awards
 - title: Amadeus
   year: 1984
   director: Miloš Forman
