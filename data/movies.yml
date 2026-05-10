@@ -6319,6 +6319,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4ZuTrrDQhCS9f6KzIX6HfsjjyMd.jpg
+- title: Architecture 101 (건축학개론)
+  year: 2012
+  director: Lee Yong-ju
+  is_korean_director: false
+  imdb_id: tt2337981
+  imdb_url: https://www.imdb.com/title/tt2337981
+  tmdb_url: https://www.themoviedb.org/movie/107235
+  tmdb_title: Architecture 101
+  tmdb_original_title: 건축학개론
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Yong-ju
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/349EO3Wrvc2d9F58nyTR1Y1hl6r.jpg
+  custom_korean_title: 이용주
 - title: Zero Dark Thirty
   year: 2012
   director: Kathryn Bigelow
@@ -7880,6 +7895,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/buvZgMoiYVAmDmZ9o2qmPU7FCoO.jpg
+- title: '300'
+  year: 2007
+  director: Zack Snyder
+  is_korean_director: false
+  imdb_id: tt0416449
+  imdb_url: https://www.imdb.com/title/tt0416449
+  tmdb_url: https://www.themoviedb.org/movie/1271
+  tmdb_title: null
+  tmdb_original_title: '300'
+  tmdb_original_language: English
+  tmdb_director_name_1: Zack Snyder
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
 - title: Spider-Man 3
   year: 2007
   director: Sam Raimi
@@ -7939,6 +7968,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dFipUR6W0y3PPkuVS8gjFd929m2.jpg
+- title: May 18 (화려한 휴가)
+  year: 2007
+  director: Kim Ji-hoon
+  is_korean_director: false
+  imdb_id: tt0800341
+  imdb_url: https://www.imdb.com/title/tt0800341
+  tmdb_url: https://www.themoviedb.org/movie/58069
+  tmdb_title: May 18
+  tmdb_original_title: 화려한 휴가
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Ji-hoon
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/prfKmhgM3HiUSU1tfXvIw831iEA.jpg
+  custom_korean_title: 김지훈
 - title: Once
   year: 2007
   director: John Carney
@@ -8344,6 +8388,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vKGYCpmQyV9uHybWDzXuII8Los5.jpg
+- title: The Devil Wears Prada
+  year: 2006
+  director: David Frankel
+  is_korean_director: false
+  imdb_id: tt0458352
+  imdb_url: https://www.imdb.com/title/tt0458352
+  tmdb_url: https://www.themoviedb.org/movie/350
+  tmdb_title: null
+  tmdb_original_title: The Devil Wears Prada
+  tmdb_original_language: English
+  tmdb_director_name_1: David Frankel
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8912AsVuS7Sj915apArUFbv6F9L.jpg
 - title: The Prestige
   year: 2006
   director: Christopher Nolan
@@ -8852,6 +8910,20 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/93feGsGiCtG5ymrRcErUgBsdo6v.jpg
   custom_korean_title: 연인
+- title: Troy
+  year: 2004
+  director: Wolfgang Petersen
+  is_korean_director: false
+  imdb_id: tt0332452
+  imdb_url: https://www.imdb.com/title/tt0332452
+  tmdb_url: https://www.themoviedb.org/movie/652
+  tmdb_title: null
+  tmdb_original_title: Troy
+  tmdb_original_language: English
+  tmdb_director_name_1: Wolfgang Petersen
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/51auXjXepW1zblzhaN7CAhwvf5i.jpg
 - title: Spider-Man 2
   year: 2004
   director: Sam Raimi
@@ -8927,6 +8999,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg
+- title: Romance of Their Own (늑대의 유혹)
+  year: 2004
+  director: Kim Tae-gyun
+  is_korean_director: false
+  imdb_id: tt0416073
+  imdb_url: https://www.imdb.com/title/tt0416073
+  tmdb_url: https://www.themoviedb.org/movie/131979
+  tmdb_title: Romance of Their Own
+  tmdb_original_title: 늑대의 유혹
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Tae-gyun
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/jNoxMf8rAu4rau6fkUkL4nWB3i3.jpg
+  custom_korean_title: 김태균
 - title: Nobody Knows (아무도 모른다)
   year: 2004
   director: Hirokazu Koreeda
@@ -9114,6 +9201,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1qFZhxM7OMdKdD18bxim5xMFJyc.jpg
+- title: Bruce Almighty
+  year: 2003
+  director: Tom Shadyac
+  is_korean_director: false
+  imdb_id: tt0315327
+  imdb_url: https://www.imdb.com/title/tt0315327
+  tmdb_url: https://www.themoviedb.org/movie/310
+  tmdb_title: null
+  tmdb_original_title: Bruce Almighty
+  tmdb_original_language: English
+  tmdb_director_name_1: Tom Shadyac
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/3XJKBKh9Km89EoUEitVTSnrlAkZ.jpg
 - title: Big Fish
   year: 2003
   director: Tim Burton
@@ -9204,6 +9305,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg
+- title: Identity
+  year: 2003
+  director: James Mangold
+  is_korean_director: false
+  imdb_id: tt0309698
+  imdb_url: https://www.imdb.com/title/tt0309698
+  tmdb_url: https://www.themoviedb.org/movie/2832
+  tmdb_title: null
+  tmdb_original_title: Identity
+  tmdb_original_language: English
+  tmdb_director_name_1: James Mangold
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/sYgimsiBywqVwJI8H4sETke8m7v.jpg
 - title: Josee, the Tiger and the Fish
   year: 2003
   director: Isshin Inudo
@@ -9881,6 +9996,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4jS66Qmq2Ru5S2YzHVknGd4xJyT.jpg
+- title: Human Nature
+  year: 2001
+  director: Michel Gondry
+  is_korean_director: false
+  imdb_id: tt0219822
+  imdb_url: https://www.imdb.com/title/tt0219822
+  tmdb_url: https://www.themoviedb.org/movie/441
+  tmdb_title: null
+  tmdb_original_title: Human Nature
+  tmdb_original_language: English
+  tmdb_director_name_1: Michel Gondry
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/eyEgsPIwsr9bUV9n9INH46L5KuM.jpg
 - title: Mulholland Drive
   year: 2001
   director: David Lynch
@@ -10124,6 +10253,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/bnVby0qI0dS7YunbShP7mw68HY3.jpg
+- title: Truth Game (진실게임)
+  year: 2000
+  director: Kim Ki-young
+  is_korean_director: false
+  imdb_id: tt0314230
+  imdb_url: https://www.imdb.com/title/tt0314230
+  tmdb_url: https://www.themoviedb.org/movie/267409
+  tmdb_title: Truth Game
+  tmdb_original_title: 진실게임
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Ki-young
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/oA4ss1x1TL9Il2ctplB2iXgAOoO.jpg
+  custom_korean_title: 김기영
 - title: 'Mission: Impossible II'
   year: 2000
   director: John Woo
@@ -10169,6 +10313,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg
+- title: Mission to Mars
+  year: 2000
+  director: Brian De Palma
+  is_korean_director: false
+  imdb_id: tt0183523
+  imdb_url: https://www.imdb.com/title/tt0183523
+  tmdb_url: https://www.themoviedb.org/movie/2067
+  tmdb_title: null
+  tmdb_original_title: Mission to Mars
+  tmdb_original_language: English
+  tmdb_director_name_1: Brian De Palma
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/cTKWoBpN5Gvi0vpMb9mLtYlwXqT.jpg
 - title: Magnolia
   year: 1999
   director: Paul Thomas Anderson
@@ -10641,6 +10799,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg
+- title: The Barber of Siberia (Сибирский цирюльник)
+  year: 1998
+  director: Nikita Mikhalkov
+  is_korean_director: false
+  imdb_id: tt0120125
+  imdb_url: https://www.imdb.com/title/tt0120125
+  tmdb_url: https://www.themoviedb.org/movie/51300
+  tmdb_title: The Barber of Siberia
+  tmdb_original_title: Сибирский цирюльник
+  tmdb_original_language: Russian
+  tmdb_director_name_1: Nikita Mikhalkov
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/6sAm5HWkhjWo7xI0nZjeJTru6mP.jpg
 - title: Armageddon
   year: 1998
   director: Michael Bay
@@ -10656,6 +10828,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg
+- title: Art Museum by the Zoo (미술관 옆 동물원)
+  year: 1998
+  director: Lee Jeong-hyang
+  is_korean_director: false
+  imdb_id: tt0288621
+  imdb_url: https://www.imdb.com/title/tt0288621
+  tmdb_url: https://www.themoviedb.org/movie/125183
+  tmdb_title: Art Museum by the Zoo
+  tmdb_original_title: 미술관 옆 동물원
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Jeong-hyang
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/1Cm3YA42r1ydkmQkKV3ahsWOYzx.jpg
+  custom_korean_title: 이정향
 - title: After Life (원더풀 라이프)
   year: 1998
   director: Hirokazu Koreeda
@@ -10925,6 +11112,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gnK1ocpwUTj24zAktzomOJsD2bu.jpg
+- title: Good Will Hunting
+  year: 1997
+  director: Gus Van Sant
+  is_korean_director: false
+  imdb_id: tt0119217
+  imdb_url: https://www.imdb.com/title/tt0119217
+  tmdb_url: https://www.themoviedb.org/movie/489
+  tmdb_title: null
+  tmdb_original_title: Good Will Hunting
+  tmdb_original_language: English
+  tmdb_director_name_1: Gus Van Sant
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/z2FnLKpFi1HPO7BEJxdkv6hpJSU.jpg
 - title: Anna Karenina
   year: 1997
   director: Bernard Rose
@@ -11086,6 +11287,34 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lr9ZIrmuwVmZhpZuTCW8D9g0ZJe.jpg
+- title: 'Police Story 4: First Strike (警察故事4之簡單任務)'
+  year: 1996
+  director: Stanley Tong Gwai-Lai
+  is_korean_director: false
+  imdb_id: tt0116704
+  imdb_url: https://www.imdb.com/title/tt0116704
+  tmdb_url: https://www.themoviedb.org/movie/9404
+  tmdb_title: 'Police Story 4: First Strike'
+  tmdb_original_title: 警察故事4之簡單任務
+  tmdb_original_language: cn
+  tmdb_director_name_1: Stanley Tong Gwai-Lai
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/bRHbteT4IORJOXY0Qrnb4FPXRS0.jpg
+- title: Broken Arrow
+  year: 1996
+  director: John Woo
+  is_korean_director: false
+  imdb_id: tt0115759
+  imdb_url: https://www.imdb.com/title/tt0115759
+  tmdb_url: https://www.themoviedb.org/movie/9208
+  tmdb_title: null
+  tmdb_original_title: Broken Arrow
+  tmdb_original_language: English
+  tmdb_director_name_1: John Woo
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/iBPMwYYJFvdCBkXrwV75peo5Lz2.jpg
 - title: A Time to Kill
   year: 1996
   director: Joel Schumacher
@@ -11323,6 +11552,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gt3iyguaCIw8DpQZI1LIN5TohM2.jpg
+- title: 'Ace Ventura: When Nature Calls'
+  year: 1995
+  director: Steve Oedekerk
+  is_korean_director: false
+  imdb_id: tt0112281
+  imdb_url: https://www.imdb.com/title/tt0112281
+  tmdb_url: https://www.themoviedb.org/movie/9273
+  tmdb_title: null
+  tmdb_original_title: 'Ace Ventura: When Nature Calls'
+  tmdb_original_language: English
+  tmdb_director_name_1: Steve Oedekerk
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/wcinCf1ov2D6M3P7BBZkzQFOiIb.jpg
 - title: Love Letter
   year: 1995
   director: Shunji Iwai
@@ -11559,6 +11802,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/A8D7xLxLlr1HtvuLgEVSvG0sLdT.jpg
+- title: 'Ace Ventura: Pet Detective'
+  year: 1994
+  director: Tom Shadyac
+  is_korean_director: false
+  imdb_id: tt0109040
+  imdb_url: https://www.imdb.com/title/tt0109040
+  tmdb_url: https://www.themoviedb.org/movie/3049
+  tmdb_title: null
+  tmdb_original_title: 'Ace Ventura: Pet Detective'
+  tmdb_original_language: English
+  tmdb_director_name_1: Tom Shadyac
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/pqiRuETmuSybfnVZ7qyeoXhQyN1.jpg
 - title: Stargate
   year: 1994
   director: Roland Emmerich
@@ -11979,6 +12236,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg
+- title: 'Police Story 3: Super Cop (警察故事 III：超級警察)'
+  year: 1992
+  director: Stanley Tong Gwai-Lai
+  is_korean_director: false
+  imdb_id: tt0104558
+  imdb_url: https://www.imdb.com/title/tt0104558
+  tmdb_url: https://www.themoviedb.org/movie/11134
+  tmdb_title: 'Police Story 3: Super Cop'
+  tmdb_original_title: 警察故事 III：超級警察
+  tmdb_original_language: cn
+  tmdb_director_name_1: Stanley Tong Gwai-Lai
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/wHeJWZDXegVEiBGBfnc7LGffuF6.jpg
 - title: Far and Away
   year: 1992
   director: Ron Howard
@@ -12069,6 +12340,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uuitWHpJwxD1wruFl2nZHIb4UGN.jpg
+- title: Under Siege
+  year: 1992
+  director: Andrew Davis
+  is_korean_director: false
+  imdb_id: tt0105690
+  imdb_url: https://www.imdb.com/title/tt0105690
+  tmdb_url: https://www.themoviedb.org/movie/8845
+  tmdb_title: null
+  tmdb_original_title: Under Siege
+  tmdb_original_language: English
+  tmdb_director_name_1: Andrew Davis
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/myHxm9p8fhEsXyaLO6DawYJKolg.jpg
 - title: 'Terminator 2: Judgment Day'
   year: 1991
   director: James Cameron
@@ -12374,6 +12659,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/YBawEsTkUZBDajKbd5LiHkmMGf.jpg
+- title: Dead Poets Society
+  year: 1989
+  director: Peter Weir
+  is_korean_director: false
+  imdb_id: tt0097165
+  imdb_url: https://www.imdb.com/title/tt0097165
+  tmdb_url: https://www.themoviedb.org/movie/207
+  tmdb_title: null
+  tmdb_original_title: Dead Poets Society
+  tmdb_original_language: English
+  tmdb_director_name_1: Peter Weir
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/erzbMlcNHOdx24AXOcn2ZKA7R1q.jpg
 - title: Born On The Fourth Of July
   year: 1989
   director: Oliver Stone
@@ -12471,6 +12770,34 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/kLAMz50Or2So1aEzHYv0R8iXo46.jpg
+- title: Die Hard
+  year: 1988
+  director: John McTiernan
+  is_korean_director: false
+  imdb_id: tt0095016
+  imdb_url: https://www.imdb.com/title/tt0095016
+  tmdb_url: https://www.themoviedb.org/movie/562
+  tmdb_title: null
+  tmdb_original_title: Die Hard
+  tmdb_original_language: English
+  tmdb_director_name_1: John McTiernan
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/7Bjd8kfmDSOzpmhySpEhkUyK2oH.jpg
+- title: Police Story 2 (警察故事續集)
+  year: 1988
+  director: Jackie Chan
+  is_korean_director: false
+  imdb_id: tt0095403
+  imdb_url: https://www.imdb.com/title/tt0095403
+  tmdb_url: https://www.themoviedb.org/movie/10753
+  tmdb_title: Police Story 2
+  tmdb_original_title: 警察故事續集
+  tmdb_original_language: cn
+  tmdb_director_name_1: Jackie Chan
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/kjq1FXtHh9i2sIuM0JaoYf43FDU.jpg
 - title: Red Sorghum (붉은 수수밭)
   year: 1987
   director: Zhang Yimou
