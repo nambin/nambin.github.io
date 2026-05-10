@@ -444,6 +444,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/qMibLyArrlBJ87AoqQBeVaFeRXp.jpg
+  award_names:
+    - Venice Leone d’oro
+  awards:
+    - venice
 - title: All We Imagine as Light
   year: 2024
   director: Payal Kapadia
