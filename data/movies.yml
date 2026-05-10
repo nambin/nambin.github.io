@@ -45,8 +45,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/i38zFYpbBnWbqcRayu9F1n71yVT.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: One Battle After Another
   year: 2025
   director: Paul Thomas Anderson
@@ -62,8 +64,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/m1jFoahEbeQXtx4zArT2FKdbNIj.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: It Was Just an Accident
   year: 2025
   director: Jafar Panahi
@@ -79,8 +83,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/eNYGj2DG3n8OrVPTfYunpPW9uas.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Mickey 17
   year: 2025
   director: 봉준호
@@ -233,9 +239,12 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cgXk2tNYhJZLXdBDO5DidAVzQ82.jpg
   my_best: true
+  award_names:
+    - Cannes Palme d'Or
+    - Oscar Best Picture
   awards:
-  - oscar
-  - cannes
+    - cannes
+    - oscar
 - title: The Thinking Game
   year: 2024
   director: Greg Kohs
@@ -435,8 +444,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/kQs6keheMwCxJxrzV83VUwFtHkB.jpg
   masterpiece: true
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: The Old Oak
   year: 2023
   director: Ken Loach
@@ -469,8 +480,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/j8Jx4vpBG258jPxd4o0kOLDwTvm.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: '서울의 봄 (12.12: The Day)'
   year: 2023
   director: 김성수
@@ -486,8 +499,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vy14tKxsbJYdDyFl6kQuVkK2s44.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: Poor Things
   year: 2023
   director: Yorgos Lanthimos
@@ -503,8 +518,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/kCGlIMHnOm8JPXq3rXM6c5wMxcT.jpg
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: The Zone of Interest
   year: 2023
   director: Jonathan Glazer
@@ -520,8 +537,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/hUu9zyZmDd8VZegKi1iK1Vk0RYS.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: Oppenheimer
   year: 2023
   director: Christopher Nolan
@@ -537,8 +556,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 콘크리트 유토피아 (Concrete Utopia)
   year: 2023
   director: 엄태화
@@ -843,8 +864,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cvO51xxtIUHc5w5ZgFsigiFaUaO.jpg
   my_best: true
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: The Fabelmans
   year: 2022
   director: Steven Spielberg
@@ -924,8 +947,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/TDaXKGBqJUSbCQ9XjkrJs8GYuU.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: Triangle of Sadness
   year: 2022
   director: Ruben Östlund
@@ -941,8 +966,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/k9eLozCgCed5FGTSdHu0bBElAV8.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: All Quiet on the Western Front
   year: 2022
   director: Edward Berger
@@ -958,8 +985,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/2IRjbi9cADuDMKmHdLK7LaqQDKA.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: Everything Everywhere All at Once
   year: 2022
   director: Daniels
@@ -975,8 +1004,10 @@
   tmdb_director_name_2: Daniel Kwan
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/u68AjlvlutfEIcpmbYpKcdi09ut.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Alcarràs (알카라스의 여름)
   year: 2022
   director: Carla Simón
@@ -993,8 +1024,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/sbFVJZAvd7a7n2aHEUtOyrQtAKo.jpg
   custom_korean_title: 알카라스의 여름
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: 헌트
   year: 2022
   director: 이정재
@@ -1268,8 +1301,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/BzVjmm8l23rPsijLiNLUzuQtyd.jpg
   my_best: true
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Drive My Car
   year: 2021
   director: Ryusuke Hamaguchi
@@ -1286,8 +1321,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3cOsf5HBjPK2QCz9ebQlGHNnE7y.jpg
   my_best: true
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: Bad Luck Banging or Loony Porn
   year: 2021
   director: Radu Jude
@@ -1304,8 +1341,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/zUTkjET8VUwvbvSHtn0Lou7xwyZ.jpg
   my_best: true
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: Titane
   year: 2021
   director: Julia Ducournau
@@ -1322,8 +1361,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/AeQC4gFwkIvjAwnSd2RPAlgs1VE.jpg
   my_best: true
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: 모가디슈
   year: 2021
   director: 류승완
@@ -1339,8 +1380,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uZj357VwnONzHfQGBHpgDyw8uy6.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: L'événement (레벤느망)
   year: 2021
   director: Audrey Diwan
@@ -1357,8 +1400,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/f2lTAmLYpWpd8JxtJrMXFFGV9gZ.jpg
   custom_korean_title: 레벤느망
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: The French Dispatch
   year: 2021
   director: Wes Anderson
@@ -1677,9 +1722,12 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dKT8rGDR55cM1vGn7QZLA9Tg9YC.jpg
   my_best: true
+  award_names:
+    - Venice Leone d’oro
+    - Oscar Best Picture
   awards:
-  - oscar
-  - venice
+    - venice
+    - oscar
 - title: Undine
   year: 2020
   director: Christian Petzold
@@ -1727,8 +1775,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iWavVXt7U20Vu2v5jX5ABE3e6gV.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: Druk (Another Round)
   year: 2020
   director: Thomas Vinterberg
@@ -1744,8 +1794,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/aDcIt4NHURLKnAEu7gow51Yd00Q.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: 남매의 여름밤
   year: 2020
   director: 윤단비
@@ -1987,10 +2039,15 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/7IiTTgloJzvGI1TAYymCfbfl3vT.jpg
   masterpiece: true
+  award_names:
+    - 청룡영화제 최우수 작품상
+    - Cannes Palme d'Or
+    - Oscar Best Picture
+    - Oscar Best International Film
   awards:
-  - blue_dragon
-  - oscar
-  - cannes
+    - blue_dragon
+    - cannes
+    - oscar
 - title: Apollo 11
   year: 2019
   director: Todd Douglas Miller
@@ -2024,8 +2081,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg
   my_best: true
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: 윤희에게 (Moonlit Winter)
   year: 2019
   director: 임대형
@@ -2108,6 +2167,8 @@
   custom_korean_title: 소년 시절의 너
   my_best: true
   note: 하나의 삶. 당신뿐이었던 나날들.
+  award_names:
+    - Hong Kong Film Awards
 - title: Toy story 4
   year: 2019
   director: Josh Cooley
@@ -2517,6 +2578,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/pUc2ZaIxvPHROjT0Trd6tpSnTme.jpg
+  award_names:
+    - César Award for Best Film
 - title: Sorry We Missed You (미안해요 리키)
   year: 2019
   director: Ken Loach
@@ -2717,9 +2780,12 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dtIIyQyALk57ko5bjac7hi01YQ.jpg
+  award_names:
+    - Venice Leone d’oro
+    - Oscar Best International Film
   awards:
-  - oscar
-  - venice
+    - venice
+    - oscar
 - title: Green Book
   year: 2018
   director: Peter Farrelly
@@ -2735,8 +2801,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/7BsvSuDQuoqhWmU2fL7W2GOcZHU.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Shoplifters (어느 가족)
   year: 2018
   director: Hirokazu Koreeda
@@ -2753,8 +2821,11 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4nfRUOv3LX5zLn98WS1WqVBk9E9.jpg
   custom_korean_title: 어느 가족
+  award_names:
+    - Cannes Palme d'Or
+    - Japan Academy Prize
   awards:
-  - cannes
+    - cannes
 - title: 강변호텔
   year: 2018
   director: 홍상수
@@ -3025,6 +3096,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/fF2xXApETxZqyluokyJ1x4gIiTf.jpg
+  award_names:
+    - IIFA Awards
 - title: Us and Them (后来的我们, 먼 훗날 우리)
   year: 2018
   director: Liú Ruòyīng
@@ -3210,9 +3283,12 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/9zfwPffUXpBrEP26yp0q1ckXDcj.jpg
   my_best: true
+  award_names:
+    - Venice Leone d’oro
+    - Oscar Best Picture
   awards:
-  - oscar
-  - venice
+    - venice
+    - oscar
 - title: 풀잎들
   year: 2017
   director: 홍상수
@@ -3308,8 +3384,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iXVaWbxmyPk4KZGZk5GGDGFieMX.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: '1987'
   year: 2017
   director: 장준환
@@ -3325,8 +3403,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3KgL5KiGk8ABfMFHzGP2GnoH8sL.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: A Fantastic Woman
   year: 2017
   director: Sebastián Lelio
@@ -3342,8 +3422,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/x2yNruMR8bAJOIQ3wd7HR9qWjW3.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: The Square
   year: 2017
   director: Ruben Östlund
@@ -3359,8 +3441,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/pefcv5VNspSK4Dt8doei5bJmmln.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: On Body And Soul (우리는 같은 꿈을 꾼다)
   year: 2017
   director: Ildikó Enyedi
@@ -3377,8 +3461,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uguWEoZelSSckxgiQctlkZ6gpfU.jpg
   custom_korean_title: 우리는 같은 꿈을 꾼다
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: 남한산성
   year: 2017
   director: 황동혁
@@ -3820,6 +3906,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/xENc6UYviC3JfFqKA6kReHfT2Zt.jpg
+  award_names:
+    - Japan Academy Prize
 - title: A Ghost Story
   year: 2017
   director: David Lowery
@@ -3943,8 +4031,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/7brLGeVVlGjsv7HZ0GdSElne0Ts.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: I, Daniel Blake
   year: 2016
   director: Ken Loach
@@ -3960,8 +4050,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/nu3WVABXz2W85N6JXTZOT1aWS3b.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Moonlight
   year: 2016
   director: Barry Jenkins
@@ -3977,8 +4069,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/rcICfiL9fvwRjoWHxW8QeroLYrJ.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: The Salesman
   year: 2016
   director: Asghar Farhadi
@@ -3994,8 +4088,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/x4PIuYU5ZMMXiTrheNR8vCTYPBf.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: 밤의 해변에서 혼자
   year: 2016
   director: 홍상수
@@ -4282,6 +4378,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lpKIazNJncpV3sJ5MyTFS5tfTZk.jpg
+  award_names:
+    - César Award for Best Film
 - title: Personal Shopper
   year: 2016
   director: Olivier Assayas
@@ -4544,8 +4642,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/8DPGG400FgaFWaqcv11n8mRd2NG.jpg
   my_best: true
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Son of Saul
   year: 2015
   director: László Nemes
@@ -4562,8 +4662,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/9ZcX6NjCJam5uwkooXffhHI29Lj.jpg
   my_best: true
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: 지금은맞고그때는틀리다 (Right Now, Wrong Then)
   year: 2015
   director: 홍상수
@@ -4628,8 +4730,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/h4waWHgfIaqcFfMQ38aKDs6Pkw3.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: Dheepan
   year: 2015
   director: Jacques Audiard
@@ -4645,8 +4749,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/qNMjRNrIzvljInNLf3aLYZI3Ih4.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: 검은 사제들
   year: 2015
   director: 장재현
@@ -4874,6 +4980,8 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/x9A0AtEg5EEYbDGfP8NqH3C9w8M.jpg
   custom_korean_title: 바닷마을 다이어리
+  award_names:
+    - Japan Academy Prize
 - title: 'Mission: Impossible – Rogue Nation'
   year: 2015
   director: Christopher McQuarrie
@@ -4981,8 +5089,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dNCJgCCC97ABZ6yplyosNHI4Pjr.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: Birdman
   year: 2014
   director: Alejandro González Iñárritu
@@ -4998,8 +5108,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/rHUg2AuIuLSIYMYFgavVwqt1jtc.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 화장
   year: 2014
   director: 임권택
@@ -5289,8 +5401,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3uoCttE46RGHybiA26cXTvmFqbW.jpg
   masterpiece: true
   note: One answer to why someone should become a nun.
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: Blue Is the Warmest Color
   year: 2013
   director: Abdellatif Kechiche
@@ -5308,8 +5422,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/kgUk1wti2cvrptIgUz0VTAtSF6w.jpg
   masterpiece: true
   note: Adele, love.
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Gravity
   year: 2013
   director: Alfonso Cuarón
@@ -5357,8 +5473,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/xdANQijuNrJaw1HA61rDccME4Tm.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: The Great Beauty
   year: 2013
   director: Paolo Sorrentino
@@ -5374,8 +5492,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1cmOc3ZPkuCTOTqHEsRr3Pk81Um.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: 누구의 딸도 아닌 해원
   year: 2013
   director: 홍상수
@@ -5482,6 +5602,8 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ydBVVIscL6TsX5hYztA5YpBCwJ3.jpg
   custom_korean_title: 일대종사
+  award_names:
+    - Hong Kong Film Awards
 - title: Still Life
   year: 2013
   director: Uberto Pasolini
@@ -5679,9 +5801,12 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/19hyCudualHxCD0GrEngqsi0wBF.jpg
+  award_names:
+    - Cannes Palme d'Or
+    - Oscar Best International Film
   awards:
-  - oscar
-  - cannes
+    - cannes
+    - oscar
 - title: Caesar Must Die
   year: 2012
   director: Paolo Taviani, Vittorio Taviani
@@ -5697,8 +5822,10 @@
   tmdb_director_name_2: Paolo Taviani
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/jrtCezCf08Kuk1I9D14vy3ZmfA4.jpg
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: Argo
   year: 2012
   director: Ben Affleck
@@ -5714,8 +5841,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/m5gPWFZFIp4UJFABgWyLkbXv8GX.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 다른 나라에서
   year: 2012
   director: 홍상수
@@ -6064,9 +6193,12 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wQVvASmpm8jGhJBQU20OkoMcNzi.jpg
   masterpiece: true
   note: Irony, justice, sympathy, and us.
+  award_names:
+    - Berlin Goldener Bär
+    - Oscar Best International Film
   awards:
-  - oscar
-  - berlin
+    - berlin
+    - oscar
 - title: The Tree of Life
   year: 2011
   director: Terrence Malick
@@ -6084,8 +6216,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/l8cwuB5WJSoj4uMAsnzuHBOMaSJ.jpg
   masterpiece: true
   note: Memory, scar, and eternity.
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Midnight in Paris
   year: 2011
   director: Woody Allen
@@ -6149,8 +6283,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/f9K81eOUPHGiX78QHjfAxOMPMFP.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: The Artist
   year: 2011
   director: Michel Hazanavicius
@@ -6166,8 +6302,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/z68py0ZqPgeacGPG54AGVRbNBS7.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 도가니
   year: 2011
   director: 황동혁
@@ -6382,8 +6520,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uLU1Gwq8xLUjBax2JI4G2JC85ML.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: The King's Speech
   year: 2010
   director: Tom Hooper
@@ -6399,8 +6539,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/pVNKXVQFukBaCz6ML7GH3kiPlQP.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 옥희의 영화
   year: 2010
   director: 홍상수
@@ -6612,8 +6754,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/8oBnSkZE6GDVugAbLPO6uJd4GcS.jpg
   masterpiece: true
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: The Hurt Locker
   year: 2009
   director: Kathryn Bigelow
@@ -6630,8 +6774,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/m2duGsKjBOl3BB8uFOTnRUzdEhg.jpg
   my_best: true
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: The Secret in Their Eyes (El secreto de sus ojos)
   year: 2009
   director: Juan José Campanella
@@ -6648,8 +6794,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dkeAwfZzwL3WvToydE3CXiY80E0.jpg
   my_best: true
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: 여행자 (A Brand New Life)
   year: 2009
   director: Ounie Lecomte
@@ -6681,8 +6829,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/54dlnGDexrwAFlDb8HWKfmmX4LB.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: 전우치
   year: 2009
   director: 최동훈
@@ -6758,6 +6908,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/66A9MqXOyVFCssoloscw79z8Tew.jpg
+  award_names:
+    - IIFA Awards
 - title: District 9
   year: 2009
   director: Peter Jackson
@@ -6865,6 +7017,8 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/x9Jb8kewBHPzjTtgCQvoQoDsy4d.jpg
   custom_korean_title: 예언자
+  award_names:
+    - César Award for Best Film
 - title: The Dark Knight
   year: 2008
   director: Christopher Nolan
@@ -6960,8 +7114,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1higjJRk4JasUIieliZkKv5Dfjw.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: Departures (おくりびと, 굿바이)
   year: 2008
   director: Yōjirō Takita
@@ -6978,8 +7134,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/mms4nMZuPYOyEengRxCaEk7SXMd.jpg
   custom_korean_title: 굿바이
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: The Wrestler
   year: 2008
   director: Darren Aronofsky
@@ -6995,8 +7153,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/6OTR8dSoNGjWohJNo3UhIGd3Tj.jpg
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: Slumdog Millionaire
   year: 2008
   director: Danny Boyle
@@ -7012,8 +7172,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 님은 먼 곳에
   year: 2008
   director: 이준익
@@ -7303,8 +7465,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/6d5XOczc226jECq0LIX0siKtgHR.jpg
   masterpiece: true
   note: Fragility of life
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 밀양 (Secret Sunshine)
   year: 2007
   director: 이창동
@@ -7352,8 +7516,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/r32KWFc2jRItbAzHypGu9yHSfNs.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: 4 Months, 3 Weeks & 2 Days
   year: 2007
   director: Cristian Mungiu
@@ -7369,8 +7535,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/acEtvzFPeOQwbzRWncjRLenhnKV.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Lust, Caution
   year: 2007
   director: Ang Lee
@@ -7386,8 +7554,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/6c1tqfJEBuIyhQC19SLlLQAUAvJ.jpg
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: 행복
   year: 2007
   director: 허진호
@@ -7617,8 +7787,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/yCb4LweL6U7KTgSda3Wb7vHiA9J.jpg
   my_best: true
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Still Life
   year: 2006
   director: Jia Zhangke
@@ -7635,8 +7807,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/pJYBqUk9zZ3lotYo4711HqWh8QE.jpg
   my_best: true
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: 미녀는 괴로워
   year: 2006
   director: 김용화
@@ -7702,8 +7876,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dEDLY3KeghKFzks5nTDWdigVikr.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: The Departed
   year: 2006
   director: Martin Scorsese
@@ -7719,8 +7895,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/nT97ifVT2J1yMQmeq20Qblg61T.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: The Lives of Others (타인의 삶)
   year: 2006
   director: Florian Henckel von Donnersmarck
@@ -7737,8 +7915,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cVUDMnskSc01rdbyH0tLATTJUdP.jpg
   custom_korean_title: 타인의 삶
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: 중천
   year: 2006
   director: 조동오
@@ -7920,8 +8100,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/7F7Ozn0QpqkVvuv1kC2XpbuFvn9.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: The Child
   year: 2005
   director: Jean-Pierre Dardenne, Luc Dardenne
@@ -7937,8 +8119,10 @@
   tmdb_director_name_2: Jean-Pierre Dardenne
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dk7ZpsVKLt2nwjQZZIde0WP4oQV.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Brokeback Mountain
   year: 2005
   director: Ang Lee
@@ -7954,8 +8138,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/aByfQOQBNa4CMFwIgq3QrqY2ZHh.jpg
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: 외출
   year: 2005
   director: 허진호
@@ -8182,6 +8368,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/w4Y1WJMUP6w2hZo5FnQdZL3OWjN.jpg
+  award_names:
+    - César Award for Best Film
 - title: 'Star Wars: Episode III - Revenge of the Sith'
   year: 2005
   director: George Lucas
@@ -8290,8 +8478,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/jwE6cVIoJ4JP397yMGfBBpHMJmF.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: Million Dollar Baby
   year: 2004
   director: Clint Eastwood
@@ -8307,8 +8497,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/jcfEqKdWF1zeyvECPqp3mkWLct2.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 범죄의 재구성
   year: 2004
   director: 최동훈
@@ -8553,8 +8745,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/rCzpDGLbOoPwLjy3OAm5NUPOTrC.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 국화꽃 향기
   year: 2003
   director: 이정욱
@@ -8827,8 +9021,11 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg
+  award_names:
+    - Cannes Palme d'Or
+    - César Award for Best Film
   awards:
-  - cannes
+    - cannes
 - title: Chicago
   year: 2002
   director: Rob Marshall
@@ -8844,8 +9041,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3ED8cWCXY9zkx77Sd0N5qMbsdDP.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 생활의 발견
   year: 2002
   director: 홍상수
@@ -8937,6 +9136,8 @@
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gix9thDBXfjJ8M7rYbihqbQGBcP.jpg
   custom_korean_title: 무간도
+  award_names:
+    - Hong Kong Film Awards
 - title: Catch Me If You Can
   year: 2002
   director: Steven Spielberg
@@ -9058,6 +9259,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/nSxDa3M9aMvGVLoItzWTepQ5h5d.jpg
+  award_names:
+    - César Award for Best Film
 - title: The Son
   year: 2002
   director: Jean-Pierre Dardenne, Luc Dardenne
@@ -9164,8 +9367,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/p31oIzxbbUcbxvUDsD4VuC2chyS.jpg
   my_best: true
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: Artificial Intelligence
   year: 2001
   director: Steven Spielberg
@@ -9214,8 +9419,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/etoPOj0bXzfw0LBNslCxqO7MHuv.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: A Beautiful Mind
   year: 2001
   director: Ron Howard
@@ -9231,8 +9438,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/rEIg5yJdNOt9fmX4P8gU9LeNoTQ.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: The Son's Room
   year: 2001
   director: Nanni Moretti
@@ -9248,8 +9457,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/mUeDLodG63QSGBEGWDYZIsYjhok.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Spirited Away (센과 치히로의 행방불명)
   year: 2001
   director: Hayao Miyazaki
@@ -9266,8 +9477,11 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/39wmItIWsg5sZMyRUHLkWBcuVCM.jpg
   custom_korean_title: 센과 치히로의 행방불명
+  award_names:
+    - Berlin Goldener Bär
+    - Japan Academy Prize
   awards:
-  - berlin
+    - berlin
 - title: No Man's Land
   year: 2001
   director: Danis Tanović
@@ -9283,8 +9497,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/oTEmaYRKqWig5lhmwEQE0ZU3SRl.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: 나도 아내가 있었으면 좋겠다
   year: 2001
   director: 박흥식
@@ -9437,8 +9653,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/pWzOfTJRZHPNO1VNrMnNFqRcJwg.jpg
   masterpiece: true
   note: I won't watch Trier's movies anymore.
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Yi Yi (하나 그리고 둘)
   year: 2000
   director: Edward Yang
@@ -9471,8 +9689,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Hidden Dragon (와호장룡)
   year: 2000
   director: Ang Lee
@@ -9489,8 +9709,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iNDVBFNz4XyYzM9Lwip6atSTFqf.jpg
   custom_korean_title: 와호장룡
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: 오! 수정
   year: 2000
   director: 홍상수
@@ -9674,8 +9896,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/tpfC325Jk6S38VTe5dDWjWtoyxr.jpg
   masterpiece: true
   note: Agony of life.
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: The Matrix
   year: 1999
   director: The Wachowskis
@@ -9708,8 +9932,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wby9315QzVKdW9BonAefg8jGTTb.jpg
   my_best: true
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 인정사정 볼 것 없다
   year: 1999
   director: 이명세
@@ -9725,8 +9951,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/tHZsxxb4d9FdpVVrIngToNAPGlg.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: Rosetta
   year: 1999
   director: Jean-Pierre Dardenne, Luc Dardenne
@@ -9742,8 +9970,10 @@
   tmdb_director_name_2: Luc Dardenne
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/buwLjQPPA9FaATvKzeAppLXiGMB.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: 해피 엔드
   year: 1999
   director: 정지우
@@ -9882,6 +10112,8 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/nJJA9ZuTzEItugZ5wfT7Nh8xI5Q.jpg
   custom_korean_title: 철도원
+  award_names:
+    - Japan Academy Prize
 - title: Sleepy Hollow
   year: 1999
   director: Tim Burton
@@ -10017,8 +10249,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vCRcrz5zuQ9d8lgM3oEmgIqEe6b.jpg
+  award_names:
+    - 청룡영화제 최우수 작품상
   awards:
-  - blue_dragon
+    - blue_dragon
 - title: The Thin Red Line
   year: 1998
   director: Terrence Malick
@@ -10034,8 +10268,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/seMydAaoxQP6F0xbE1jOcTmn5Jr.jpg
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: Shakespeare in Love
   year: 1998
   director: John Madden
@@ -10051,8 +10287,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/zdW7jdzPi4J9KZR3TyY2jn3Xh5e.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 강원도의 힘
   year: 1998
   director: 홍상수
@@ -10175,8 +10413,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg
   masterpiece: true
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Boogie Nights
   year: 1997
   director: Paul Thomas Anderson
@@ -10208,8 +10448,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/mfnkSeeVOBVheuyn2lo4tfmOPQb.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: The Taste of Cherry
   year: 1997
   director: Abbas Kiarostami
@@ -10225,8 +10467,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/u6GYH4HyR0BVwpqFuTOc2g4KB1L.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: 접속
   year: 1997
   director: 장윤현
@@ -10439,8 +10683,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/zQBuRQ3hrLhkEsXcxteUxuxLrvs.jpg
   masterpiece: true
   note: Two best long-takes.
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: The Rock
   year: 1996
   director: Michael Bay
@@ -10472,8 +10718,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/8eHHqMg8qEYtVw8LQLygsHXSR2q.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: '아기공룡 둘리: 얼음별 대모험'
   year: 1996
   director: 김수정
@@ -10670,8 +10918,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/or1gBugydmjToAEq7OZY0owwFk.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Sense And Sensibility
   year: 1995
   director: Ang Lee
@@ -10687,8 +10937,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: Chungking Express (重慶森林, 중경삼림)
   year: 1995
   director: Wong Kar-wai
@@ -10705,6 +10957,8 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/43I9DcNoCzpyzK8JCkJYpHqHqGG.jpg
   custom_korean_title: 중경삼림
+  award_names:
+    - Hong Kong Film Awards
 - title: Outbreak
   year: 1995
   director: Wolfgang Petersen
@@ -10947,8 +11201,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/saHP97rTPS5eLmrLQEcANmKrsFl.jpg
   my_best: true
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Little Women
   year: 1994
   director: Gillian Armstrong
@@ -10980,8 +11236,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: 지리멸렬 (Incoherence)
   year: 1994
   director: 봉준호
@@ -11179,8 +11437,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 'Three Colours: Blue'
   year: 1993
   director: Krzysztof Kieślowski
@@ -11196,8 +11456,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/33wsWxzsNstI8N7dvuwzFmj1qBd.jpg
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: The Wedding Banquet
   year: 1993
   director: Ang Lee
@@ -11213,8 +11475,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/arWCA8lg0rbdlwHUMvI46LNDhnL.jpg
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: 투캅스
   year: 1993
   director: 강우석
@@ -11352,8 +11616,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/sAemRfr6mOSwtQ76e4yUQVImo8B.jpg
   my_best: true
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: Farewell My Concubine (패왕별희)
   year: 1992
   director: Chen Kaige
@@ -11371,8 +11637,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ySf9I93w6kJiaEb2T4zpoQjY8PR.jpg
   custom_korean_title: 패왕별희
   my_best: true
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Unforgiven
   year: 1992
   director: Clint Eastwood
@@ -11388,8 +11656,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/54roTwbX9fltg85zjsmrooXAs12.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Batman Returns
   year: 1992
   director: Tim Burton
@@ -11543,8 +11813,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: The Double Life of Veronique (베로니카의 이중생활)
   year: 1991
   director: Krzysztof Kieślowski
@@ -11610,8 +11882,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uLUFI5sJIfWrBUWB2Y1dEuyvvVy.jpg
   my_best: true
   note: David Linch's love.
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Dances with Wolves
   year: 1990
   director: Kevin Costner
@@ -11627,8 +11901,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Days Of Thunder (폭풍의 질주)
   year: 1990
   director: Tony Scott
@@ -11707,8 +11983,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/pj1uKm07svgXZDHbYE8AzRfNHcu.jpg
   my_best: true
   note: Prelude of American Beauty.
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Rain Man
   year: 1989
   director: Barry Levinson
@@ -11724,9 +12002,12 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iTNHwO896WKkaoPtpMMS74d8VNi.jpg
+  award_names:
+    - Berlin Goldener Bär
+    - Oscar Best Picture
   awards:
-  - oscar
-  - berlin
+    - berlin
+    - oscar
 - title: Batman
   year: 1989
   director: Tim Burton
@@ -11788,6 +12069,8 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/eGgg6qufHcMHrKvG3eoPhCEVDnI.jpg
   custom_korean_title: 내겐 너무 이쁜 당신
+  award_names:
+    - César Award for Best Film
 - title: Cinema Paradiso
   year: 1988
   director: Giuseppe Tornatore
@@ -11803,8 +12086,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gCI2AeMV4IHSewhJkzsur5MEp6R.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: Cocktail
   year: 1988
   director: Roger Donaldson
@@ -11866,8 +12151,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/2CP2eazEBKJ3njm4HM63pMfs5tW.jpg
   custom_korean_title: 붉은 수수밭
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: The Green Ray
   year: 1986
   director: Éric Rohmer
@@ -11884,8 +12171,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/aYC5smQFaKpBrgJ3XsJ0aAmiD1A.jpg
   my_best: true
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: 9½ Weeks
   year: 1986
   director: Adrian Lyne
@@ -11917,8 +12206,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/6K9cG6LOOtySZF4D4xBu1MApC1N.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Top Gun
   year: 1986
   director: Tony Scott
@@ -11980,6 +12271,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/h2wxvGUK0ops0R3A7AA1QSXGOqV.jpg
+  award_names:
+    - Hong Kong Film Awards
 - title: The Purple Rose of Cairo
   year: 1985
   director: Woody Allen
@@ -12041,8 +12334,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg
   masterpiece: true
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Once Upon a Time in America
   year: 1984
   director: Sergio Leone
@@ -12090,8 +12385,11 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/h3iNimtw6HsFTtAvEDF3XYZ4Y5T.jpg
   custom_korean_title: 나라야마 부시코
   my_best: true
+  award_names:
+    - Cannes Palme d'Or
+    - Japan Academy Prize
   awards:
-  - cannes
+    - cannes
 - title: 'First Name: Carmen (Prénom Carmen, 미녀 갱 카르멘)'
   year: 1983
   director: Jean-Luc Godard
@@ -12108,8 +12406,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/g9Vsu3uoVXgL3Pt2tdC8B2xAbGd.jpg
   custom_korean_title: 미녀 갱 카르멘
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: Pauline at the Beach
   year: 1983
   director: Éric Rohmer
@@ -12157,8 +12457,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/q8jlA3Wc1Z987hNKRFA44g5OugC.jpg
   my_best: true
   note: Personal monologue of Ingmar Bergman.
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: An Officer and a Gentleman
   year: 1982
   director: Taylor Hackford
@@ -12190,8 +12492,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/rOXftt7SluxskrFrvU7qFJa5zeN.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: E.T. the Extra-Terrestrial
   year: 1982
   director: Steven Spielberg
@@ -12314,8 +12618,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gQB8Y5RCMkv2zwzFHbUJX3kAhvA.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Annie Hall
   year: 1977
   director: Woody Allen
@@ -12331,8 +12637,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gBo4G0p8iVS998aYvXS656jbsH2.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Close Encounters of the Third Kind
   year: 1977
   director: Steven Spielberg
@@ -12393,8 +12701,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ekstpH614fwDX8DUln1a2Opz0N8.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: One Flew Over the Cuckoo's Nest
   year: 1975
   director: Miloš Forman
@@ -12410,8 +12720,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/kjWsMh72V6d8KRLV4EOoSJLT1H7.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: 'The Godfather: Part II'
   year: 1974
   director: Francis Ford Coppola
@@ -12427,8 +12739,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/hek3koDUyRQk7FIhPXsa6mT2Zc3.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: The Discreet Charm of the Bourgoisie (부르주아의 은밀한 매력)
   year: 1972
   director: Luis Buñuel
@@ -12445,8 +12759,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/zN4ILX2x64PvT2jIOAHXxCOi5WA.jpg
   custom_korean_title: 부르주아의 은밀한 매력
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: The Godfather
   year: 1972
   director: Francis Ford Coppola
@@ -12462,8 +12778,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3bhkrj58Vtu7enYsRolD1fZdja1.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Solaris
   year: 1972
   director: Andrei Tarkovsky
@@ -12558,8 +12876,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iUAFECovwPA0cVV9bo4uNGLJSGL.jpg
   custom_korean_title: 세브린느
   my_best: true
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: The Graduate
   year: 1967
   director: Mike Nichols
@@ -12590,8 +12910,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/2p3AFtOHFvP6OeVMqlnL1zLKOqL.jpg
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: The Good, The Bad, and The Ugly
   year: 1966
   director: Sergio Leone
@@ -12638,8 +12960,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/c6CrUZypAsBCaRWX0M3RVRDbhNS.jpg
   masterpiece: true
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Pierrot le fou (미치광이 삐에로)
   year: 1965
   director: Jean-Luc Godard
@@ -12675,8 +12999,10 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/tAgTf64XKK5ir7w5C7dnB53jWWG.jpg
   masterpiece: true
   note: Why is absence so hard to bear.
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: My Fair Lady
   year: 1964
   director: George Cukor
@@ -12692,8 +13018,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/bTXVc29lGSNclf94VIZ49W4gGKl.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Dr. Strangelove
   year: 1964
   director: Stanley Kubrick
@@ -12703,8 +13031,7 @@
   imdb_url: https://www.imdb.com/title/tt0057012
   tmdb_url: https://www.themoviedb.org/movie/935
   tmdb_title: null
-  tmdb_original_title: 'Dr. Strangelove or: How I Learned to Stop Worrying and Love
-    the Bomb'
+  tmdb_original_title: 'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb'
   tmdb_original_language: English
   tmdb_director_name_1: Stanley Kubrick
   tmdb_director_name_2: null
@@ -12756,8 +13083,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/d7wXtJ173oHtoCwxbe7Z5uXZ4Gv.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: Vivre Sa Vie (To Live Her Life)
   year: 1962
   director: Jean-Luc Godard
@@ -12790,8 +13119,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vmRWSLP1DE9WTta0hfzIafJ0dID.jpg
+  award_names:
+    - Venice Leone d’oro
   awards:
-  - venice
+    - venice
 - title: El Ángel exterminador (절멸의 천사)
   year: 1962
   director: Luis Buñuel
@@ -12930,8 +13261,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/j5kFu864CgS5WGG0SYVbRVrhuWk.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: The 400 Blows (400번의 구타)
   year: 1959
   director: François Truffaut
@@ -12979,8 +13312,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg
   masterpiece: true
+  award_names:
+    - Berlin Goldener Bär
   awards:
-  - berlin
+    - berlin
 - title: Love in the Afternoon (하오의 연정)
   year: 1957
   director: Billy Wilder
@@ -13058,9 +13393,12 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/8tnGO5VoAQII4DbE3hozWKhV4BY.jpg
   my_best: true
+  award_names:
+    - Cannes Palme d'Or
+    - Oscar Best Picture
   awards:
-  - oscar
-  - cannes
+    - cannes
+    - oscar
 - title: Rebel Without a Cause
   year: 1955
   director: Nicholas Ray
@@ -13170,9 +13508,12 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/nby91GNVXQAv1NmKvqlpEEdhcMQ.jpg
   custom_korean_title: 금지된 장난
+  award_names:
+    - Venice Leone d’oro
+    - Oscar Best International Film
   awards:
-  - oscar
-  - venice
+    - venice
+    - oscar
 - title: Singin' in the Rain
   year: 1952
   director: Gene Kelly, Stanley Donen
@@ -13203,9 +13544,12 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vL7Xw04nFMHwnvXRFCmYYAzMUvY.jpg
+  award_names:
+    - Venice Leone d’oro
+    - Oscar Best International Film
   awards:
-  - oscar
-  - venice
+    - venice
+    - oscar
 - title: 晩春 (만춘)
   year: 1949
   director: Yasujirō Ozu
@@ -13253,8 +13597,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/abmxGiCV04NQj4jngbSQTGLgiC1.jpg
+  award_names:
+    - Oscar Best International Film
   awards:
-  - oscar
+    - oscar
 - title: The Red Shoes
   year: 1948
   director: Michael Powell and Emeric Pressburger
@@ -13301,8 +13647,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/jC9EwLJcGhYMSQAHu2LxkKN5v7O.jpg
+  award_names:
+    - Cannes Palme d'Or
   awards:
-  - cannes
+    - cannes
 - title: Casablanca
   year: 1942
   director: Michael Curtiz
@@ -13318,8 +13666,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/oyGRZVIthHJjc98ekKpeWpDh8Ws.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: How Green Was My Valley
   year: 1941
   director: John Ford
@@ -13335,8 +13685,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/8N7OmxBqjRVUrqergUduGgr6exy.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Citizen Kane
   year: 1941
   director: Orson Welles
@@ -13367,8 +13719,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1qz3qUOHnVy7dL7M7G8jSErxE4b.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: Pinocchio
   year: 1940
   director: Ben Sharpsteen, Hamilton Luske
@@ -13431,8 +13785,10 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lNz2Ow0wGCAvzckW7EOjE03KcYv.jpg
+  award_names:
+    - Oscar Best Picture
   awards:
-  - oscar
+    - oscar
 - title: The Rules of the Game
   year: 1939
   director: Jean Renoir
