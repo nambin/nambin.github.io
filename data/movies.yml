@@ -1,3 +1,17 @@
+- title: The King's Warden (왕과 사는 남자)
+  year: 2026
+  director: 장항준
+  is_korean_director: true
+  imdb_id: tt38626703
+  imdb_url: https://www.imdb.com/title/tt38626703
+  tmdb_url: https://www.themoviedb.org/movie/1321179
+  tmdb_title: The King's Warden
+  tmdb_original_title: 왕과 사는 남자
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Chang Hang-jun
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg
 - title: Project Hail Mary
   year: 2026
   director: Phil Lord
@@ -12,25 +26,10 @@
   tmdb_director_name_2: Christopher Miller
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg
-- title: The King's Warden (왕과 사는 남자)
-  year: 2026
-  director: Chang Hang-jun
-  is_korean_director: false
-  imdb_id: tt38626703
-  imdb_url: https://www.imdb.com/title/tt38626703
-  tmdb_url: https://www.themoviedb.org/movie/1321179
-  tmdb_title: The King's Warden
-  tmdb_original_title: 왕과 사는 남자
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Chang Hang-jun
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg
-  custom_korean_title: 장항준
 - title: The World of Love (세계의 주인)
   year: 2025
-  director: Yoon Ga-eun
-  is_korean_director: false
+  director: 윤가은
+  is_korean_director: true
   imdb_id: tt37661885
   imdb_url: https://www.imdb.com/title/tt37661885
   tmdb_url: https://www.themoviedb.org/movie/1317512
@@ -41,7 +40,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cg679vCkXY9RH2iINLvdG68tzsQ.jpg
-  custom_korean_title: 윤가은
   my_best: true
 - title: The Wizard of Oz at Sphere
   year: 2025
@@ -181,6 +179,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/edKpE9B5qN3e559OuMCLZdW1iBZ.jpg
+- title: Good News (굿뉴스)
+  year: 2025
+  director: 변상현
+  is_korean_director: true
+  imdb_id: tt33550069
+  imdb_url: https://www.imdb.com/title/tt33550069
+  tmdb_url: https://www.themoviedb.org/movie/1296404
+  tmdb_title: Good News
+  tmdb_original_title: 굿뉴스
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Byun Sung-hyun
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/uA3o8q7JTym6lUM8pnITwQDfvhO.jpg
 - title: 승부
   year: 2025
   director: 김형주
@@ -302,21 +314,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg
-- title: Good News (굿뉴스)
-  year: 2025
-  director: Byun Sung-hyun
-  is_korean_director: false
-  imdb_id: tt33550069
-  imdb_url: https://www.imdb.com/title/tt33550069
-  tmdb_url: https://www.themoviedb.org/movie/1296404
-  tmdb_title: Good News
-  tmdb_original_title: 굿뉴스
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Byun Sung-hyun
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/uA3o8q7JTym6lUM8pnITwQDfvhO.jpg
-  custom_korean_title: 변상현
 - title: Anora
   year: 2024
   director: Sean Baker
@@ -6138,6 +6135,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/rbxlxwD0YEK31Fm0QUqDlUo6HZx.jpg
+- title: Architecture 101 (건축학개론)
+  year: 2012
+  director: 이용주
+  is_korean_director: true
+  imdb_id: tt2337981
+  imdb_url: https://www.imdb.com/title/tt2337981
+  tmdb_url: https://www.themoviedb.org/movie/107235
+  tmdb_title: Architecture 101
+  tmdb_original_title: 건축학개론
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Yong-ju
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/349EO3Wrvc2d9F58nyTR1Y1hl6r.jpg
 - title: '범죄와의 전쟁: 나쁜놈들 전성시대'
   year: 2012
   director: 윤종빈
@@ -6319,21 +6330,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4ZuTrrDQhCS9f6KzIX6HfsjjyMd.jpg
-- title: Architecture 101 (건축학개론)
-  year: 2012
-  director: Lee Yong-ju
-  is_korean_director: false
-  imdb_id: tt2337981
-  imdb_url: https://www.imdb.com/title/tt2337981
-  tmdb_url: https://www.themoviedb.org/movie/107235
-  tmdb_title: Architecture 101
-  tmdb_original_title: 건축학개론
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Lee Yong-ju
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/349EO3Wrvc2d9F58nyTR1Y1hl6r.jpg
-  custom_korean_title: 이용주
 - title: Zero Dark Thirty
   year: 2012
   director: Kathryn Bigelow
@@ -7895,6 +7891,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/buvZgMoiYVAmDmZ9o2qmPU7FCoO.jpg
+- title: May 18 (화려한 휴가)
+  year: 2007
+  director: 김지훈
+  is_korean_director: true
+  imdb_id: tt0800341
+  imdb_url: https://www.imdb.com/title/tt0800341
+  tmdb_url: https://www.themoviedb.org/movie/58069
+  tmdb_title: May 18
+  tmdb_original_title: 화려한 휴가
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Ji-hoon
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/prfKmhgM3HiUSU1tfXvIw831iEA.jpg
 - title: '300'
   year: 2007
   director: Zack Snyder
@@ -7968,21 +7978,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dFipUR6W0y3PPkuVS8gjFd929m2.jpg
-- title: May 18 (화려한 휴가)
-  year: 2007
-  director: Kim Ji-hoon
-  is_korean_director: false
-  imdb_id: tt0800341
-  imdb_url: https://www.imdb.com/title/tt0800341
-  tmdb_url: https://www.themoviedb.org/movie/58069
-  tmdb_title: May 18
-  tmdb_original_title: 화려한 휴가
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Kim Ji-hoon
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/prfKmhgM3HiUSU1tfXvIw831iEA.jpg
-  custom_korean_title: 김지훈
 - title: Once
   year: 2007
   director: John Carney
@@ -8894,6 +8889,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/yjLps4IPgtzoGahlPnyiM0tI5G8.jpg
+- title: Romance of Their Own (늑대의 유혹)
+  year: 2004
+  director: 김태균
+  is_korean_director: true
+  imdb_id: tt0416073
+  imdb_url: https://www.imdb.com/title/tt0416073
+  tmdb_url: https://www.themoviedb.org/movie/131979
+  tmdb_title: Romance of Their Own
+  tmdb_original_title: 늑대의 유혹
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Tae-gyun
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/jNoxMf8rAu4rau6fkUkL4nWB3i3.jpg
 - title: House of Flying Daggers (연인)
   year: 2004
   director: Zhang Yimou
@@ -8999,21 +9008,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg
-- title: Romance of Their Own (늑대의 유혹)
-  year: 2004
-  director: Kim Tae-gyun
-  is_korean_director: false
-  imdb_id: tt0416073
-  imdb_url: https://www.imdb.com/title/tt0416073
-  tmdb_url: https://www.themoviedb.org/movie/131979
-  tmdb_title: Romance of Their Own
-  tmdb_original_title: 늑대의 유혹
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Kim Tae-gyun
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/jNoxMf8rAu4rau6fkUkL4nWB3i3.jpg
-  custom_korean_title: 김태균
 - title: Nobody Knows (아무도 모른다)
   year: 2004
   director: Hirokazu Koreeda
@@ -10192,6 +10186,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/9RPnTl5ib2q5u8nbUPeQPwoP2fB.jpg
+- title: Truth Game (진실게임)
+  year: 2000
+  director: 김기영
+  is_korean_director: true
+  imdb_id: tt0314230
+  imdb_url: https://www.imdb.com/title/tt0314230
+  tmdb_url: https://www.themoviedb.org/movie/267409
+  tmdb_title: Truth Game
+  tmdb_original_title: 진실게임
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Ki-young
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/oA4ss1x1TL9Il2ctplB2iXgAOoO.jpg
 - title: In the Mood for Love (花樣年華, 화양연화)
   year: 2000
   director: Wong Kar-wai
@@ -10253,21 +10261,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/bnVby0qI0dS7YunbShP7mw68HY3.jpg
-- title: Truth Game (진실게임)
-  year: 2000
-  director: Kim Ki-young
-  is_korean_director: false
-  imdb_id: tt0314230
-  imdb_url: https://www.imdb.com/title/tt0314230
-  tmdb_url: https://www.themoviedb.org/movie/267409
-  tmdb_title: Truth Game
-  tmdb_original_title: 진실게임
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Kim Ki-young
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/oA4ss1x1TL9Il2ctplB2iXgAOoO.jpg
-  custom_korean_title: 김기영
 - title: 'Mission: Impossible II'
   year: 2000
   director: John Woo
@@ -10769,6 +10762,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/sPBIVLDKAb1lROUyu2MtLxPZhan.jpg
+- title: Art Museum by the Zoo (미술관 옆 동물원)
+  year: 1998
+  director: 이정향
+  is_korean_director: true
+  imdb_id: tt0288621
+  imdb_url: https://www.imdb.com/title/tt0288621
+  tmdb_url: https://www.themoviedb.org/movie/125183
+  tmdb_title: Art Museum by the Zoo
+  tmdb_original_title: 미술관 옆 동물원
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Jeong-hyang
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/1Cm3YA42r1ydkmQkKV3ahsWOYzx.jpg
 - title: 약속
   year: 1998
   director: 김유진
@@ -10828,21 +10835,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg
-- title: Art Museum by the Zoo (미술관 옆 동물원)
-  year: 1998
-  director: Lee Jeong-hyang
-  is_korean_director: false
-  imdb_id: tt0288621
-  imdb_url: https://www.imdb.com/title/tt0288621
-  tmdb_url: https://www.themoviedb.org/movie/125183
-  tmdb_title: Art Museum by the Zoo
-  tmdb_original_title: 미술관 옆 동물원
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Lee Jeong-hyang
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/1Cm3YA42r1ydkmQkKV3ahsWOYzx.jpg
-  custom_korean_title: 이정향
 - title: After Life (원더풀 라이프)
   year: 1998
   director: Hirokazu Koreeda
