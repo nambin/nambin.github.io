@@ -127,6 +127,24 @@
     - Oscar Best Picture
   awards:
     - oscar
+- title: Sentimental Value (Affeksjonsverdi)
+  year: 2025
+  director: Joachim Trier
+  is_korean_director: false
+  imdb_id: tt27714581
+  imdb_url: https://www.imdb.com/title/tt27714581
+  tmdb_url: https://www.themoviedb.org/movie/1124566
+  tmdb_title: Sentimental Value
+  tmdb_original_title: Affeksjonsverdi
+  tmdb_original_language: Norwegian
+  tmdb_director_name_1: Joachim Trier
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg
+  award_names:
+    - Oscar Best International Film
+  awards:
+    - oscar
 - title: Father Mother Sister Brother
   year: 2025
   director: Jim Jarmusch
@@ -384,6 +402,24 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vP7Yd6couiAaw9jgMd5cjMRj3hQ.jpg
   my_best: true
+- title: I'm Still Here (Ainda Estou Aqui)
+  year: 2024
+  director: Walter Salles
+  is_korean_director: false
+  imdb_id: tt14961016
+  imdb_url: https://www.imdb.com/title/tt14961016
+  tmdb_url: https://www.themoviedb.org/movie/1000837
+  tmdb_title: I'm Still Here
+  tmdb_original_title: Ainda Estou Aqui
+  tmdb_original_language: Portuguese
+  tmdb_director_name_1: Walter Salles
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg
+  award_names:
+    - Oscar Best International Film
+  awards:
+    - oscar
 - title: The Room Next Door
   year: 2024
   director: Pedro Almodóvar
@@ -418,6 +454,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/eDimH4UKv1qsXdnFePXuDZb3cA4.jpg
+- title: A Normal Family (보통의 가족)
+  year: 2024
+  director: 허진호
+  is_korean_director: true
+  imdb_id: tt28488187
+  imdb_url: https://www.imdb.com/title/tt28488187
+  tmdb_url: https://www.themoviedb.org/movie/973628
+  tmdb_title: A Normal Family
+  tmdb_original_title: 보통의 가족
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Hur Jin-ho
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/6oKxIHM08TRkv7QCpi9cqHU1q9F.jpg
 - title: 하얼빈
   year: 2024
   director: 우민호
@@ -536,6 +586,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vYEyxF1UT779RiEalpMjUT6kfdf.jpg
+- title: The Substance
+  year: 2024
+  director: Coralie Fargeat
+  is_korean_director: false
+  imdb_id: tt17526714
+  imdb_url: https://www.imdb.com/title/tt17526714
+  tmdb_url: https://www.themoviedb.org/movie/933260
+  tmdb_title: null
+  tmdb_original_title: The Substance
+  tmdb_original_language: English
+  tmdb_director_name_1: Coralie Fargeat
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/lqoMzCcZYEFK729d6qzt349fB4o.jpg
 - title: Miséricorde
   year: 2024
   director: Alain Guiraudie
@@ -866,6 +930,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cecXXWJ5YINoUFPU8tMMUqz0yqG.jpg
+- title: The Boy and the Heron (君たちはどう生きるか)
+  year: 2023
+  director: Hayao Miyazaki
+  is_korean_director: false
+  imdb_id: tt6587046
+  imdb_url: https://www.imdb.com/title/tt6587046
+  tmdb_url: https://www.themoviedb.org/movie/508883
+  tmdb_title: The Boy and the Heron
+  tmdb_original_title: 君たちはどう生きるか
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Hayao Miyazaki
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/f4oZTcfGrVTXKTWg157AwikXqmP.jpg
 - title: Barbie
   year: 2023
   director: Greta Gerwig
@@ -1411,6 +1489,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/evKz85EKouVbIr51zy5fOtpNRPg.jpg
+- title: Elvis
+  year: 2022
+  director: Baz Luhrmann
+  is_korean_director: false
+  imdb_id: tt3704428
+  imdb_url: https://www.imdb.com/title/tt3704428
+  tmdb_url: https://www.themoviedb.org/movie/614934
+  tmdb_title: null
+  tmdb_original_title: Elvis
+  tmdb_original_language: English
+  tmdb_director_name_1: Baz Luhrmann
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg
 - title: Coda
   year: 2021
   director: Sian Heder
@@ -1941,6 +2033,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4xGGZ1jSZrALukTwKs1qOICz7n2.jpg
+- title: Beasts Clawing at Straws (지푸라기라도 잡고 싶은 짐승들)
+  year: 2020
+  director: 김용훈
+  is_korean_director: true
+  imdb_id: tt9747594
+  imdb_url: https://www.imdb.com/title/tt9747594
+  tmdb_url: https://www.themoviedb.org/movie/571648
+  tmdb_title: Beasts Clawing at Straws
+  tmdb_original_title: 지푸라기라도 잡고 싶은 짐승들
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Yong-hoon
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/lO4hjVBxrVtMmupGraIR3c7Jq1Q.jpg
 - title: It’s a Summer Film!
   year: 2020
   director: Soushi Matsumoto
@@ -3334,6 +3440,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/mk9Kuqtdvs2bxsBTLhAMOg8XI1l.jpg
+- title: Bohemian Rhapsody
+  year: 2018
+  director: Bryan Singer
+  is_korean_director: false
+  imdb_id: tt1727824
+  imdb_url: https://www.imdb.com/title/tt1727824
+  tmdb_url: https://www.themoviedb.org/movie/424694
+  tmdb_title: null
+  tmdb_original_title: Bohemian Rhapsody
+  tmdb_original_language: English
+  tmdb_director_name_1: Bryan Singer
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg
 - title: Long Day's Journey into Night (지구 최후의 밤)
   year: 2018
   director: Bi Gan
@@ -6631,6 +6751,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cRw9czK3hOnNenW1iVVpGM3kbn7.jpg
+- title: Bleak Night (파수꾼)
+  year: 2011
+  director: 윤성현
+  is_korean_director: true
+  imdb_id: tt1836099
+  imdb_url: https://www.imdb.com/title/tt1836099
+  tmdb_url: https://www.themoviedb.org/movie/74092
+  tmdb_title: Bleak Night
+  tmdb_original_title: 파수꾼
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Yoon Sung-hyun
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/6vpSXK8tAbwlfow5EpYqPnAI30i.jpg
 - title: 퍼펙트 게임
   year: 2011
   director: 박희곤
@@ -6753,6 +6887,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4yIQq1e6iOcaZ5rLDG3lZBP3j7a.jpg
+- title: The Descendants
+  year: 2011
+  director: Alexander Payne
+  is_korean_director: false
+  imdb_id: tt1033575
+  imdb_url: https://www.imdb.com/title/tt1033575
+  tmdb_url: https://www.themoviedb.org/movie/65057
+  tmdb_title: null
+  tmdb_original_title: The Descendants
+  tmdb_original_language: English
+  tmdb_director_name_1: Alexander Payne
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8cDq5UlOPYeKm39okALCEOsZPxk.jpg
 - title: Another Year
   year: 2010
   director: Mike Leigh
@@ -6958,6 +7106,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/oBhnI8UZQzTkAH1LMEtrBUmfpjS.jpg
+- title: Eat Pray Love
+  year: 2010
+  director: Ryan Murphy
+  is_korean_director: false
+  imdb_id: tt0879870
+  imdb_url: https://www.imdb.com/title/tt0879870
+  tmdb_url: https://www.themoviedb.org/movie/38167
+  tmdb_title: null
+  tmdb_original_title: Eat Pray Love
+  tmdb_original_language: English
+  tmdb_director_name_1: Ryan Murphy
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/gjR5zUeMGV6UNqtI0OuzqrLQcjU.jpg
 - title: Shutter Island
   year: 2010
   director: Martin Scorsese
@@ -9700,6 +9862,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/oZNPzxqM2s5DyVWab09NTQScDQt.jpg
+- title: Irreversible (Irréversible)
+  year: 2002
+  director: Gaspar Noé
+  is_korean_director: false
+  imdb_id: tt0290673
+  imdb_url: https://www.imdb.com/title/tt0290673
+  tmdb_url: https://www.themoviedb.org/movie/979
+  tmdb_title: Irreversible
+  tmdb_original_title: Irréversible
+  tmdb_original_language: French
+  tmdb_director_name_1: Gaspar Noé
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/rxeDxo8FvZpLu6iplNpxdtAVnfu.jpg
 - title: City of God
   year: 2002
   director: Fernando Meirelles, Kátia Lund
@@ -12817,6 +12993,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/kjq1FXtHh9i2sIuM0JaoYf43FDU.jpg
+- title: Grave of the Fireflies (火垂るの墓)
+  year: 1988
+  director: Isao Takahata
+  is_korean_director: false
+  imdb_id: tt0095327
+  imdb_url: https://www.imdb.com/title/tt0095327
+  tmdb_url: https://www.themoviedb.org/movie/12477
+  tmdb_title: Grave of the Fireflies
+  tmdb_original_title: 火垂るの墓
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Isao Takahata
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg
 - title: Red Sorghum (붉은 수수밭)
   year: 1987
   director: Zhang Yimou
