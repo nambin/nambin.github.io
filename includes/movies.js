@@ -2,8 +2,42 @@
 
 function initMovieFilter() {
   const movieCards = document.querySelectorAll('.movie-card');
+  const recentToggle = document.getElementById('recentToggle');
+  const clearFilterLink = document.getElementById('clear-filter');
 
-  function _filterMovies(searchTerm, director, masterpiece, myBest, award) {
+  const recentCutoff = new Date();
+  recentCutoff.setHours(0, 0, 0, 0);
+  recentCutoff.setFullYear(recentCutoff.getFullYear() - 1);
+
+  // Keep their href's `recent` param in sync with the toggle's current state
+  // so Recent stays applied on top of whichever of those filters gets clicked next,
+  // instead of being overridden by it.
+  function _syncFilterLinksWithRecent(recentActive) {
+    document.querySelectorAll('.director-filter-link, .badge-link').forEach(link => {
+      const url = new URL(link.getAttribute('href'), window.location.href);
+      if (recentActive) {
+        url.searchParams.set('recent', 'true');
+      } else {
+        url.searchParams.delete('recent');
+      }
+      link.setAttribute('href', url.pathname + url.search);
+    });
+  }
+
+  // The "×" clear-filter link drops the named filter (director/masterpiece/
+  // my_best/award) — but if Recent is active it should stay active, not get
+  // wiped along with the rest, so this rebuilds the link's href to only ever
+  // carry `recent` forward.
+  function _updateClearFilterHref(recentActive) {
+    if (!clearFilterLink) return;
+    const url = new URL(window.location.pathname, window.location.href);
+    if (recentActive) {
+      url.searchParams.set('recent', 'true');
+    }
+    clearFilterLink.setAttribute('href', url.pathname + url.search);
+  }
+
+  function _filterMovies(searchTerm, director, masterpiece, myBest, award, recentOnly) {
     const searchKeywords = searchTerm.toLowerCase().split(' ').filter(k => k);
 
     movieCards.forEach(card => {
@@ -20,6 +54,12 @@ function initMovieFilter() {
       const awardsAttr = card.getAttribute('data-awards');
       if (award && (!awardsAttr || !awardsAttr.includes(award))) {
         shouldShow = false;
+      }
+      if (recentOnly) {
+        const dateCommitted = card.getAttribute('data-date-committed');
+        if (!dateCommitted || new Date(dateCommitted) < recentCutoff) {
+          shouldShow = false;
+        }
       }
       if (shouldShow && searchKeywords.length > 0) {
         const searchableText = card.dataset.searchText || '';
@@ -42,20 +82,29 @@ function initMovieFilter() {
     const masterpieceParam = params.get('masterpiece');
     const myBestParam = params.get('my_best');
     const awardParam = params.get('award');
+    const recentParam = params.get('recent');
 
-    if (searchInput.value || directorParam || masterpieceParam || myBestParam || awardParam) {
+    if (recentToggle) {
+      recentToggle.classList.toggle('active', !!recentParam);
+      recentToggle.setAttribute('aria-pressed', recentParam ? 'true' : 'false');
+    }
+    _syncFilterLinksWithRecent(!!recentParam);
+    _updateClearFilterHref(!!recentParam);
+
+    if (searchInput.value || directorParam || masterpieceParam || myBestParam || awardParam || recentParam) {
       decodedDirectorParam = directorParam ? decodeURIComponent(directorParam) : null;
       _filterMovies(
         searchInput.value,
         decodedDirectorParam,
-        masterpieceParam, myBestParam, awardParam);
+        masterpieceParam, myBestParam, awardParam, recentParam);
 
       // console.log('filters applied:', {
       //   search: searchInput.value,
       //   director: directorParam,
       //   masterpiece: masterpieceParam,
       //   myBest: myBestParam,
-      //   award: awardParam
+      //   award: awardParam,
+      //   recent: recentParam
       // });
 
       let displayText = null;
@@ -74,6 +123,10 @@ function initMovieFilter() {
           case 'blue_dragon': displayText = 'Korean Blue Dragon Best Film'; break;
         }
       }
+      // No separate banner text for "recent" — the toggle button's own
+      // active/inactive color is the indicator for that filter, so it doesn't
+      // steal the banner from a director/masterpiece/my-best/award filter
+      // that's active at the same time.
 
       const filterDisplay = document.getElementById('filter-display');
       const filterText = document.getElementById('filter-text');
@@ -96,6 +149,20 @@ function initMovieFilter() {
 
   if (searchInput) {
     searchInput.addEventListener('input', _applyAllFilters);
+  }
+  if (recentToggle) {
+    recentToggle.addEventListener('click', () => {
+      const params = new URLSearchParams(window.location.search);
+      if (params.get('recent')) {
+        params.delete('recent');
+      } else {
+        params.set('recent', 'true');
+      }
+      const newSearch = params.toString();
+      const newUrl = window.location.pathname + (newSearch ? `?${newSearch}` : '');
+      window.history.replaceState(null, '', newUrl);
+      _applyAllFilters();
+    });
   }
   _applyAllFilters();
 }

@@ -125,13 +125,37 @@
       z-index: 100;
       padding: 0.2rem 0;
       max-width: 652px;
+      display: flex;
+      gap: 0.5rem;
     }
 
     #searchInput {
-      width: 100%;
+      flex: 1;
+      min-width: 0;
       padding: 10px 15px;
       border-radius: 8px;
       border: 1px solid #ddd;
+    }
+
+    #recentToggle {
+      flex-shrink: 0;
+      padding: 10px 15px;
+      border-radius: 8px;
+      border: 1px solid #ddd;
+      background: #fff;
+      color: #555;
+      cursor: pointer;
+    }
+
+    #recentToggle:hover {
+      border-color: #3498db;
+      color: #3498db;
+    }
+
+    #recentToggle.active {
+      background: #3498db;
+      border-color: #3498db;
+      color: #fff;
     }
   </style>
 </head>
@@ -144,6 +168,7 @@
     <a href="/movies.html" id="clear-filter" title="Clear filter">&times;</a>
   </div>
   <div class="search-container">
+    <button type="button" id="recentToggle" aria-pressed="false" title="Show only movies added in the last year">Recent</button>
     <input type="search" id="searchInput" placeholder="Search by title, director, year, lanuguage, awards ..."
       aria-label="Search movies">
   </div>
@@ -165,7 +190,8 @@
       data-director="{{ movie.tmdb_director_name_1}}" {% else %} data-director="{{ movie.director }}" {% endif %} {% if
       movie.tmdb_director_name_2 %} data-director-2="{{ movie.tmdb_director_name_2}}" {% endif %} {% if
       movie.masterpiece %} data-masterpiece="true" {% endif %} {% if movie.my_best %} data-my-best="true" {% endif %} {%
-      if movie.awards %} data-awards="{{ movie.awards | join: ' ' }}" {% endif %}
+      if movie.awards %} data-awards="{{ movie.awards | join: ' ' }}" {% endif %} {% if movie.date_committed %}
+      data-date-committed="{{ movie.date_committed }}" {% endif %}
       data-search-text="{{ search_text | downcase | strip }}">
 
       {% if movie.tmdb_poster_url %}
