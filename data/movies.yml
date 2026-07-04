@@ -12,6 +12,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg
+  date_commited: 2026-05-10
 - title: Project Hail Mary
   year: 2026
   director: Phil Lord
@@ -26,6 +27,7 @@
   tmdb_director_name_2: Christopher Miller
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg
+  date_commited: 2026-05-10
 - title: The World of Love (세계의 주인)
   year: 2025
   director: 윤가은
@@ -40,6 +42,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cg679vCkXY9RH2iINLvdG68tzsQ.jpg
+  date_commited: 2026-05-10
   my_best: true
 - title: The Wizard of Oz at Sphere
   year: 2025
@@ -87,6 +90,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg
+  date_commited: 2026-05-10
   my_best: true
   note: Art is born of love.
 - title: 어쩔수가없다
@@ -141,6 +145,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/pz9NCWxxOk3o0W3v1Zkhawrwb4i.jpg
+  date_commited: 2026-06-26
   award_names:
     - Oscar Best International Film
   awards:
@@ -159,6 +164,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/96O3Ol3f2veMxAxYqsML8rOumB9.jpg
+  date_commited: 2026-05-10
   award_names:
     - Venice Leone d’oro
   awards:
@@ -211,6 +217,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uA3o8q7JTym6lUM8pnITwQDfvhO.jpg
+  date_commited: 2026-05-10
 - title: 승부
   year: 2025
   director: 김형주
@@ -302,6 +309,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/g96wHxU7EnoIFwemb2RgohIXrgW.jpg
+  date_commited: 2026-01-04
 - title: Frankenstein
   year: 2025
   director: Guillermo del Toro
@@ -416,6 +424,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gZnsMbhCvhzAQlKaVpeFRHYjGyb.jpg
+  date_commited: 2026-06-26
   award_names:
     - Oscar Best International Film
   awards:
@@ -468,6 +477,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/6oKxIHM08TRkv7QCpi9cqHU1q9F.jpg
+  date_commited: 2026-06-26
 - title: 하얼빈
   year: 2024
   director: 우민호
@@ -572,6 +582,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/llWl3GtNoXosbvYboelmoT459NM.jpg
+  date_commited: 2026-05-10
 - title: Conclave
   year: 2024
   director: Edward Berger
@@ -586,6 +597,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vYEyxF1UT779RiEalpMjUT6kfdf.jpg
+  date_commited: 2026-05-10
 - title: The Substance
   year: 2024
   director: Coralie Fargeat
@@ -600,6 +612,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lqoMzCcZYEFK729d6qzt349fB4o.jpg
+  date_commited: 2026-06-26
 - title: Miséricorde
   year: 2024
   director: Alain Guiraudie
@@ -944,6 +957,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/f4oZTcfGrVTXKTWg157AwikXqmP.jpg
+  date_commited: 2026-06-26
 - title: Barbie
   year: 2023
   director: Greta Gerwig
@@ -1503,6 +1517,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg
+  date_commited: 2026-06-26
 - title: Coda
   year: 2021
   director: Sian Heder
@@ -2047,6 +2062,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lO4hjVBxrVtMmupGraIR3c7Jq1Q.jpg
+  date_commited: 2026-06-26
 - title: It’s a Summer Film!
   year: 2020
   director: Soushi Matsumoto
@@ -2527,6 +2543,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4RE7TD5TqEXbPKyUHcn7CSeMlrJ.jpg
+  date_commited: 2026-05-10
 - title: A Rainy Day in New York
   year: 2019
   director: Woody Allen
@@ -2691,6 +2708,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3lkrx1xQI4tOuvug4zZURKxQfet.jpg
+  date_commited: 2026-05-10
 - title: Pain and Glory
   year: 2019
   director: Pedro Almodóvar
@@ -3454,6 +3472,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lHu1wtNaczFPGFDTrjCSzeLPTKN.jpg
+  date_commited: 2026-06-26
 - title: Long Day's Journey into Night (지구 최후의 밤)
   year: 2018
   director: Bi Gan
@@ -4186,6 +4205,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/fnbjcRDYn6YviCcePDnGdyAkYsB.jpg
+  date_commited: 2026-05-10
 - title: The Third Murder
   year: 2017
   director: Hirokazu Koreeda
@@ -4798,6 +4818,7 @@
   tmdb_director_name_2: Ron Clements
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/9tzN8sPbyod2dsa0lwuvrwBDWra.jpg
+  date_commited: 2026-05-10
 - title: 'Captain America: Civil War'
   year: 2016
   director: Joe Russo
@@ -4812,6 +4833,7 @@
   tmdb_director_name_2: Anthony Russo
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/rAGiXaUfPzY7CDEyNKUofk3Kw2e.jpg
+  date_commited: 2026-05-10
 - title: After the Storm
   year: 2016
   director: Hirokazu Koreeda
@@ -4902,6 +4924,7 @@
   tmdb_director_name_2: Rich Moore
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/hlK0e0wAQ3VLuJcsfIYPvb4JVud.jpg
+  date_commited: 2026-05-10
 - title: Journey Through French Cinema
   year: 2016
   director: Bertrand Tavernier
@@ -5585,6 +5608,7 @@
   tmdb_director_name_2: Anthony Russo
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/tVFRpFw3xTedgPGqxW0AOI8Qhh0.jpg
+  date_commited: 2026-05-10
 - title: Two Days One Night
   year: 2014
   director: Jean-Pierre Dardenne, Luc Dardenne
@@ -5629,6 +5653,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg
+  date_commited: 2026-05-10
 - title: Highway
   year: 2014
   director: Imtiaz Ali
@@ -6077,6 +6102,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/mXUCVq3HMtS4Y9IQ8vmEOPyN0vH.jpg
+  date_commited: 2026-05-10
 - title: Begin again
   year: 2013
   director: John Carney
@@ -6485,6 +6511,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wNSdSSxowM3WIqmPJNg3RagYbwP.jpg
+  date_commited: 2026-01-04
 - title: The Act Of Killing
   year: 2012
   director: Joshua Oppenheimer
@@ -6681,6 +6708,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/8cDq5UlOPYeKm39okALCEOsZPxk.jpg
+  date_commited: 2026-06-26
   my_best: true
 - title: 부당거래
   year: 2011
@@ -6751,6 +6779,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/nYgTNFSFKJMDQF4mq9vt3ieJ7eQ.jpg
+  date_commited: 2026-01-04
 - title: 고지전
   year: 2011
   director: 장훈
@@ -6780,6 +6809,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/6vpSXK8tAbwlfow5EpYqPnAI30i.jpg
+  date_commited: 2026-06-26
 - title: 퍼펙트 게임
   year: 2011
   director: 박희곤
@@ -7077,6 +7107,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/t7vY6aU6rDNNDGFni604dk6FgIR.jpg
+  date_commited: 2026-01-04
 - title: 이끼
   year: 2010
   director: 강우석
@@ -7121,6 +7152,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gjR5zUeMGV6UNqtI0OuzqrLQcjU.jpg
+  date_commited: 2026-06-26
 - title: Shutter Island
   year: 2010
   director: Martin Scorsese
@@ -7180,6 +7212,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/5Y36lCiNyyV71mjq6LavgiggbhT.jpg
+  date_commited: 2026-05-10
 - title: Inception
   year: 2010
   director: Christopher Nolan
@@ -8163,6 +8196,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dFipUR6W0y3PPkuVS8gjFd929m2.jpg
+  date_commited: 2026-05-10
 - title: Once
   year: 2007
   director: John Carney
@@ -8539,6 +8573,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vIU6fiyTWa56OXK9nwxK9tDVR6G.jpg
+  date_commited: 2026-05-10
 - title: The Holiday
   year: 2006
   director: Nancy Meyers
@@ -11083,6 +11118,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/AwmToSgf2IL3aHv0QRVsR5KvChv.jpg
+  date_commited: 2026-05-10
 - title: Titanic
   year: 1997
   director: James Cameron
@@ -11263,6 +11299,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/jWqh1CJWAEcxckMRrf6ARhIEh0R.jpg
+  date_commited: 2026-01-04
 - title: Cure
   year: 1997
   director: Kiyoshi Kurosawa
@@ -12733,6 +12770,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg
+  date_commited: 2026-05-10
 - title: Ghost
   year: 1990
   director: Jerry Zucker
@@ -12819,6 +12857,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iaCzvcY42HihFxQBTZCTKMpsI0P.jpg
+  date_commited: 2026-05-10
   award_names:
     - Oscar Best Picture
   awards:
@@ -13008,6 +13047,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/k9tv1rXZbOhH7eiCk378x61kNQ1.jpg
+  date_commited: 2026-06-26
 - title: Red Sorghum (붉은 수수밭)
   year: 1987
   director: Zhang Yimou
@@ -13510,6 +13550,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/5LrI4GiCSrChgkdskVZiwv643Kg.jpg
+  date_commited: 2026-05-10
 - title: Annie Hall
   year: 1977
   director: Woody Allen
@@ -13884,6 +13925,7 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/fFJP3D5fJDFxN7ChqSye1DZ0fTL.jpg
+  date_commited: 2026-05-10
   award_names:
     - Berlin Goldener Bär
   awards:
@@ -14742,3 +14784,4 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/A9NWYyn7eX0H9XIjaOvfWJ9mCGA.jpg
+  date_commited: 2026-05-10
