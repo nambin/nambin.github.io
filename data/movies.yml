@@ -665,6 +665,22 @@
     - European Film Award for Best Film
   awards:
     - cannes
+- title: 20 Days in Mariupol
+  year: 2023
+  director: Mstyslav Chernov
+  is_korean_director: false
+  imdb_id: tt24082438
+  imdb_url: https://www.imdb.com/title/tt24082438
+  tmdb_url: https://www.themoviedb.org/movie/1058616
+  tmdb_title: null
+  tmdb_original_title: 20 Days in Mariupol
+  tmdb_original_language: English
+  tmdb_director_name_1: Mstyslav Chernov
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg
+  date_committed: 2026-07-06
+  my_best: true
 - title: The Old Oak
   year: 2023
   director: Ken Loach
@@ -913,21 +929,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg
-- title: 20 Days in Mariupol
-  year: 2023
-  director: Mstyslav Chernov
-  is_korean_director: false
-  imdb_id: tt24082438
-  imdb_url: https://www.imdb.com/title/tt24082438
-  tmdb_url: https://www.themoviedb.org/movie/1058616
-  tmdb_title: null
-  tmdb_original_title: 20 Days in Mariupol
-  tmdb_original_language: English
-  tmdb_director_name_1: Mstyslav Chernov
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg
-  date_committed: 2026-07-06
 - title: Io Capitano
   year: 2023
   director: Matteo Garrone
