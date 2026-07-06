@@ -294,6 +294,21 @@
   tmdb_director_name_2: Chris Appelhans
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/AjlRXTpRLAIiuofNqKcqrpUfPCZ.jpg
+- title: Marty Supreme
+  year: 2025
+  director: Josh Safdie
+  is_korean_director: false
+  imdb_id: tt32916440
+  imdb_url: https://www.imdb.com/title/tt32916440
+  tmdb_url: https://www.themoviedb.org/movie/1317288
+  tmdb_title: null
+  tmdb_original_title: Marty Supreme
+  tmdb_original_language: English
+  tmdb_director_name_1: Josh Safdie
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg
+  date_committed: 2026-07-06
 - title: 'Avatar: Fire and Ash'
   year: 2025
   director: James Cameron
@@ -898,6 +913,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg
+- title: 20 Days in Mariupol
+  year: 2023
+  director: Mstyslav Chernov
+  is_korean_director: false
+  imdb_id: tt24082438
+  imdb_url: https://www.imdb.com/title/tt24082438
+  tmdb_url: https://www.themoviedb.org/movie/1058616
+  tmdb_title: null
+  tmdb_original_title: 20 Days in Mariupol
+  tmdb_original_language: English
+  tmdb_director_name_1: Mstyslav Chernov
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/zIRp1IeuPh4GgqFCH3y0DQuY9xP.jpg
+  date_committed: 2026-07-06
 - title: Io Capitano
   year: 2023
   director: Matteo Garrone
