@@ -44,22 +44,6 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cg679vCkXY9RH2iINLvdG68tzsQ.jpg
   date_committed: 2026-05-10
   my_best: true
-- title: The Wizard of Oz at Sphere
-  year: 2025
-  director: Victor Fleming
-  country: US
-  is_korean_director: false
-  imdb_id: tt38084416
-  imdb_url: https://www.imdb.com/title/tt38084416
-  tmdb_url: null
-  tmdb_title: null
-  tmdb_original_title: null
-  tmdb_original_language: null
-  tmdb_director_name_1: null
-  tmdb_director_name_2: null
-  tmdb_num_directors: 0
-  tmdb_poster_url: null
-  my_best: true
 - title: Sinners
   year: 2025
   director: Ryan Coogler
@@ -93,6 +77,22 @@
   date_committed: 2026-05-10
   my_best: true
   note: Art is born of love.
+- title: The Wizard of Oz at Sphere
+  year: 2025
+  director: ''
+  is_korean_director: false
+  imdb_id: tt38084416
+  imdb_url: https://www.imdb.com/title/tt38084416
+  tmdb_url: https://www.themoviedb.org/movie/1709464
+  tmdb_title: null
+  tmdb_original_title: The Wizard of Oz at Sphere
+  tmdb_original_language: English
+  tmdb_director_name_1: null
+  tmdb_director_name_2: null
+  tmdb_num_directors: 0
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/yPjNFThSfle0poKeBwpGqTf1Tly.jpg
+  date_committed: 2026-07-08
+  my_best: true
 - title: 어쩔수가없다
   year: 2025
   director: 박찬욱
