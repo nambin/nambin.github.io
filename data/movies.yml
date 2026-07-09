@@ -60,6 +60,7 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg
   my_best: true
+  date_committed: 2026-01-04
 - title: Hamnet
   year: 2025
   director: Chloé Zhao
