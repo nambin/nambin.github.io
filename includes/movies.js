@@ -147,6 +147,31 @@ function initMovieFilter() {
     }
   }
 
+  // Clicking a director name, award badge, or the clear-filter "×" used to
+  // be a full page navigation, which re-downloaded movies.yml and re-rendered
+  // every card on each click. These are same-page filter changes, so handle
+  // them with the History API instead — one movies.yml fetch per visit, and
+  // filtering is instant. Delegated on document so it covers the links inside
+  // every card without per-link listeners (badge clicks land on the inner
+  // <img>, hence closest()).
+  document.addEventListener('click', (e) => {
+    // Leave modified/middle clicks alone so "open in new tab" still works.
+    if (e.defaultPrevented || e.button !== 0 ||
+        e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    const link = e.target.closest('.director-filter-link, .badge-link, #clear-filter');
+    if (!link) return;
+    e.preventDefault();
+    const url = new URL(link.getAttribute('href'), window.location.href);
+    window.history.pushState(null, '', url.pathname + url.search);
+    // Match real-navigation behavior: a filter click from deep in the list
+    // lands at the top of the results.
+    window.scrollTo(0, 0);
+    _applyAllFilters();
+  });
+
+  // Back/forward through the pushState entries re-applies filters in place.
+  window.addEventListener('popstate', _applyAllFilters);
+
   if (searchInput) {
     searchInput.addEventListener('input', _applyAllFilters);
   }
