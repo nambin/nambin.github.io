@@ -14190,6 +14190,7 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/b6vYatvui1EXeFYfpDX4rcbueuP.jpg
   date_committed: 2026-07-18
+  my_best: true
 - title: A Woman Is A Woman (Une Femme Est Une Femme)
   year: 1961
   director: Jean-Luc Godard
