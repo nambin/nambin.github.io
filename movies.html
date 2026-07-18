@@ -173,127 +173,13 @@
       aria-label="Search movies">
   </div>
   <ul class="movie-list">
-    {% for movie in site.data.movies %}
-    {% capture search_text %}
-    {% if movie.tmdb_original_title %}{{ movie.tmdb_original_title }} {% else %}{{ movie.title }} {% endif %}
-    {% if movie.tmdb_title %}{{ movie.tmdb_title }} {% endif %}
-    {% if movie.custom_korean_title %}{{ movie.custom_korean_title }} {% endif %}
-    {% if movie.tmdb_director_name_1 %}{{ movie.tmdb_director_name_1 }} {% endif %}
-    {% if movie.tmdb_director_name_2 %}{{ movie.tmdb_director_name_2 }} {% endif %}
-    {% if movie.director %}{{ movie.director }} {% endif %}
-    {% if movie.year %}{{ movie.year }} {% endif %}
-    {% if movie.tmdb_original_language %}{{ movie.tmdb_original_language }} {% endif %}
-    {% if movie.awards %}{{ movie.awards | join: ' ' }} {% endif %}
-    {% endcapture %}
-
-    <li class="movie-card" {% if movie.tmdb_director_name_1 and movie.is_korean_director==false %}
-      data-director="{{ movie.tmdb_director_name_1}}" {% else %} data-director="{{ movie.director }}" {% endif %} {% if
-      movie.tmdb_director_name_2 %} data-director-2="{{ movie.tmdb_director_name_2}}" {% endif %} {% if
-      movie.masterpiece %} data-masterpiece="true" {% endif %} {% if movie.my_best %} data-my-best="true" {% endif %} {%
-      if movie.awards %} data-awards="{{ movie.awards | join: ' ' }}" {% endif %} {% if movie.date_committed %}
-      data-date-committed="{{ movie.date_committed }}" {% endif %}
-      data-search-text="{{ search_text | downcase | strip }}">
-
-      {% if movie.tmdb_poster_url %}
-      {% assign poster_source = movie.tmdb_poster_url %}
-      {% assign movie_url = movie.tmdb_url %}
-      {% else %}
-      {% assign poster_source = "/assets/movie_posters/" | append: movie.imdb_id | append: ".jpg" %}
-      {% assign movie_url = movie.imdb_url %}
-      {% endif %}
-
-      <a href="{{ movie_url }}" target="_blank" rel="noopener noreferrer">
-        <img data-src="{{ poster_source }}"
-          src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABBwABAQAIBAABBAQAOw=="
-          alt="{{ movie.tmdb_original_title }} Poster" class="movie-poster lazy" width="120" height="180">
-      </a>
-      <div class="movie-info">
-        <h2><a href="https://www.imdb.com/title/{{ movie.imdb_id }}/" target="_blank">
-            {% if movie.tmdb_original_title %}
-            {{ movie.tmdb_original_title }}
-            {% else %}
-            {{ movie.title }}
-            {% endif %}
-          </a></h2>
-
-        {% if movie.custom_korean_title and movie.tmdb_title %}
-        <p><i>{{ movie.tmdb_title }} ({{ movie.custom_korean_title }})</i></p>
-        {% elsif movie.tmdb_title %}
-        <p><i>{{ movie.tmdb_title }}</i></p>
-        {% endif %}
-
-        <p>
-          {% if movie.tmdb_director_name_1 and movie.is_korean_director == false or movie.tmdb_director_name_2 -%}
-          <a href="?director={{ movie.tmdb_director_name_1 | url_encode }}" class="director-filter-link">{{
-            movie.tmdb_director_name_1 }}</a>
-          {%- else -%}
-          <a href="?director={{ movie.director | url_encode }}" class="director-filter-link">{{ movie.director }}</a>
-            {% if movie.is_korean_director and movie.tmdb_director_name_1 %}
-            <span> ({{ movie.tmdb_director_name_1 }})</span>
-            {% endif %}
-          {%- endif -%}
-
-          {%- if movie.tmdb_director_name_2 -%}
-          <span>, </span><a href="?director={{ movie.tmdb_director_name_2 | url_encode }}"
-            class="director-filter-link">{{ movie.tmdb_director_name_2 }}</a>
-          {%- endif -%}
-
-          {%- if movie.tmdb_num_directors and movie.tmdb_num_directors > 2 -%}
-          <span>, +{{ movie.tmdb_num_directors | minus: 2 }} more</span>
-          {%- endif %}
-        </p>
-        <p>
-          {{ movie.year }}
-          {% if movie.tmdb_original_language %}
-          &middot; {{ movie.tmdb_original_language }}
-          {% endif %}
-        </p>
-        </p>
-
-        <div class="movie-badges">
-          {% if movie.masterpiece %}
-          <a href="?masterpiece=true" class="badge-link" title="Masterpiece">
-            <img src="/assets/logo-star.svg" alt="Masterpiece" class="badge-icon">
-          </a>
-          {% endif %}
-          {% if movie.my_best %}
-          <a href="?my_best=true" class="badge-link" title="Personal Best">
-            <img src="/assets/logo-bulb.svg" alt="Personal Best" class="badge-icon">
-          </a>
-          {% endif %}
-
-          {% for award in movie.awards %}
-          {% if award == 'oscar' %}
-          <a href="?award=oscar" class="badge-link">
-            <img src="/assets/logo-oscar.svg" alt="Oscar" class="badge-icon">
-          </a>
-          {% elsif award == 'cannes' %}
-          <a href="?award=cannes" class="badge-link">
-            <img src="/assets/logo-cannes.svg" alt="Cannes" class="badge-icon">
-          </a>
-          {% elsif award == 'berlin' %}
-          <a href="?award=berlin" class="badge-link">
-            <img src="/assets/logo-berlin.svg" alt="Berlin" class="badge-icon">
-          </a>
-          {% elsif award == 'venice' %}
-          <a href="?award=venice" class="badge-link">
-            <img src="/assets/logo-venice.svg" alt="Venice" class="badge-icon">
-          </a>
-          {% elsif award == 'blue_dragon' %}
-          <a href="?award=blue_dragon" class="badge-link">
-            <img src="/assets/logo-blue_dragon.svg" alt="Blue Dragon" class="badge-icon">
-          </a>
-          {% endif %}
-          {% endfor %}
-        </div>
-      </div>
-    </li>
-    {% endfor %}
+    <li class="empty-state">Loading movies…</li>
   </ul>
 
   <script>
     {% include movies.js %}
   </script>
+  <script type="module" src="/assets/movies_page.js"></script>
 </body>
 
 <footer>

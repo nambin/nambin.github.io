@@ -193,5 +193,6 @@ function initLazyImagesLoader() {
   }
 }
 
-initMovieFilter();
-initLazyImagesLoader();
+// Not auto-invoked here: the movie cards are rendered asynchronously by
+// assets/movies_page.js (fetched from data/movies.yml), which calls these
+// once the cards are actually in the DOM.
