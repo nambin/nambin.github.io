@@ -59,8 +59,8 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4CkZl1LK6a5rXBqJB2ZP77h3N5i.jpg
-  my_best: true
   date_committed: 2026-01-04
+  my_best: true
 - title: Hamnet
   year: 2025
   director: Chloé Zhao
@@ -5551,6 +5551,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/xx701fnV2e4BlQGwgISLYUG0DsG.jpg
+- title: 'Tazza: The Hidden Card (타짜: 신의 손)'
+  year: 2014
+  director: 강형철
+  is_korean_director: true
+  imdb_id: tt3402110
+  imdb_url: https://www.imdb.com/title/tt3402110
+  tmdb_url: https://www.themoviedb.org/movie/290865
+  tmdb_title: 'Tazza: The Hidden Card'
+  tmdb_original_title: '타짜: 신의 손'
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kang Hyoung-chul
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/lWiOBlD8NSuOJRQAZHOzPRFrwa5.jpg
+  date_committed: 2026-07-18
 - title: Magic in the moonlight
   year: 2014
   director: Woody Allen
@@ -11330,6 +11345,20 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/jWqh1CJWAEcxckMRrf6ARhIEh0R.jpg
   date_committed: 2026-01-04
+- title: The Fifth Element (Le Cinquième Élément)
+  year: 1997
+  director: Luc Besson
+  is_korean_director: false
+  imdb_id: tt0119116
+  imdb_url: https://www.imdb.com/title/tt0119116
+  tmdb_url: https://www.themoviedb.org/movie/18
+  tmdb_title: The Fifth Element
+  tmdb_original_title: Le Cinquième Élément
+  tmdb_original_language: French
+  tmdb_director_name_1: Luc Besson
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg
 - title: Cure
   year: 1997
   director: Kiyoshi Kurosawa
@@ -11638,6 +11667,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg
+- title: Fly Away Home
+  year: 1996
+  director: Carroll Ballard
+  is_korean_director: false
+  imdb_id: tt0116329
+  imdb_url: https://www.imdb.com/title/tt0116329
+  tmdb_url: https://www.themoviedb.org/movie/11076
+  tmdb_title: null
+  tmdb_original_title: Fly Away Home
+  tmdb_original_language: English
+  tmdb_director_name_1: Carroll Ballard
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/obcQJkZB2OsRxd5GWIcQ5Qjv4YW.jpg
 - title: Jerry Maguire
   year: 1996
   director: Cameron Crowe
@@ -14147,6 +14190,22 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/oelBStY4xpguaplRv15P3Za7Xsr.jpg
+- title: Judgment at Nuremberg
+  year: 1961
+  director: Stanley Kramer
+  is_korean_director: false
+  imdb_id: tt0055031
+  imdb_url: https://www.imdb.com/title/tt0055031
+  tmdb_url: https://www.themoviedb.org/movie/821
+  tmdb_title: null
+  tmdb_original_title: Judgment at Nuremberg
+  tmdb_original_language: English
+  tmdb_director_name_1: Stanley Kramer
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/b6vYatvui1EXeFYfpDX4rcbueuP.jpg
+  date_committed: 2026-07-18
+  my_best: true
 - title: A Woman Is A Woman (Une Femme Est Une Femme)
   year: 1961
   director: Jean-Luc Godard
