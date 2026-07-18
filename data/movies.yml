@@ -5551,21 +5551,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/xx701fnV2e4BlQGwgISLYUG0DsG.jpg
-- title: 'Tazza: The Hidden Card (타짜: 신의 손)'
-  year: 2014
-  director: 강형철
-  is_korean_director: true
-  imdb_id: tt3402110
-  imdb_url: https://www.imdb.com/title/tt3402110
-  tmdb_url: https://www.themoviedb.org/movie/290865
-  tmdb_title: 'Tazza: The Hidden Card'
-  tmdb_original_title: '타짜: 신의 손'
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Kang Hyoung-chul
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/lWiOBlD8NSuOJRQAZHOzPRFrwa5.jpg
-  date_committed: 2026-07-18
 - title: Magic in the moonlight
   year: 2014
   director: Woody Allen
@@ -14205,7 +14190,6 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/b6vYatvui1EXeFYfpDX4rcbueuP.jpg
   date_committed: 2026-07-18
-  my_best: true
 - title: A Woman Is A Woman (Une Femme Est Une Femme)
   year: 1961
   director: Jean-Luc Godard
