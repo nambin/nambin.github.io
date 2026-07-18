@@ -15,6 +15,14 @@
       box-sizing: border-box;
     }
 
+    /* Hidden until assets/movies_page.js reveals it once the initial async
+       load of movies.yml settles (success or failure) — otherwise the
+       footer renders near the top of the still-short page and visibly
+       jumps down once the movie list is populated. */
+    footer {
+      visibility: hidden;
+    }
+
     .movie-list {
       padding: 0;
       max-width: 652px;
