@@ -295,6 +295,21 @@
   tmdb_director_name_2: Chris Appelhans
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/AjlRXTpRLAIiuofNqKcqrpUfPCZ.jpg
+- title: The Voice of Hind Rajab (صوت هند رجب)
+  year: 2025
+  director: Kaouther Ben Hania
+  is_korean_director: false
+  imdb_id: tt36943034
+  imdb_url: https://www.imdb.com/title/tt36943034
+  tmdb_url: https://www.themoviedb.org/movie/1480382
+  tmdb_title: The Voice of Hind Rajab
+  tmdb_original_title: صوت هند رجب
+  tmdb_original_language: Arabic
+  tmdb_director_name_1: Kaouther Ben Hania
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/q7M8kQB46T11vmDMD6E239jsqTz.jpg
+  date_committed: 2026-07-19
 - title: Marty Supreme
   year: 2025
   director: Josh Safdie
