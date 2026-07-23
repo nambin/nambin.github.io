@@ -10317,6 +10317,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/eyEgsPIwsr9bUV9n9INH46L5KuM.jpg
+- title: My Boss, My Hero (두사부일체)
+  year: 2001
+  director: JK Youn
+  is_korean_director: false
+  imdb_id: tt0301214
+  imdb_url: https://www.imdb.com/title/tt0301214
+  tmdb_url: https://www.themoviedb.org/movie/19588
+  tmdb_title: My Boss, My Hero
+  tmdb_original_title: 두사부일체
+  tmdb_original_language: Korean
+  tmdb_director_name_1: JK Youn
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/iOyWhkeDJ7GY2VcA93KF0oLzLV6.jpg
 - title: Mulholland Drive
   year: 2001
   director: David Lynch
@@ -10347,6 +10361,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg
+- title: My Wife is a Gangster (조폭 마누라)
+  year: 2001
+  director: Cho Jin-gyu
+  is_korean_director: false
+  imdb_id: tt0296696
+  imdb_url: https://www.imdb.com/title/tt0296696
+  tmdb_url: https://www.themoviedb.org/movie/21707
+  tmdb_title: My Wife is a Gangster
+  tmdb_original_title: 조폭 마누라
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Cho Jin-gyu
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/cmg4E3GLJpx6cDOLslFeCZ2ZZRN.jpg
 - title: Vanilla Sky
   year: 2001
   director: Cameron Crowe
@@ -10362,6 +10390,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cAh2pCiNPftsY3aSqJuIOde7uWr.jpg
+- title: The Others
+  year: 2001
+  director: Alejandro Amenábar
+  is_korean_director: false
+  imdb_id: tt0230600
+  imdb_url: https://www.imdb.com/title/tt0230600
+  tmdb_url: https://www.themoviedb.org/movie/1933
+  tmdb_title: null
+  tmdb_original_title: The Others
+  tmdb_original_language: English
+  tmdb_director_name_1: Alejandro Amenábar
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg
 - title: Dancer In The Dark
   year: 2000
   director: Lars von Trier
