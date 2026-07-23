@@ -11989,6 +11989,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg
+- title: Dangerous Minds
+  year: 1995
+  director: John N. Smith
+  is_korean_director: false
+  imdb_id: tt0112792
+  imdb_url: https://www.imdb.com/title/tt0112792
+  tmdb_url: https://www.themoviedb.org/movie/9909
+  tmdb_title: null
+  tmdb_original_title: Dangerous Minds
+  tmdb_original_language: English
+  tmdb_director_name_1: John N. Smith
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/yWHWC8fJRp2kLgiFrEa8o3krOH9.jpg
 - title: Toy Story
   year: 1995
   director: John Lasseter
