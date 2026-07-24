@@ -10228,6 +10228,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/f5OrCWQ8r4My3hyhsqzAbB7qJ9K.jpg
+- title: Volcano High (화산고)
+  year: 2001
+  director: 김태균
+  is_korean_director: true
+  imdb_id: tt0301429
+  imdb_url: https://www.imdb.com/title/tt0301429
+  tmdb_url: https://www.themoviedb.org/movie/23834
+  tmdb_title: Volcano High
+  tmdb_original_title: 화산고
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Tae-gyun
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/c9ItiEc0OlFcxvQtKITxwU6o8tJ.jpg
 - title: 번지점프를 하다
   year: 2001
   director: 김대승
