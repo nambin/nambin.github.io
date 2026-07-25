@@ -2907,6 +2907,20 @@
   tmdb_director_name_2: Suki Medencevic
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/9jB42Dvqo3ITaHlbS4VDRS7EnLl.jpg
+- title: Extreme Job (극한직업)
+  year: 2019
+  director: Lee Byeong-heon
+  is_korean_director: false
+  imdb_id: tt9541602
+  imdb_url: https://www.imdb.com/title/tt9541602
+  tmdb_url: https://www.themoviedb.org/movie/567646
+  tmdb_title: Extreme Job
+  tmdb_original_title: 극한직업
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Byeong-heon
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/52oLgq2gEiZyDjpJ7tgkGruoQI0.jpg
 - title: Les Misérables
   year: 2019
   director: Ladj Ly
@@ -6194,6 +6208,20 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/mXUCVq3HMtS4Y9IQ8vmEOPyN0vH.jpg
   date_committed: 2026-05-10
+- title: Miracle in Cell No. 7 (7번방의 선물)
+  year: 2013
+  director: Lee Hwan-kyung
+  is_korean_director: false
+  imdb_id: tt2659414
+  imdb_url: https://www.imdb.com/title/tt2659414
+  tmdb_url: https://www.themoviedb.org/movie/158445
+  tmdb_title: Miracle in Cell No. 7
+  tmdb_original_title: 7번방의 선물
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Hwan-kyung
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/tVyADQAqmWzmvtLMmUunyGU2YFN.jpg
 - title: Begin again
   year: 2013
   director: John Carney
@@ -6663,6 +6691,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg
+- title: Masquerade (광해, 왕이 된 남자)
+  year: 2012
+  director: Choo Chang-min
+  is_korean_director: false
+  imdb_id: tt2290840
+  imdb_url: https://www.imdb.com/title/tt2290840
+  tmdb_url: https://www.themoviedb.org/movie/133200
+  tmdb_title: Masquerade
+  tmdb_original_title: 광해, 왕이 된 남자
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Choo Chang-min
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/wH6OFdp2MVYXY0fVSolrWN9b17z.jpg
 - title: Life of Pi
   year: 2012
   director: Ang Lee
@@ -9334,6 +9376,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg
+- title: 'Tae Guk Gi: The Brotherhood of War (태극기 휘날리며)'
+  year: 2004
+  director: Kang Je-kyu
+  is_korean_director: false
+  imdb_id: tt0386064
+  imdb_url: https://www.imdb.com/title/tt0386064
+  tmdb_url: https://www.themoviedb.org/movie/11658
+  tmdb_title: 'Tae Guk Gi: The Brotherhood of War'
+  tmdb_original_title: 태극기 휘날리며
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kang Je-kyu
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/efc2MwDwvQsYsbxLXaXtlmOJ7LZ.jpg
 - title: Nobody Knows (아무도 모른다)
   year: 2004
   director: Hirokazu Koreeda
