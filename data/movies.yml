@@ -7428,6 +7428,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/al1V9H2GEjMQNcAnUpWZvkXX0gt.jpg
+- title: Tidal Wave (해운대)
+  year: 2009
+  director: 윤제균
+  is_korean_director: true
+  imdb_id: tt1153040
+  imdb_url: https://www.imdb.com/title/tt1153040
+  tmdb_url: https://www.themoviedb.org/movie/33196
+  tmdb_title: Tidal Wave
+  tmdb_original_title: 해운대
+  tmdb_original_language: Korean
+  tmdb_director_name_1: JK Youn
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/1mE5jde5SJqUnZ58MAweW9GuhzK.jpg
 - title: 박쥐
   year: 2009
   director: 박찬욱
