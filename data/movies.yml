@@ -14114,6 +14114,25 @@
     - Venice Leone d’oro
   awards:
     - venice
+- title: A Man for All Seasons
+  year: 1966
+  director: Fred Zinnemann
+  is_korean_director: false
+  imdb_id: tt0060665
+  imdb_url: https://www.imdb.com/title/tt0060665
+  tmdb_url: https://www.themoviedb.org/movie/874
+  tmdb_title: null
+  tmdb_original_title: A Man for All Seasons
+  tmdb_original_language: English
+  tmdb_director_name_1: Fred Zinnemann
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/1AhIatyuSxymFNHhNTzDiUrE6kn.jpg
+  date_committed: 2026-07-25
+  award_names:
+    - Oscar Best Picture
+  awards:
+    - oscar
 - title: The Good, The Bad, and The Ugly
   year: 1966
   director: Sergio Leone
