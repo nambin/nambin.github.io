@@ -9271,6 +9271,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/jNoxMf8rAu4rau6fkUkL4nWB3i3.jpg
+- title: 'Tae Guk Gi: The Brotherhood of War (태극기 휘날리며)'
+  year: 2004
+  director: 강제규
+  is_korean_director: true
+  imdb_id: tt0386064
+  imdb_url: https://www.imdb.com/title/tt0386064
+  tmdb_url: https://www.themoviedb.org/movie/11658
+  tmdb_title: 'Tae Guk Gi: The Brotherhood of War'
+  tmdb_original_title: 태극기 휘날리며
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kang Je-kyu
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/efc2MwDwvQsYsbxLXaXtlmOJ7LZ.jpg
 - title: House of Flying Daggers (연인)
   year: 2004
   director: Zhang Yimou
@@ -9376,20 +9390,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/lx4kWcZc3o9PaNxlQpEJZM17XUI.jpg
-- title: 'Tae Guk Gi: The Brotherhood of War (태극기 휘날리며)'
-  year: 2004
-  director: Kang Je-kyu
-  is_korean_director: false
-  imdb_id: tt0386064
-  imdb_url: https://www.imdb.com/title/tt0386064
-  tmdb_url: https://www.themoviedb.org/movie/11658
-  tmdb_title: 'Tae Guk Gi: The Brotherhood of War'
-  tmdb_original_title: 태극기 휘날리며
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Kang Je-kyu
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/efc2MwDwvQsYsbxLXaXtlmOJ7LZ.jpg
 - title: Nobody Knows (아무도 모른다)
   year: 2004
   director: Hirokazu Koreeda
@@ -10958,6 +10958,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/z4EXiiifZCfqE9nc4FYhcCt12Kw.jpg
+- title: Shiri (쉬리)
+  year: 1999
+  director: 강제규
+  is_korean_director: true
+  imdb_id: tt0192657
+  imdb_url: https://www.imdb.com/title/tt0192657
+  tmdb_url: https://www.themoviedb.org/movie/10355
+  tmdb_title: Shiri
+  tmdb_original_title: 쉬리
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kang Je-kyu
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/7rmye0ThMHMT2VhZj7zdyCcHQVe.jpg
 - title: The Road Home (집으로 가는 길)
   year: 1999
   director: Zhang Yimou
