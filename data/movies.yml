@@ -7081,6 +7081,22 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/zrkQcAatfBox5x9KZjaYGnKoqu6.jpg
   my_best: true
+- title: Blue Valentine
+  year: 2010
+  director: Derek Cianfrance
+  is_korean_director: false
+  imdb_id: tt1120985
+  imdb_url: https://www.imdb.com/title/tt1120985
+  tmdb_url: https://www.themoviedb.org/movie/46705
+  tmdb_title: null
+  tmdb_original_title: Blue Valentine
+  tmdb_original_language: English
+  tmdb_director_name_1: Derek Cianfrance
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg
+  date_committed: 2026-07-26
+  my_best: true
 - title: The Social Network
   year: 2010
   director: David Fincher
