@@ -10928,6 +10928,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vWVuht8stXzNF38bfxTHgK80SOW.jpg
+- title: Memento Mori (여고괴담 두번째 이야기)
+  year: 1999
+  director: 민규동
+  is_korean_director: true
+  imdb_id: tt0266075
+  imdb_url: https://www.imdb.com/title/tt0266075
+  tmdb_url: https://www.themoviedb.org/movie/54111
+  tmdb_title: Memento Mori
+  tmdb_original_title: 여고괴담 두번째 이야기
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Min Kyu-dong
+  tmdb_director_name_2: Kim Tae-yong
+  tmdb_num_directors: 2
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/6HDeHTbMQCWNmPD9Uqybtigt5sf.jpg
 - title: 태양은 없다
   year: 1999
   director: 김성수
@@ -11243,6 +11257,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1Cm3YA42r1ydkmQkKV3ahsWOYzx.jpg
+- title: Whispering Corridors (여고괴담)
+  year: 1998
+  director: 박기형
+  is_korean_director: true
+  imdb_id: tt0241073
+  imdb_url: https://www.imdb.com/title/tt0241073
+  tmdb_url: https://www.themoviedb.org/movie/40254
+  tmdb_title: Whispering Corridors
+  tmdb_original_title: 여고괴담
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Park Ki-hyung
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/hWTcz8olkZrhL943Bn4xljOxVom.jpg
 - title: 약속
   year: 1998
   director: 김유진
