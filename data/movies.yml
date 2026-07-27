@@ -6973,6 +6973,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iOTRRHt9GNbUfQhV3MhMCznjrPI.jpg
+- title: Late Autumn (만추)
+  year: 2011
+  director: 김태용
+  is_korean_director: true
+  imdb_id: tt1542482
+  imdb_url: https://www.imdb.com/title/tt1542482
+  tmdb_url: https://www.themoviedb.org/movie/91073
+  tmdb_title: Late Autumn
+  tmdb_original_title: 만추
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Tae-yong
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/4SNjM2dUrq21TPK2faONOQ8riav.jpg
+  date_committed: 2026-07-27
 - title: Contagion
   year: 2011
   director: Steven Soderbergh
