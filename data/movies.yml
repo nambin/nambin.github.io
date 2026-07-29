@@ -12886,6 +12886,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4adI7IaveWb7EidYXfLb3MK3CgO.jpg
+- title: Betty
+  year: 1992
+  director: Claude Chabrol
+  is_korean_director: false
+  imdb_id: tt0103800
+  imdb_url: https://www.imdb.com/title/tt0103800
+  tmdb_url: https://www.themoviedb.org/movie/31303
+  tmdb_title: null
+  tmdb_original_title: Betty
+  tmdb_original_language: French
+  tmdb_director_name_1: Claude Chabrol
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/393HreXn9rsqkCoin1GwqkEQkq7.jpg
+  date_committed: 2026-07-29
 - title: 'Home Alone 2: Lost In New York'
   year: 1992
   director: Chris Columbus
