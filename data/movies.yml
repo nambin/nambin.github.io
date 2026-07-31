@@ -9962,6 +9962,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ccqpHq5tk5W4ymbSbuoy4uYOxFI.jpg
+- title: 25th Hour
+  year: 2002
+  director: Spike Lee
+  is_korean_director: false
+  imdb_id: tt0307901
+  imdb_url: https://www.imdb.com/title/tt0307901
+  tmdb_url: https://www.themoviedb.org/movie/1429
+  tmdb_title: null
+  tmdb_original_title: 25th Hour
+  tmdb_original_language: English
+  tmdb_director_name_1: Spike Lee
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/uW7tTRElr2tRhmAVESzvHy4ByXg.jpg
+  date_committed: 2026-07-31
 - title: Spider-Man
   year: 2002
   director: Sam Raimi
