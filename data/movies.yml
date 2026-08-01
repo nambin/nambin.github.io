@@ -14184,6 +14184,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg
+- title: The Young Girls of Rochefort (Les Demoiselles de Rochefort)
+  year: 1967
+  director: Jacques Demy
+  is_korean_director: false
+  imdb_id: tt0062873
+  imdb_url: https://www.imdb.com/title/tt0062873
+  tmdb_url: https://www.themoviedb.org/movie/2433
+  tmdb_title: The Young Girls of Rochefort
+  tmdb_original_title: Les Demoiselles de Rochefort
+  tmdb_original_language: French
+  tmdb_director_name_1: Jacques Demy
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg
+  date_committed: 2026-08-01
 - title: The Battle of Algiers (La battaglia di Algeri)
   year: 1966
   director: Gillo Pontecorvo
