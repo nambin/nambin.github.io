@@ -14444,6 +14444,21 @@
     - Oscar Best International Film
   awards:
     - oscar
+- title: Charade
+  year: 1963
+  director: Stanley Donen
+  is_korean_director: false
+  imdb_id: tt0056923
+  imdb_url: https://www.imdb.com/title/tt0056923
+  tmdb_url: https://www.themoviedb.org/movie/4808
+  tmdb_title: null
+  tmdb_original_title: Charade
+  tmdb_original_language: English
+  tmdb_director_name_1: Stanley Donen
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg
+  date_committed: 2026-08-03
 - title: Vivre Sa Vie (To Live Her Life)
   year: 1962
   director: Jean-Luc Godard
