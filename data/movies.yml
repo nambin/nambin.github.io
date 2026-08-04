@@ -13,6 +13,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg
   date_committed: 2026-05-10
+- title: Colony (군체)
+  year: 2026
+  director: 연상호
+  is_korean_director: true
+  imdb_id: tt34385135
+  imdb_url: https://www.imdb.com/title/tt34385135
+  tmdb_url: https://www.themoviedb.org/movie/1375646
+  tmdb_title: Colony
+  tmdb_original_title: 군체
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Yeon Sang-ho
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/tN799oUR0f1gUKDYdMNrDaY7I51.jpg
+  date_committed: 2026-08-04
 - title: Hope (호프)
   year: 2026
   director: 나홍진
