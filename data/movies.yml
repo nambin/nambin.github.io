@@ -7286,6 +7286,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/twx3c3SYYvpkuKOpZ57yfodNr0f.jpg
+- title: I Saw the Devil (악마를 보았다)
+  year: 2010
+  director: 김지운
+  is_korean_director: true
+  imdb_id: tt1588170
+  imdb_url: https://www.imdb.com/title/tt1588170
+  tmdb_url: https://www.themoviedb.org/movie/49797
+  tmdb_title: I Saw the Devil
+  tmdb_original_title: 악마를 보았다
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Jee-woon
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg
+  date_committed: 2026-08-05
 - title: 방자전
   year: 2010
   director: 김대우
