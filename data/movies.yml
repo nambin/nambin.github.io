@@ -3488,6 +3488,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/fF2xXApETxZqyluokyJ1x4gIiTf.jpg
+- title: Mirai (未来のミライ)
+  year: 2018
+  director: Mamoru Hosoda
+  is_korean_director: false
+  imdb_id: tt6900448
+  imdb_url: https://www.imdb.com/title/tt6900448
+  tmdb_url: https://www.themoviedb.org/movie/475215
+  tmdb_title: Mirai
+  tmdb_original_title: 未来のミライ
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Mamoru Hosoda
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg
+  date_committed: 2026-08-06
 - title: Us and Them (后来的我们, 먼 훗날 우리)
   year: 2018
   director: Liú Ruòyīng
