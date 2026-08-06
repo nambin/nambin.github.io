@@ -11985,6 +11985,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg
+- title: Crash
+  year: 1996
+  director: David Cronenberg
+  is_korean_director: false
+  imdb_id: tt0115964
+  imdb_url: https://www.imdb.com/title/tt0115964
+  tmdb_url: https://www.themoviedb.org/movie/884
+  tmdb_title: null
+  tmdb_original_title: Crash
+  tmdb_original_language: English
+  tmdb_director_name_1: David Cronenberg
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg
 - title: Fly Away Home
   year: 1996
   director: Carroll Ballard
