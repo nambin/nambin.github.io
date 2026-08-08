@@ -279,6 +279,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/epI43M0kT1FNr2qPXOoke4ux8U1.jpg
+- title: Two Seasons, Two Strangers (旅と日々)
+  year: 2025
+  director: Sho Miyake
+  is_korean_director: false
+  imdb_id: tt37538491
+  imdb_url: https://www.imdb.com/title/tt37538491
+  tmdb_url: https://www.themoviedb.org/movie/1462735
+  tmdb_title: Two Seasons, Two Strangers
+  tmdb_original_title: 旅と日々
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Sho Miyake
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/peOymUmbUL3e3x3DJLDNpHbNFNW.jpg
+  date_committed: 2026-08-08
 - title: 'Wake Up Dead Man: A Knives Out Mystery'
   year: 2025
   director: Rian Johnson
@@ -7033,6 +7048,20 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4SNjM2dUrq21TPK2faONOQ8riav.jpg
   date_committed: 2026-07-27
+- title: Sunny (써니)
+  year: 2011
+  director: 강형철
+  is_korean_director: true
+  imdb_id: tt1937339
+  imdb_url: https://www.imdb.com/title/tt1937339
+  tmdb_url: https://www.themoviedb.org/movie/77117
+  tmdb_title: Sunny
+  tmdb_original_title: 써니
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kang Hyoung-chul
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/m21yedsv5rGNmvOU0X9ARvxC0XM.jpg
 - title: Contagion
   year: 2011
   director: Steven Soderbergh
