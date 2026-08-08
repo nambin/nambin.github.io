@@ -13888,6 +13888,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg
+- title: Blade Runner
+  year: 1982
+  director: Ridley Scott
+  is_korean_director: false
+  imdb_id: tt0083658
+  imdb_url: https://www.imdb.com/title/tt0083658
+  tmdb_url: https://www.themoviedb.org/movie/78
+  tmdb_title: null
+  tmdb_original_title: Blade Runner
+  tmdb_original_language: English
+  tmdb_director_name_1: Ridley Scott
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg
+  date_committed: 2026-08-08
 - title: Indiana Jones - Raiders of the Lost Ark
   year: 1981
   director: Steven Spielberg
