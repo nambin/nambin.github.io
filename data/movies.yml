@@ -1,3 +1,19 @@
+- title: The Odyssey
+  year: 2026
+  director: Christopher Nolan
+  is_korean_director: false
+  imdb_id: tt33764258
+  imdb_url: https://www.imdb.com/title/tt33764258
+  tmdb_url: https://www.themoviedb.org/movie/1368337
+  tmdb_title: null
+  tmdb_original_title: The Odyssey
+  tmdb_original_language: English
+  tmdb_director_name_1: Christopher Nolan
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg
+  date_committed: 2026-08-12
+  masterpiece: true
 - title: The King's Warden (왕과 사는 남자)
   year: 2026
   director: 장항준
