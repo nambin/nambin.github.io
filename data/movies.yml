@@ -1006,6 +1006,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gZsXtzwI3CgCvKF5TkgHVhhbEg1.jpg
   custom_korean_title: 프렌치 수프
+- title: May December
+  year: 2023
+  director: Todd Haynes
+  is_korean_director: false
+  imdb_id: tt13651794
+  imdb_url: https://www.imdb.com/title/tt13651794
+  tmdb_url: https://www.themoviedb.org/movie/839369
+  tmdb_title: null
+  tmdb_original_title: May December
+  tmdb_original_language: English
+  tmdb_director_name_1: Todd Haynes
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/zhV7B610l7hjlri4ywikJ18ONuq.jpg
+  date_committed: 2026-08-17
 - title: Evil Does Not Exist
   year: 2023
   director: Ryusuke Hamaguchi
@@ -7525,6 +7540,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg
+- title: Chloe
+  year: 2010
+  director: Atom Egoyan
+  is_korean_director: false
+  imdb_id: tt1352824
+  imdb_url: https://www.imdb.com/title/tt1352824
+  tmdb_url: https://www.themoviedb.org/movie/28211
+  tmdb_title: null
+  tmdb_original_title: Chloe
+  tmdb_original_language: English
+  tmdb_director_name_1: Atom Egoyan
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/7VC7Q7GvIhEECIU3fiaRf71mxV6.jpg
 - title: 마더 (Mother)
   year: 2009
   director: 봉준호
@@ -8219,6 +8248,20 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4Are9oV8HjZQWnEajk9LYFxRWom.jpg
   custom_korean_title: 걸어도 걸어도
+- title: Blindness
+  year: 2008
+  director: Fernando Meirelles
+  is_korean_director: false
+  imdb_id: tt0861689
+  imdb_url: https://www.imdb.com/title/tt0861689
+  tmdb_url: https://www.themoviedb.org/movie/8338
+  tmdb_title: null
+  tmdb_original_title: Blindness
+  tmdb_original_language: English
+  tmdb_director_name_1: Fernando Meirelles
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/deBsx5IxyqCC217j3VY24TkkE0Z.jpg
 - title: The Curious Case of Benjamin Button
   year: 2008
   director: David Fincher
