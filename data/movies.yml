@@ -630,6 +630,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ruImrzB4POsrgwCMozmOBV67zs5.jpg
+- title: The Seed of the Sacred Fig (Les Graines du figuier sauvage)
+  year: 2024
+  director: Mohammad Rasoulof
+  is_korean_director: false
+  imdb_id: tt32178949
+  imdb_url: https://www.imdb.com/title/tt32178949
+  tmdb_url: https://www.themoviedb.org/movie/1278263
+  tmdb_title: The Seed of the Sacred Fig
+  tmdb_original_title: Les Graines du figuier sauvage
+  tmdb_original_language: French
+  tmdb_director_name_1: Mohammad Rasoulof
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg
+  date_committed: 2026-08-16
 - title: Hard Truths
   year: 2024
   director: Mike Leigh
