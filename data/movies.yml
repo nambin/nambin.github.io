@@ -1021,6 +1021,23 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/zhV7B610l7hjlri4ywikJ18ONuq.jpg
   date_committed: 2026-08-17
+- title: Godzilla Minus One (ゴジラ-1.0)
+  year: 2023
+  director: Takashi Yamazaki
+  is_korean_director: false
+  imdb_id: tt23289160
+  imdb_url: https://www.imdb.com/title/tt23289160
+  tmdb_url: https://www.themoviedb.org/movie/940721
+  tmdb_title: Godzilla Minus One
+  tmdb_original_title: ゴジラ-1.0
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Takashi Yamazaki
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/2E2WTX0TJEflAged6kzErwqX1kt.jpg
+  date_committed: 2026-08-17
+  award_names:
+    - Japan Academy Prize
 - title: Evil Does Not Exist
   year: 2023
   director: Ryusuke Hamaguchi
