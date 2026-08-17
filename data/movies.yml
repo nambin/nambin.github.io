@@ -1897,6 +1897,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/j0XxLH1QcOrnyxBLvMYWJZSzLfH.jpg
+- title: Under the Open Sky (すばらしき世界)
+  year: 2021
+  director: Miwa Nishikawa
+  is_korean_director: false
+  imdb_id: tt12801374
+  imdb_url: https://www.imdb.com/title/tt12801374
+  tmdb_url: https://www.themoviedb.org/movie/728882
+  tmdb_title: Under the Open Sky
+  tmdb_original_title: すばらしき世界
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Miwa Nishikawa
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/w6NjKEdi5kqRsVv05pYJ2uyeOCU.jpg
+  date_committed: 2026-08-17
 - title: The Batman
   year: 2021
   director: Matt Reeves
