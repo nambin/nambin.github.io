@@ -10097,6 +10097,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3yOjvsm41XoamwWDtpzpY3LBRpy.jpg
+- title: Oasis (오아시스)
+  year: 2002
+  director: 이창동
+  is_korean_director: true
+  imdb_id: tt0320193
+  imdb_url: https://www.imdb.com/title/tt0320193
+  tmdb_url: https://www.themoviedb.org/movie/26955
+  tmdb_title: Oasis
+  tmdb_original_title: 오아시스
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Chang-dong
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/aaajiBpeBVbVwovpSQKaMfKRGKw.jpg
+  date_committed: 2026-08-18
 - title: 결혼은, 미친 짓이다
   year: 2002
   director: 유하
