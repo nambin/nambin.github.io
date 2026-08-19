@@ -1083,6 +1083,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/kGlZFwUQI5gAUdySNFfqGIkAF9n.jpg
+- title: Killers of the Flower Moon
+  year: 2023
+  director: Martin Scorsese
+  is_korean_director: false
+  imdb_id: tt5537002
+  imdb_url: https://www.imdb.com/title/tt5537002
+  tmdb_url: https://www.themoviedb.org/movie/466420
+  tmdb_title: null
+  tmdb_original_title: Killers of the Flower Moon
+  tmdb_original_language: English
+  tmdb_director_name_1: Martin Scorsese
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg
+  date_committed: 2026-08-19
 - title: 'Spider-Man: Across the Spider-Verse'
   year: 2023
   director: Joaquim Dos Santos, Kemp Powers, Justin K. Thompson
