@@ -7801,6 +7801,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/66A9MqXOyVFCssoloscw79z8Tew.jpg
+- title: Inglourious Basterds
+  year: 2009
+  director: Quentin Tarantino
+  is_korean_director: false
+  imdb_id: tt0361748
+  imdb_url: https://www.imdb.com/title/tt0361748
+  tmdb_url: https://www.themoviedb.org/movie/16869
+  tmdb_title: null
+  tmdb_original_title: Inglourious Basterds
+  tmdb_original_language: English
+  tmdb_director_name_1: Quentin Tarantino
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg
+  date_committed: 2026-08-21
 - title: District 9
   year: 2009
   director: Peter Jackson
