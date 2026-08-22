@@ -1,3 +1,19 @@
+- title: The Odyssey
+  year: 2026
+  director: Christopher Nolan
+  is_korean_director: false
+  imdb_id: tt33764258
+  imdb_url: https://www.imdb.com/title/tt33764258
+  tmdb_url: https://www.themoviedb.org/movie/1368337
+  tmdb_title: null
+  tmdb_original_title: The Odyssey
+  tmdb_original_language: English
+  tmdb_director_name_1: Christopher Nolan
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg
+  date_committed: 2026-08-12
+  masterpiece: true
 - title: The King's Warden (왕과 사는 남자)
   year: 2026
   director: 장항준
@@ -13,6 +29,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg
   date_committed: 2026-05-10
+- title: Colony (군체)
+  year: 2026
+  director: 연상호
+  is_korean_director: true
+  imdb_id: tt34385135
+  imdb_url: https://www.imdb.com/title/tt34385135
+  tmdb_url: https://www.themoviedb.org/movie/1375646
+  tmdb_title: Colony
+  tmdb_original_title: 군체
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Yeon Sang-ho
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/tN799oUR0f1gUKDYdMNrDaY7I51.jpg
+  date_committed: 2026-08-04
 - title: Hope (호프)
   year: 2026
   director: 나홍진
@@ -43,6 +74,36 @@
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg
   date_committed: 2026-05-10
+- title: '"Wuthering Heights"'
+  year: 2026
+  director: Emerald Fennell
+  is_korean_director: false
+  imdb_id: tt32897959
+  imdb_url: https://www.imdb.com/title/tt32897959
+  tmdb_url: https://www.themoviedb.org/movie/1316092
+  tmdb_title: null
+  tmdb_original_title: '"Wuthering Heights"'
+  tmdb_original_language: English
+  tmdb_director_name_1: Emerald Fennell
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/3YBce6dTh1D5oCMITXk2S5QhPt.jpg
+  date_committed: 2026-08-20
+- title: 'Spider-Man: Brand New Day'
+  year: 2026
+  director: Destin Daniel Cretton
+  is_korean_director: false
+  imdb_id: tt22084616
+  imdb_url: https://www.imdb.com/title/tt22084616
+  tmdb_url: https://www.themoviedb.org/movie/969681
+  tmdb_title: null
+  tmdb_original_title: 'Spider-Man: Brand New Day'
+  tmdb_original_language: English
+  tmdb_director_name_1: Destin Daniel Cretton
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg
+  date_committed: 2026-08-02
 - title: The World of Love (세계의 주인)
   year: 2025
   director: 윤가은
@@ -249,6 +310,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/epI43M0kT1FNr2qPXOoke4ux8U1.jpg
+- title: Two Seasons, Two Strangers (旅と日々)
+  year: 2025
+  director: Sho Miyake
+  is_korean_director: false
+  imdb_id: tt37538491
+  imdb_url: https://www.imdb.com/title/tt37538491
+  tmdb_url: https://www.themoviedb.org/movie/1462735
+  tmdb_title: Two Seasons, Two Strangers
+  tmdb_original_title: 旅と日々
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Sho Miyake
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/peOymUmbUL3e3x3DJLDNpHbNFNW.jpg
+  date_committed: 2026-08-08
 - title: 'Wake Up Dead Man: A Knives Out Mystery'
   year: 2025
   director: Rian Johnson
@@ -569,6 +645,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ruImrzB4POsrgwCMozmOBV67zs5.jpg
+- title: The Seed of the Sacred Fig (Les Graines du figuier sauvage)
+  year: 2024
+  director: Mohammad Rasoulof
+  is_korean_director: false
+  imdb_id: tt32178949
+  imdb_url: https://www.imdb.com/title/tt32178949
+  tmdb_url: https://www.themoviedb.org/movie/1278263
+  tmdb_title: The Seed of the Sacred Fig
+  tmdb_original_title: Les Graines du figuier sauvage
+  tmdb_original_language: French
+  tmdb_director_name_1: Mohammad Rasoulof
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/ifOazNzv2cNJ5CQjMV7cPXG2Lmy.jpg
+  date_committed: 2026-08-16
 - title: Hard Truths
   year: 2024
   director: Mike Leigh
@@ -930,6 +1021,38 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gZsXtzwI3CgCvKF5TkgHVhhbEg1.jpg
   custom_korean_title: 프렌치 수프
+- title: May December
+  year: 2023
+  director: Todd Haynes
+  is_korean_director: false
+  imdb_id: tt13651794
+  imdb_url: https://www.imdb.com/title/tt13651794
+  tmdb_url: https://www.themoviedb.org/movie/839369
+  tmdb_title: null
+  tmdb_original_title: May December
+  tmdb_original_language: English
+  tmdb_director_name_1: Todd Haynes
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/zhV7B610l7hjlri4ywikJ18ONuq.jpg
+  date_committed: 2026-08-17
+- title: Godzilla Minus One (ゴジラ-1.0)
+  year: 2023
+  director: Takashi Yamazaki
+  is_korean_director: false
+  imdb_id: tt23289160
+  imdb_url: https://www.imdb.com/title/tt23289160
+  tmdb_url: https://www.themoviedb.org/movie/940721
+  tmdb_title: Godzilla Minus One
+  tmdb_original_title: ゴジラ-1.0
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Takashi Yamazaki
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/2E2WTX0TJEflAged6kzErwqX1kt.jpg
+  date_committed: 2026-08-17
+  award_names:
+    - Japan Academy Prize
 - title: Evil Does Not Exist
   year: 2023
   director: Ryusuke Hamaguchi
@@ -975,6 +1098,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/kGlZFwUQI5gAUdySNFfqGIkAF9n.jpg
+- title: Killers of the Flower Moon
+  year: 2023
+  director: Martin Scorsese
+  is_korean_director: false
+  imdb_id: tt5537002
+  imdb_url: https://www.imdb.com/title/tt5537002
+  tmdb_url: https://www.themoviedb.org/movie/466420
+  tmdb_title: null
+  tmdb_original_title: Killers of the Flower Moon
+  tmdb_original_language: English
+  tmdb_director_name_1: Martin Scorsese
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/dB6Krk806zeqd0YNp2ngQ9zXteH.jpg
+  date_committed: 2026-08-19
 - title: 'Spider-Man: Across the Spider-Verse'
   year: 2023
   director: Joaquim Dos Santos, Kemp Powers, Justin K. Thompson
@@ -1806,6 +1944,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/j0XxLH1QcOrnyxBLvMYWJZSzLfH.jpg
+- title: Under the Open Sky (すばらしき世界)
+  year: 2021
+  director: Miwa Nishikawa
+  is_korean_director: false
+  imdb_id: tt12801374
+  imdb_url: https://www.imdb.com/title/tt12801374
+  tmdb_url: https://www.themoviedb.org/movie/728882
+  tmdb_title: Under the Open Sky
+  tmdb_original_title: すばらしき世界
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Miwa Nishikawa
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/w6NjKEdi5kqRsVv05pYJ2uyeOCU.jpg
+  date_committed: 2026-08-17
 - title: The Batman
   year: 2021
   director: Matt Reeves
@@ -3458,6 +3611,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/fF2xXApETxZqyluokyJ1x4gIiTf.jpg
+- title: Mirai (未来のミライ)
+  year: 2018
+  director: Mamoru Hosoda
+  is_korean_director: false
+  imdb_id: tt6900448
+  imdb_url: https://www.imdb.com/title/tt6900448
+  tmdb_url: https://www.themoviedb.org/movie/475215
+  tmdb_title: Mirai
+  tmdb_original_title: 未来のミライ
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Mamoru Hosoda
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/b9XvI4Nehzi0nXyNVD6DtT39P6l.jpg
+  date_committed: 2026-08-06
 - title: Us and Them (后来的我们, 먼 훗날 우리)
   year: 2018
   director: Liú Ruòyīng
@@ -4299,6 +4467,21 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/xENc6UYviC3JfFqKA6kReHfT2Zt.jpg
   award_names:
     - Japan Academy Prize
+- title: Blade Runner 2049
+  year: 2017
+  director: Denis Villeneuve
+  is_korean_director: false
+  imdb_id: tt1856101
+  imdb_url: https://www.imdb.com/title/tt1856101
+  tmdb_url: https://www.themoviedb.org/movie/335984
+  tmdb_title: null
+  tmdb_original_title: Blade Runner 2049
+  tmdb_original_language: English
+  tmdb_director_name_1: Denis Villeneuve
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg
+  date_committed: 2026-08-14
 - title: A Ghost Story
   year: 2017
   director: David Lowery
@@ -6988,6 +7171,20 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4SNjM2dUrq21TPK2faONOQ8riav.jpg
   date_committed: 2026-07-27
+- title: Sunny (써니)
+  year: 2011
+  director: 강형철
+  is_korean_director: true
+  imdb_id: tt1937339
+  imdb_url: https://www.imdb.com/title/tt1937339
+  tmdb_url: https://www.themoviedb.org/movie/77117
+  tmdb_title: Sunny
+  tmdb_original_title: 써니
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kang Hyoung-chul
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/m21yedsv5rGNmvOU0X9ARvxC0XM.jpg
 - title: Contagion
   year: 2011
   director: Steven Soderbergh
@@ -7256,6 +7453,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/twx3c3SYYvpkuKOpZ57yfodNr0f.jpg
+- title: I Saw the Devil (악마를 보았다)
+  year: 2010
+  director: 김지운
+  is_korean_director: true
+  imdb_id: tt1588170
+  imdb_url: https://www.imdb.com/title/tt1588170
+  tmdb_url: https://www.themoviedb.org/movie/49797
+  tmdb_title: I Saw the Devil
+  tmdb_original_title: 악마를 보았다
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Jee-woon
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/zp5NrmYp80axIGiEiYPmm1CW6uH.jpg
+  date_committed: 2026-08-05
 - title: 방자전
   year: 2010
   director: 김대우
@@ -7390,6 +7602,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/ljsZTbVsrQSqZgWeep2B1QiDKuh.jpg
+- title: Chloe
+  year: 2010
+  director: Atom Egoyan
+  is_korean_director: false
+  imdb_id: tt1352824
+  imdb_url: https://www.imdb.com/title/tt1352824
+  tmdb_url: https://www.themoviedb.org/movie/28211
+  tmdb_title: null
+  tmdb_original_title: Chloe
+  tmdb_original_language: English
+  tmdb_director_name_1: Atom Egoyan
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/7VC7Q7GvIhEECIU3fiaRf71mxV6.jpg
 - title: 마더 (Mother)
   year: 2009
   director: 봉준호
@@ -7575,6 +7801,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/66A9MqXOyVFCssoloscw79z8Tew.jpg
+- title: Inglourious Basterds
+  year: 2009
+  director: Quentin Tarantino
+  is_korean_director: false
+  imdb_id: tt0361748
+  imdb_url: https://www.imdb.com/title/tt0361748
+  tmdb_url: https://www.themoviedb.org/movie/16869
+  tmdb_title: null
+  tmdb_original_title: Inglourious Basterds
+  tmdb_original_language: English
+  tmdb_director_name_1: Quentin Tarantino
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/aupnPtagH9JVBuMrGEanf4iqXEQ.jpg
+  date_committed: 2026-08-21
 - title: District 9
   year: 2009
   director: Peter Jackson
@@ -8084,6 +8325,20 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4Are9oV8HjZQWnEajk9LYFxRWom.jpg
   custom_korean_title: 걸어도 걸어도
+- title: Blindness
+  year: 2008
+  director: Fernando Meirelles
+  is_korean_director: false
+  imdb_id: tt0861689
+  imdb_url: https://www.imdb.com/title/tt0861689
+  tmdb_url: https://www.themoviedb.org/movie/8338
+  tmdb_title: null
+  tmdb_original_title: Blindness
+  tmdb_original_language: English
+  tmdb_director_name_1: Fernando Meirelles
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/deBsx5IxyqCC217j3VY24TkkE0Z.jpg
 - title: The Curious Case of Benjamin Button
   year: 2008
   director: David Fincher
@@ -9887,6 +10142,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3yOjvsm41XoamwWDtpzpY3LBRpy.jpg
+- title: Oasis (오아시스)
+  year: 2002
+  director: 이창동
+  is_korean_director: true
+  imdb_id: tt0320193
+  imdb_url: https://www.imdb.com/title/tt0320193
+  tmdb_url: https://www.themoviedb.org/movie/26955
+  tmdb_title: Oasis
+  tmdb_original_title: 오아시스
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Chang-dong
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/aaajiBpeBVbVwovpSQKaMfKRGKw.jpg
+  date_committed: 2026-08-18
 - title: 결혼은, 미친 짓이다
   year: 2002
   director: 유하
@@ -11925,6 +12195,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vDJurMJkrx049AiXa3DJx5Zx7a4.jpg
+- title: Crash
+  year: 1996
+  director: David Cronenberg
+  is_korean_director: false
+  imdb_id: tt0115964
+  imdb_url: https://www.imdb.com/title/tt0115964
+  tmdb_url: https://www.themoviedb.org/movie/884
+  tmdb_title: null
+  tmdb_original_title: Crash
+  tmdb_original_language: English
+  tmdb_director_name_1: David Cronenberg
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/gpai5oUFyFGLHOCsYTvVMqlbY7A.jpg
 - title: Fly Away Home
   year: 1996
   director: Carroll Ballard
@@ -13785,6 +14069,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/an0nD6uq6byfxXCfk6lQBzdL2J1.jpg
+- title: Blade Runner
+  year: 1982
+  director: Ridley Scott
+  is_korean_director: false
+  imdb_id: tt0083658
+  imdb_url: https://www.imdb.com/title/tt0083658
+  tmdb_url: https://www.themoviedb.org/movie/78
+  tmdb_title: null
+  tmdb_original_title: Blade Runner
+  tmdb_original_language: English
+  tmdb_director_name_1: Ridley Scott
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/63N9uy8nd9j7Eog2axPQ8lbr3Wj.jpg
+  date_committed: 2026-08-08
 - title: Indiana Jones - Raiders of the Lost Ark
   year: 1981
   director: Steven Spielberg
@@ -14184,6 +14483,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/z1Z1tZMR66RxcNeHbwoEhYeqOlP.jpg
+- title: The Young Girls of Rochefort (Les Demoiselles de Rochefort)
+  year: 1967
+  director: Jacques Demy
+  is_korean_director: false
+  imdb_id: tt0062873
+  imdb_url: https://www.imdb.com/title/tt0062873
+  tmdb_url: https://www.themoviedb.org/movie/2433
+  tmdb_title: The Young Girls of Rochefort
+  tmdb_original_title: Les Demoiselles de Rochefort
+  tmdb_original_language: French
+  tmdb_director_name_1: Jacques Demy
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/jtxhyGaYhurH6KsjvP1jV3dDypz.jpg
+  date_committed: 2026-08-01
 - title: The Battle of Algiers (La battaglia di Algeri)
   year: 1966
   director: Gillo Pontecorvo
@@ -14414,6 +14728,21 @@
     - Oscar Best International Film
   awards:
     - oscar
+- title: Charade
+  year: 1963
+  director: Stanley Donen
+  is_korean_director: false
+  imdb_id: tt0056923
+  imdb_url: https://www.imdb.com/title/tt0056923
+  tmdb_url: https://www.themoviedb.org/movie/4808
+  tmdb_title: null
+  tmdb_original_title: Charade
+  tmdb_original_language: English
+  tmdb_director_name_1: Stanley Donen
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/qqaPjC5FQidtKY65jbAKZPiOTaS.jpg
+  date_committed: 2026-08-03
 - title: Vivre Sa Vie (To Live Her Life)
   year: 1962
   director: Jean-Luc Godard
