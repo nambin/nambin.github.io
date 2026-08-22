@@ -9631,6 +9631,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gycdE1ARByGQcK4fYR2mgpU6OO.jpg
+- title: The Notebook
+  year: 2004
+  director: Nick Cassavetes
+  is_korean_director: false
+  imdb_id: tt0332280
+  imdb_url: https://www.imdb.com/title/tt0332280
+  tmdb_url: https://www.themoviedb.org/movie/11036
+  tmdb_title: null
+  tmdb_original_title: The Notebook
+  tmdb_original_language: English
+  tmdb_director_name_1: Nick Cassavetes
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/rNzQyW4f8B8cQeg7Dgj3n6eT5k9.jpg
 - title: Closer
   year: 2004
   director: Mike Nichols
