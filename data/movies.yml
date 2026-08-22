@@ -9350,6 +9350,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/juSBGCTK463as9clAea4mE2N3s0.jpg
+- title: Pride & Prejudice
+  year: 2005
+  director: Joe Wright
+  is_korean_director: false
+  imdb_id: tt0414387
+  imdb_url: https://www.imdb.com/title/tt0414387
+  tmdb_url: https://www.themoviedb.org/movie/4348
+  tmdb_title: null
+  tmdb_original_title: Pride & Prejudice
+  tmdb_original_language: English
+  tmdb_director_name_1: Joe Wright
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/o8UhmEbWPHmTUxP0lMuCoqNkbB3.jpg
+  date_committed: 2026-08-22
 - title: The Beat That My Heart Skipped
   year: 2005
   director: Jacques Audiard
@@ -15178,6 +15193,20 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/g2YbTYKpY7N2yDSk7BfXZ18I5QV.jpg
   masterpiece: true
   note: True art is about finding the best representation of an era.
+- title: Roman Holiday
+  year: 1953
+  director: William Wyler
+  is_korean_director: false
+  imdb_id: tt0046250
+  imdb_url: https://www.imdb.com/title/tt0046250
+  tmdb_url: https://www.themoviedb.org/movie/804
+  tmdb_title: null
+  tmdb_original_title: Roman Holiday
+  tmdb_original_language: English
+  tmdb_director_name_1: William Wyler
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8lI9dmz1RH20FAqltkGelY1v4BE.jpg
 - title: Forbidden Games (금지된 장난)
   year: 1952
   director: René Clément
