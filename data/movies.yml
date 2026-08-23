@@ -11486,6 +11486,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/6wkfovpn7Eq8dYNKaG5PY3q2oq6.jpg
+- title: The Green Mile
+  year: 1999
+  director: Frank Darabont
+  is_korean_director: false
+  imdb_id: tt0120689
+  imdb_url: https://www.imdb.com/title/tt0120689
+  tmdb_url: https://www.themoviedb.org/movie/497
+  tmdb_title: null
+  tmdb_original_title: The Green Mile
+  tmdb_original_language: English
+  tmdb_director_name_1: Frank Darabont
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg
+  date_committed: 2026-08-23
 - title: Fight Club
   year: 1999
   director: David Fincher
