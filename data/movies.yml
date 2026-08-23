@@ -11675,6 +11675,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg
+- title: The Big Lebowski
+  year: 1998
+  director: Joel Coen
+  is_korean_director: false
+  imdb_id: tt0118715
+  imdb_url: https://www.imdb.com/title/tt0118715
+  tmdb_url: https://www.themoviedb.org/movie/115
+  tmdb_title: null
+  tmdb_original_title: The Big Lebowski
+  tmdb_original_language: English
+  tmdb_director_name_1: Joel Coen
+  tmdb_director_name_2: Ethan Coen
+  tmdb_num_directors: 2
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/3bv6WAp6BSxxYvB5ozKFUYuRA8C.jpg
+  date_committed: 2026-08-23
 - title: After Life (원더풀 라이프)
   year: 1998
   director: Hirokazu Koreeda
