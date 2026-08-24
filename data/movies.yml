@@ -2909,6 +2909,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/pThyQovXQrw2m0s9x82twj48Jq4.jpg
+- title: Once Upon a Time... in Hollywood
+  year: 2019
+  director: Quentin Tarantino
+  is_korean_director: false
+  imdb_id: tt7131622
+  imdb_url: https://www.imdb.com/title/tt7131622
+  tmdb_url: https://www.themoviedb.org/movie/466272
+  tmdb_title: null
+  tmdb_original_title: Once Upon a Time... in Hollywood
+  tmdb_original_language: English
+  tmdb_director_name_1: Quentin Tarantino
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg
+  date_committed: 2026-08-24
 - title: Martin Eden
   year: 2019
   director: Pietro Marcello
