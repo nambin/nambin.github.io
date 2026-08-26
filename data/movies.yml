@@ -675,6 +675,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/eEj1TGrGc4IQ8bscFC17Ggdg6ft.jpg
+- title: Challengers
+  year: 2024
+  director: Luca Guadagnino
+  is_korean_director: false
+  imdb_id: tt16426418
+  imdb_url: https://www.imdb.com/title/tt16426418
+  tmdb_url: https://www.themoviedb.org/movie/937287
+  tmdb_title: null
+  tmdb_original_title: Challengers
+  tmdb_original_language: English
+  tmdb_director_name_1: Luca Guadagnino
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/H6vke7zGiuLsz4v4RPeReb9rsv.jpg
+  date_committed: 2026-08-26
 - title: Inside Out 2
   year: 2024
   director: Kelsey Mann
