@@ -2475,6 +2475,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4yzTcAtvzyZLLto4z04xobUK9el.jpg
+- title: Sound of Metal
+  year: 2020
+  director: Darius Marder
+  is_korean_director: false
+  imdb_id: tt5363618
+  imdb_url: https://www.imdb.com/title/tt5363618
+  tmdb_url: https://www.themoviedb.org/movie/502033
+  tmdb_title: null
+  tmdb_original_title: Sound of Metal
+  tmdb_original_language: English
+  tmdb_director_name_1: Darius Marder
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/3178oOJKKPDeQ2legWQvMPpllv.jpg
+  date_committed: 2026-08-26
 - title: Tenet
   year: 2020
   director: Christopher Nolan
