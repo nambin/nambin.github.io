@@ -1098,6 +1098,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/4Y1WNkd88JXmGfhtWR7dmDAo1T2.jpg
+- title: Red Rooms (Les Chambres rouges)
+  year: 2023
+  director: Pascal Plante
+  is_korean_director: false
+  imdb_id: tt22207786
+  imdb_url: https://www.imdb.com/title/tt22207786
+  tmdb_url: https://www.themoviedb.org/movie/912480
+  tmdb_title: Red Rooms
+  tmdb_original_title: Les Chambres rouges
+  tmdb_original_language: French
+  tmdb_director_name_1: Pascal Plante
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/uBJvbf0g9rcsYElcwZCMYU0Vrj8.jpg
+  date_committed: 2026-08-27
 - title: Io Capitano
   year: 2023
   director: Matteo Garrone
