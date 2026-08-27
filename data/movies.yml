@@ -7275,6 +7275,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/qL0IooP0bjXy0KXl9KEyPo22ll0.jpg
+- title: The Iron Lady
+  year: 2011
+  director: Phyllida Lloyd
+  is_korean_director: false
+  imdb_id: tt1007029
+  imdb_url: https://www.imdb.com/title/tt1007029
+  tmdb_url: https://www.themoviedb.org/movie/71688
+  tmdb_title: null
+  tmdb_original_title: The Iron Lady
+  tmdb_original_language: English
+  tmdb_director_name_1: Phyllida Lloyd
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/fx7wpKXOht7WOkeOslvErbrf69Q.jpg
 - title: We Need to Talk About Kevin
   year: 2011
   director: Lynne Ramsay
