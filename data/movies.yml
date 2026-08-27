@@ -12679,6 +12679,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uXDfjJbdP4ijW5hWSBrPrlKpxab.jpg
+- title: The Bridges of Madison County
+  year: 1995
+  director: Clint Eastwood
+  is_korean_director: false
+  imdb_id: tt0112579
+  imdb_url: https://www.imdb.com/title/tt0112579
+  tmdb_url: https://www.themoviedb.org/movie/688
+  tmdb_title: null
+  tmdb_original_title: The Bridges of Madison County
+  tmdb_original_language: English
+  tmdb_director_name_1: Clint Eastwood
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/aCBrhOQjhG397GLkEZ49zReQEKX.jpg
+  date_committed: 2026-08-27
 - title: Total Eclipse
   year: 1995
   director: Agnieszka Holland
