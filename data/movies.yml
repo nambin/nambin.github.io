@@ -1020,6 +1020,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/rAkz95CREc3A1qTnwlSQ0jh8Zw8.jpg
+- title: Close Your Eyes (Cerrar los ojos)
+  year: 2023
+  director: Víctor Erice
+  is_korean_director: false
+  imdb_id: tt21284358
+  imdb_url: https://www.imdb.com/title/tt21284358
+  tmdb_url: https://www.themoviedb.org/movie/997294
+  tmdb_title: Close Your Eyes
+  tmdb_original_title: Cerrar los ojos
+  tmdb_original_language: Spanish
+  tmdb_director_name_1: Víctor Erice
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/czUKm6JUutIg55EcRJ7CRAAzFMU.jpg
+  date_committed: 2026-08-28
 - title: The Taste of Things (프렌치 수프)
   year: 2023
   director: Tran Anh Hung
