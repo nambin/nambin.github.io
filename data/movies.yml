@@ -1113,6 +1113,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/uBJvbf0g9rcsYElcwZCMYU0Vrj8.jpg
   date_committed: 2026-08-27
+- title: Robot Dreams
+  year: 2023
+  director: Pablo Berger
+  is_korean_director: false
+  imdb_id: tt13429870
+  imdb_url: https://www.imdb.com/title/tt13429870
+  tmdb_url: https://www.themoviedb.org/movie/838240
+  tmdb_title: null
+  tmdb_original_title: Robot Dreams
+  tmdb_original_language: Spanish
+  tmdb_director_name_1: Pablo Berger
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg
+  date_committed: 2026-08-28
 - title: Io Capitano
   year: 2023
   director: Matteo Garrone
