@@ -5120,6 +5120,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/6L1bbZcB7HbpxnlzGOKdhufrYNB.jpg
   custom_korean_title: '충돌: 아랍의 봄 그 이후'
+- title: Things to Come (L'Avenir)
+  year: 2016
+  director: Mia Hansen-Løve
+  is_korean_director: false
+  imdb_id: tt4120176
+  imdb_url: https://www.imdb.com/title/tt4120176
+  tmdb_url: https://www.themoviedb.org/movie/374465
+  tmdb_title: Things to Come
+  tmdb_original_title: L'Avenir
+  tmdb_original_language: French
+  tmdb_director_name_1: Mia Hansen-Løve
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/6MAAJJ51y2RUa1gvvVje4s0FB7W.jpg
+  date_committed: 2026-08-29
 - title: Toni Erdmann
   year: 2016
   director: Maren Ade
