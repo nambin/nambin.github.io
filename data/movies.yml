@@ -310,6 +310,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/epI43M0kT1FNr2qPXOoke4ux8U1.jpg
+- title: People and Meat (사람과 고기)
+  year: 2025
+  director: Yang Jong-hyun
+  is_korean_director: false
+  imdb_id: tt36591539
+  imdb_url: https://www.imdb.com/title/tt36591539
+  tmdb_url: https://www.themoviedb.org/movie/1420259
+  tmdb_title: People and Meat
+  tmdb_original_title: 사람과 고기
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Yang Jong-hyun
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/jHXi1jpXsbGtb1Ehc9dDQ1pB7uq.jpg
+  date_committed: 2026-08-29
 - title: Two Seasons, Two Strangers (旅と日々)
   year: 2025
   director: Sho Miyake
