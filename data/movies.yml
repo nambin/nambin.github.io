@@ -10041,6 +10041,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/l3exwhwyGE0NnHJ3lFQ7eXoBSkH.jpg
+- title: Wonderful Days (원더풀 데이즈)
+  year: 2003
+  director: 김문생
+  is_korean_director: true
+  imdb_id: tt0353014
+  imdb_url: https://www.imdb.com/title/tt0353014
+  tmdb_url: https://www.themoviedb.org/movie/14258
+  tmdb_title: Wonderful Days
+  tmdb_original_title: 원더풀 데이즈
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Moon-saeng Kim
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/ot2pohox9Hbmt5eH1JzNYleOgL1.jpg
 - title: 싱글즈
   year: 2003
   director: 권칠인
