@@ -14067,6 +14067,21 @@
   custom_korean_title: 영웅본색
   award_names:
     - Hong Kong Film Awards
+- title: Castle in the Sky (天空の城ラピュタ)
+  year: 1986
+  director: Hayao Miyazaki
+  is_korean_director: false
+  imdb_id: tt0092067
+  imdb_url: https://www.imdb.com/title/tt0092067
+  tmdb_url: https://www.themoviedb.org/movie/10515
+  tmdb_title: Castle in the Sky
+  tmdb_original_title: 天空の城ラピュタ
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Hayao Miyazaki
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/41XxSsJc5OrulP0m7TrrUeO2hoz.jpg
+  date_committed: 2026-08-30
 - title: The Purple Rose of Cairo
   year: 1985
   director: Woody Allen
