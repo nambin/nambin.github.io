@@ -6843,6 +6843,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/f6yBjjTQaOIzSOLVcCqlfcWxUqW.jpg
+- title: Moonrise Kingdom
+  year: 2012
+  director: Wes Anderson
+  is_korean_director: false
+  imdb_id: tt1748122
+  imdb_url: https://www.imdb.com/title/tt1748122
+  tmdb_url: https://www.themoviedb.org/movie/83666
+  tmdb_title: null
+  tmdb_original_title: Moonrise Kingdom
+  tmdb_original_language: English
+  tmdb_director_name_1: Wes Anderson
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/y4SXcbNl6CEF2t36icuzuBioj7K.jpg
+  date_committed: 2026-08-31
 - title: Les Misérables
   year: 2012
   director: Tom Hooper
