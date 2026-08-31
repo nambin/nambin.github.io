@@ -120,6 +120,22 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/cg679vCkXY9RH2iINLvdG68tzsQ.jpg
   date_committed: 2026-05-10
   my_best: true
+- title: Two Prosecutors (Zwei Staatsanwälte)
+  year: 2025
+  director: Sergei Loznitsa
+  is_korean_director: false
+  imdb_id: tt35521200
+  imdb_url: https://www.imdb.com/title/tt35521200
+  tmdb_url: https://www.themoviedb.org/movie/1257406
+  tmdb_title: Two Prosecutors
+  tmdb_original_title: Zwei Staatsanwälte
+  tmdb_original_language: Russian
+  tmdb_director_name_1: Sergei Loznitsa
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/wV8A0YX9bVJ7CGnUAqDJtyYv6C2.jpg
+  date_committed: 2026-08-31
+  my_best: true
 - title: Sinners
   year: 2025
   director: Ryan Coogler
