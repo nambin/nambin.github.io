@@ -6230,6 +6230,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wq4lhMc4BuOyQqe1ZGzhxLyy3Uk.jpg
+- title: Leviathan (Левиафан)
+  year: 2014
+  director: Andrey Zvyagintsev
+  is_korean_director: false
+  imdb_id: tt2802154
+  imdb_url: https://www.imdb.com/title/tt2802154
+  tmdb_url: https://www.themoviedb.org/movie/265180
+  tmdb_title: Leviathan
+  tmdb_original_title: Левиафан
+  tmdb_original_language: Russian
+  tmdb_director_name_1: Andrey Zvyagintsev
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/dwmHSBBiu2ow271zrQ33rPKZDSC.jpg
+  date_committed: 2026-09-01
 - title: 2 States
   year: 2014
   director: Abhishek Varman
