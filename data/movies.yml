@@ -387,6 +387,21 @@
   tmdb_num_directors: 0
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gyasYg4xhmmVfbsS96x4CCm6a30.jpg
   custom_korean_title: 소년의 시간
+- title: Sirāt
+  year: 2025
+  director: Oliver Laxe
+  is_korean_director: false
+  imdb_id: tt32298285
+  imdb_url: https://www.imdb.com/title/tt32298285
+  tmdb_url: https://www.themoviedb.org/movie/1151272
+  tmdb_title: null
+  tmdb_original_title: Sirāt
+  tmdb_original_language: Spanish
+  tmdb_director_name_1: Oliver Laxe
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg
+  date_committed: 2026-09-01
 - title: Snow White
   year: 2025
   director: Marc Webb
