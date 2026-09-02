@@ -6048,6 +6048,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/zSqJ1qFq8NXFfi7JeIYMlzyR0dx.jpg
+- title: Mr. Turner
+  year: 2014
+  director: Mike Leigh
+  is_korean_director: false
+  imdb_id: tt2473794
+  imdb_url: https://www.imdb.com/title/tt2473794
+  tmdb_url: https://www.themoviedb.org/movie/245700
+  tmdb_title: null
+  tmdb_original_title: Mr. Turner
+  tmdb_original_language: English
+  tmdb_director_name_1: Mike Leigh
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/rnVhl1PFSOoW5c6UhZJZt5TV98p.jpg
+  date_committed: 2026-09-02
 - title: The Look of Silence
   year: 2014
   director: Joshua Oppenheimer
