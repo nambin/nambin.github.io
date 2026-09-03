@@ -13188,6 +13188,22 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/5Tuyt26v7qNR8Cl3m7ZRx36rduf.jpg
   my_best: true
+- title: Raining Stones
+  year: 1993
+  director: Ken Loach
+  is_korean_director: false
+  imdb_id: tt0107920
+  imdb_url: https://www.imdb.com/title/tt0107920
+  tmdb_url: https://www.themoviedb.org/movie/62463
+  tmdb_title: null
+  tmdb_original_title: Raining Stones
+  tmdb_original_language: English
+  tmdb_director_name_1: Ken Loach
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/6mn9rCxmslIThAVEqDc6IYY3tZb.jpg
+  date_committed: 2026-09-03
+  my_best: true
 - title: Schindler's List
   year: 1993
   director: Steven Spielberg
