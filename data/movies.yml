@@ -7455,6 +7455,23 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/auAmiRmbBQ5QIYGpWgcGBoBQY3b.jpg
+- title: Melancholia
+  year: 2011
+  director: Lars von Trier
+  is_korean_director: false
+  imdb_id: tt1527186
+  imdb_url: https://www.imdb.com/title/tt1527186
+  tmdb_url: https://www.themoviedb.org/movie/62215
+  tmdb_title: null
+  tmdb_original_title: Melancholia
+  tmdb_original_language: English
+  tmdb_director_name_1: Lars von Trier
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/fMneszMiQuTKY8JUXrGGB5vwqJf.jpg
+  date_committed: 2026-09-03
+  award_names:
+    - European Film Award for Best Film
 - title: Memoria de mis putas tristes (내 슬픈 창녀들의 추억)
   year: 2011
   director: Henning Carlsen
