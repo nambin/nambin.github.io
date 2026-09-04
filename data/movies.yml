@@ -8302,6 +8302,25 @@
     - Oscar Best International Film
   awards:
     - oscar
+- title: The Class (Entre les murs)
+  year: 2008
+  director: Laurent Cantet
+  is_korean_director: false
+  imdb_id: tt1068646
+  imdb_url: https://www.imdb.com/title/tt1068646
+  tmdb_url: https://www.themoviedb.org/movie/8841
+  tmdb_title: The Class
+  tmdb_original_title: Entre les murs
+  tmdb_original_language: French
+  tmdb_director_name_1: Laurent Cantet
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8yFgK1YgfrnbsRXTg4Hko98nIUt.jpg
+  date_committed: 2026-09-04
+  award_names:
+    - Cannes Palme d'Or
+  awards:
+    - cannes
 - title: The Wrestler
   year: 2008
   director: Darren Aronofsky
