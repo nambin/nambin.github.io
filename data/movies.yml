@@ -12281,6 +12281,23 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/gnK1ocpwUTj24zAktzomOJsD2bu.jpg
+- title: Princess Mononoke (もののけ姫)
+  year: 1997
+  director: Hayao Miyazaki
+  is_korean_director: false
+  imdb_id: tt0119698
+  imdb_url: https://www.imdb.com/title/tt0119698
+  tmdb_url: https://www.themoviedb.org/movie/128
+  tmdb_title: Princess Mononoke
+  tmdb_original_title: もののけ姫
+  tmdb_original_language: Japanese
+  tmdb_director_name_1: Hayao Miyazaki
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/cMYCDADoLKLbB83g4WnJegaZimC.jpg
+  date_committed: 2026-09-05
+  award_names:
+    - Japan Academy Prize
 - title: Good Will Hunting
   year: 1997
   director: Gus Van Sant
