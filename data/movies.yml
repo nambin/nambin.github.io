@@ -10946,6 +10946,25 @@
     - Oscar Best International Film
   awards:
     - oscar
+- title: Nowhere in Africa (Nirgendwo in Afrika)
+  year: 2001
+  director: Caroline Link
+  is_korean_director: false
+  imdb_id: tt0161860
+  imdb_url: https://www.imdb.com/title/tt0161860
+  tmdb_url: https://www.themoviedb.org/movie/1591
+  tmdb_title: Nowhere in Africa
+  tmdb_original_title: Nirgendwo in Afrika
+  tmdb_original_language: German
+  tmdb_director_name_1: Caroline Link
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/2ED1GaTKhHielGYa1giBsxfoacp.jpg
+  date_committed: 2026-09-07
+  award_names:
+    - Oscar Best International Film
+  awards:
+    - oscar
 - title: 나도 아내가 있었으면 좋겠다
   year: 2001
   director: 박흥식
