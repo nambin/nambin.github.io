@@ -9221,6 +9221,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/bjYhn9XRzAIVixo8WgoQLA9jngS.jpg
+- title: Apt (아파트)
+  year: 2006
+  director: 안병기
+  is_korean_director: true
+  imdb_id: tt0826024
+  imdb_url: https://www.imdb.com/title/tt0826024
+  tmdb_url: https://www.themoviedb.org/movie/32152
+  tmdb_title: Apt
+  tmdb_original_title: 아파트
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Ahn Byeong-ki
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/zgtUgZjlIDzLIGLGgVl8owg3Le2.jpg
 - title: 가족의 탄생
   year: 2006
   director: 김태용
@@ -11825,6 +11839,25 @@
     - 청룡영화제 최우수 작품상
   awards:
     - blue_dragon
+- title: Eternity and a Day (Μια αιωνιότητα και μια μέρα)
+  year: 1998
+  director: Theo Angelopoulos
+  is_korean_director: false
+  imdb_id: tt0156794
+  imdb_url: https://www.imdb.com/title/tt0156794
+  tmdb_url: https://www.themoviedb.org/movie/24858
+  tmdb_title: Eternity and a Day
+  tmdb_original_title: Μια αιωνιότητα και μια μέρα
+  tmdb_original_language: Greek
+  tmdb_director_name_1: Theo Angelopoulos
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/wH8sfLJCqNjsIw8zkXpvxdSzj60.jpg
+  date_committed: 2026-09-07
+  award_names:
+    - Cannes Palme d'Or
+  awards:
+    - cannes
 - title: The Thin Red Line
   year: 1998
   director: Terrence Malick
