@@ -402,6 +402,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/bzBtsLi17rK4G6kDvOXfUZfAhca.jpg
   date_committed: 2026-09-01
+- title: Sound of Falling (In die Sonne schauen)
+  year: 2025
+  director: Mascha Schilinski
+  is_korean_director: false
+  imdb_id: tt28690468
+  imdb_url: https://www.imdb.com/title/tt28690468
+  tmdb_url: https://www.themoviedb.org/movie/1221061
+  tmdb_title: Sound of Falling
+  tmdb_original_title: In die Sonne schauen
+  tmdb_original_language: German
+  tmdb_director_name_1: Mascha Schilinski
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/5hLiXAqZ3xTHExOIsxYANIswBjZ.jpg
+  date_committed: 2026-09-08
 - title: Snow White
   year: 2025
   director: Marc Webb
