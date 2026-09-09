@@ -14059,6 +14059,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/c5gSie6ZA90iBs62yNM5MV4y9R7.jpg
+- title: The Killer (喋血雙雄)
+  year: 1989
+  director: John Woo
+  is_korean_director: false
+  imdb_id: tt0097202
+  imdb_url: https://www.imdb.com/title/tt0097202
+  tmdb_url: https://www.themoviedb.org/movie/10835
+  tmdb_title: The Killer
+  tmdb_original_title: 喋血雙雄
+  tmdb_original_language: Cantonese
+  tmdb_director_name_1: John Woo
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8hTxlSqMAHBXAh1eB69ir0BXhzE.jpg
 - title: Too Beautiful for You (내겐 너무 이쁜 당신)
   year: 1989
   director: Bertrand Blier
