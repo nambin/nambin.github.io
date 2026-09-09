@@ -7903,6 +7903,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/7VC7Q7GvIhEECIU3fiaRf71mxV6.jpg
+- title: Certified Copy (Copie conforme)
+  year: 2010
+  director: Abbas Kiarostami
+  is_korean_director: false
+  imdb_id: tt1020773
+  imdb_url: https://www.imdb.com/title/tt1020773
+  tmdb_url: https://www.themoviedb.org/movie/48303
+  tmdb_title: Certified Copy
+  tmdb_original_title: Copie conforme
+  tmdb_original_language: French
+  tmdb_director_name_1: Abbas Kiarostami
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/soBvtCR33Gv1j6gXwXOIc3JTlNc.jpg
+  date_committed: 2026-09-09
 - title: 마더 (Mother)
   year: 2009
   director: 봉준호
