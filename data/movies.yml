@@ -3272,6 +3272,21 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/pUc2ZaIxvPHROjT0Trd6tpSnTme.jpg
   award_names:
     - César Award for Best Film
+- title: Bacurau
+  year: 2019
+  director: Kleber Mendonça Filho
+  is_korean_director: false
+  imdb_id: tt2762506
+  imdb_url: https://www.imdb.com/title/tt2762506
+  tmdb_url: https://www.themoviedb.org/movie/446159
+  tmdb_title: null
+  tmdb_original_title: Bacurau
+  tmdb_original_language: Portuguese
+  tmdb_director_name_1: Kleber Mendonça Filho
+  tmdb_director_name_2: Juliano Dornelles
+  tmdb_num_directors: 2
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/tBa4zMGzZUco26XT3WfZZCwQ76i.jpg
+  date_committed: 2026-09-09
 - title: Sorry We Missed You (미안해요 리키)
   year: 2019
   director: Ken Loach
