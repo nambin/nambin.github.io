@@ -13375,6 +13375,25 @@
     - Venice Leone d’oro
   awards:
     - venice
+- title: The Piano
+  year: 1993
+  director: Jane Campion
+  is_korean_director: false
+  imdb_id: tt0107822
+  imdb_url: https://www.imdb.com/title/tt0107822
+  tmdb_url: https://www.themoviedb.org/movie/713
+  tmdb_title: null
+  tmdb_original_title: The Piano
+  tmdb_original_language: English
+  tmdb_director_name_1: Jane Campion
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/rx8RKXn8OtuS6lqloYsjyrGOUp4.jpg
+  date_committed: 2026-09-10
+  award_names:
+    - Cannes Palme d'Or
+  awards:
+    - cannes
 - title: The Wedding Banquet
   year: 1993
   director: Ang Lee
