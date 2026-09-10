@@ -12525,6 +12525,20 @@
   tmdb_director_name_2: Kim Soo-jung
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/y9bIBSvmoQDFYbtcYuWFvSTuQAo.jpg
+- title: The Gingko Bed (은행나무 침대)
+  year: 1996
+  director: 강제규
+  is_korean_director: true
+  imdb_id: tt0141122
+  imdb_url: https://www.imdb.com/title/tt0141122
+  tmdb_url: https://www.themoviedb.org/movie/87859
+  tmdb_title: The Gingko Bed
+  tmdb_original_title: 은행나무 침대
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kang Je-kyu
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/wAB5ltE9SFkuLjlj8OTW37g905X.jpg
 - title: 투캅스 2
   year: 1996
   director: 강우석
