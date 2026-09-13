@@ -8889,6 +8889,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/h7Lcio0c9ohxPhSZg42eTlKIVVY.jpg
+- title: I'm Not There
+  year: 2007
+  director: Todd Haynes
+  is_korean_director: false
+  imdb_id: tt0368794
+  imdb_url: https://www.imdb.com/title/tt0368794
+  tmdb_url: https://www.themoviedb.org/movie/3902
+  tmdb_title: null
+  tmdb_original_title: I'm Not There
+  tmdb_original_language: English
+  tmdb_director_name_1: Todd Haynes
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/bucgvB7gQqcl1m71efHkenfIMTj.jpg
+  date_committed: 2026-09-13
 - title: Spider-Man 3
   year: 2007
   director: Sam Raimi
