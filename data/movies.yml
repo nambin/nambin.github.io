@@ -10360,6 +10360,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg
+- title: My Teacher, Mr. Kim (선생 김봉두)
+  year: 2003
+  director: Jang Kyu-sung
+  is_korean_director: false
+  imdb_id: tt0358691
+  imdb_url: https://www.imdb.com/title/tt0358691
+  tmdb_url: https://www.themoviedb.org/movie/63247
+  tmdb_title: My Teacher, Mr. Kim
+  tmdb_original_title: 선생 김봉두
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Jang Kyu-sung
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/kCHaC2j8RfyLXMdTtlOr3nIC4CV.jpg
 - title: Identity
   year: 2003
   director: James Mangold
@@ -11054,6 +11068,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/c9ItiEc0OlFcxvQtKITxwU6o8tJ.jpg
+- title: Kick the Moon (신라의 달밤)
+  year: 2001
+  director: 김상진
+  is_korean_director: true
+  imdb_id: tt0294916
+  imdb_url: https://www.imdb.com/title/tt0294916
+  tmdb_url: https://www.themoviedb.org/movie/68529
+  tmdb_title: Kick the Moon
+  tmdb_original_title: 신라의 달밤
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Sang-jin
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/7qOJ4oAYcxXPeo6zwj7cv1Kf61e.jpg
 - title: 번지점프를 하다
   year: 2001
   director: 김대승
