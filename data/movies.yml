@@ -12217,6 +12217,25 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wnE24UPCPQsQnbBOu4zVE2qaDNm.jpg
   my_best: true
+- title: Green Fish (초록물고기)
+  year: 1997
+  director: 이창동
+  is_korean_director: true
+  imdb_id: tt0126838
+  imdb_url: https://www.imdb.com/title/tt0126838
+  tmdb_url: https://www.themoviedb.org/movie/95482
+  tmdb_title: Green Fish
+  tmdb_original_title: 초록물고기
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Chang-dong
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/td3XJKc0fpvdkDQIGgXJEPsEj8r.jpg
+  date_committed: 2026-09-16
+  award_names:
+    - 청룡영화제 최우수 작품상
+  awards:
+    - blue_dragon
 - title: Life Is Beautiful
   year: 1997
   director: Roberto Remigio Benigni
