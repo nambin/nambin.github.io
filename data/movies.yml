@@ -11082,6 +11082,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/c9ItiEc0OlFcxvQtKITxwU6o8tJ.jpg
+- title: The Warrior (무사)
+  year: 2001
+  director: 김성수
+  is_korean_director: true
+  imdb_id: tt0275083
+  imdb_url: https://www.imdb.com/title/tt0275083
+  tmdb_url: https://www.themoviedb.org/movie/1436
+  tmdb_title: The Warrior
+  tmdb_original_title: 무사
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Kim Sung-soo
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/i0lpQfqQHN7vEYzSHOk6B65dQbb.jpg
+  date_committed: 2026-09-18
 - title: Kick the Moon (신라의 달밤)
   year: 2001
   director: 김상진
