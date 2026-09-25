@@ -1,3 +1,19 @@
+- title: Possible Love (가능한 사랑)
+  year: 2026
+  director: 이창동
+  is_korean_director: true
+  imdb_id: tt37803364
+  imdb_url: https://www.imdb.com/title/tt37803364
+  tmdb_url: https://www.themoviedb.org/movie/1483525
+  tmdb_title: Possible Love
+  tmdb_original_title: 가능한 사랑
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Chang-dong
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg
+  date_committed: 2026-09-25
+  masterpiece: true
 - title: The Odyssey
   year: 2026
   director: Christopher Nolan
@@ -14,22 +30,6 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg
   date_committed: 2026-08-12
   masterpiece: true
-- title: Possible Love (가능한 사랑)
-  year: 2026
-  director: 이창동
-  is_korean_director: true
-  imdb_id: tt37803364
-  imdb_url: https://www.imdb.com/title/tt37803364
-  tmdb_url: https://www.themoviedb.org/movie/1483525
-  tmdb_title: Possible Love
-  tmdb_original_title: 가능한 사랑
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Lee Chang-dong
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/dLz9yHeLw4x4sD0WTSNi7HuK2ke.jpg
-  date_committed: 2026-09-25
-  my_best: true
 - title: The King's Warden (왕과 사는 남자)
   year: 2026
   director: 장항준
