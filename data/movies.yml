@@ -8847,6 +8847,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/rEpvqWGu08coDLUpcpiz4sMoDYo.jpg
+- title: Voice of a Murderer (그놈 목소리)
+  year: 2007
+  director: 박진표
+  is_korean_director: true
+  imdb_id: tt0969268
+  imdb_url: https://www.imdb.com/title/tt0969268
+  tmdb_url: https://www.themoviedb.org/movie/104176
+  tmdb_title: Voice of a Murderer
+  tmdb_original_title: 그놈 목소리
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Park Jin-pyo
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/1qpKJuE3cwxaOcWXYwMNNC8f1om.jpg
 - title: 스카우트
   year: 2007
   director: 김현석
