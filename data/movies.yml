@@ -11743,6 +11743,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vWVuht8stXzNF38bfxTHgK80SOW.jpg
+- title: End of the Century (세기말)
+  year: 1999
+  director: 송능한
+  is_korean_director: true
+  imdb_id: tt0261282
+  imdb_url: https://www.imdb.com/title/tt0261282
+  tmdb_url: https://www.themoviedb.org/movie/125502
+  tmdb_title: End of the Century
+  tmdb_original_title: 세기말
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Song Neung-han
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/mmIyq3mOSlEyCpVtUyyiIi5y0kI.jpg
 - title: Memento Mori (여고괴담 두번째 이야기)
   year: 1999
   director: 민규동
