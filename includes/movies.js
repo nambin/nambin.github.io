@@ -7,7 +7,7 @@ function initMovieFilter() {
 
   const recentCutoff = new Date();
   recentCutoff.setHours(0, 0, 0, 0);
-  recentCutoff.setFullYear(recentCutoff.getFullYear() - 1);
+  recentCutoff.setDate(recentCutoff.getDate() - 180);
 
   // Keep their href's `recent` param in sync with the toggle's current state
   // so Recent stays applied on top of whichever of those filters gets clicked next,
