@@ -9,10 +9,10 @@ function initMovieFilter() {
   recentCutoff.setHours(0, 0, 0, 0);
   recentCutoff.setDate(recentCutoff.getDate() - 180);
 
-  // Keep their href's `recent` param in sync with the toggle's current state
-  // so Recent stays applied on top of whichever of those filters gets clicked next,
-  // instead of being overridden by it.
-  function _syncFilterLinksWithRecent(recentActive) {
+  // Keep their href's `recent`, `start_date`, and `end_date` params in sync
+  // with current filter states so they stay applied on top of whichever of
+  // those filters gets clicked next, instead of being overridden by it.
+  function _syncFilterLinks(recentActive, startDate, endDate) {
     document.querySelectorAll('.director-filter-link, .badge-link').forEach(link => {
       const url = new URL(link.getAttribute('href'), window.location.href);
       if (recentActive) {
@@ -20,24 +20,39 @@ function initMovieFilter() {
       } else {
         url.searchParams.delete('recent');
       }
+      if (startDate) {
+        url.searchParams.set('start_date', startDate);
+      } else {
+        url.searchParams.delete('start_date');
+      }
+      if (endDate) {
+        url.searchParams.set('end_date', endDate);
+      } else {
+        url.searchParams.delete('end_date');
+      }
       link.setAttribute('href', url.pathname + url.search);
     });
   }
 
   // The "×" clear-filter link drops the named filter (director/masterpiece/
-  // my_best/award) — but if Recent is active it should stay active, not get
-  // wiped along with the rest, so this rebuilds the link's href to only ever
-  // carry `recent` forward.
-  function _updateClearFilterHref(recentActive) {
+  // my_best/award) — but if Recent or date filters are active they should stay active,
+  // not get wiped along with the rest, so this rebuilds the link's href to carry them forward.
+  function _updateClearFilterHref(recentActive, startDate, endDate) {
     if (!clearFilterLink) return;
     const url = new URL(window.location.pathname, window.location.href);
     if (recentActive) {
       url.searchParams.set('recent', 'true');
     }
+    if (startDate) {
+      url.searchParams.set('start_date', startDate);
+    }
+    if (endDate) {
+      url.searchParams.set('end_date', endDate);
+    }
     clearFilterLink.setAttribute('href', url.pathname + url.search);
   }
 
-  function _filterMovies(searchTerm, director, masterpiece, myBest, award, recentOnly) {
+  function _filterMovies(searchTerm, director, masterpiece, myBest, award, recentOnly, startDate, endDate) {
     const searchKeywords = searchTerm.toLowerCase().split(' ').filter(k => k);
 
     movieCards.forEach(card => {
@@ -58,6 +73,12 @@ function initMovieFilter() {
       if (recentOnly) {
         const dateCommitted = card.getAttribute('data-date-committed');
         if (!dateCommitted || new Date(dateCommitted) < recentCutoff) {
+          shouldShow = false;
+        }
+      }
+      if (startDate || endDate) {
+        const dateCommitted = card.getAttribute('data-date-committed');
+        if (!dateCommitted || (startDate && dateCommitted < startDate) || (endDate && dateCommitted > endDate)) {
           shouldShow = false;
         }
       }
@@ -83,20 +104,23 @@ function initMovieFilter() {
     const myBestParam = params.get('my_best');
     const awardParam = params.get('award');
     const recentParam = params.get('recent');
+    const startDateParam = params.get('start_date');
+    const endDateParam = params.get('end_date');
 
     if (recentToggle) {
       recentToggle.classList.toggle('active', !!recentParam);
       recentToggle.setAttribute('aria-pressed', recentParam ? 'true' : 'false');
     }
-    _syncFilterLinksWithRecent(!!recentParam);
-    _updateClearFilterHref(!!recentParam);
+    _syncFilterLinks(!!recentParam, startDateParam, endDateParam);
+    _updateClearFilterHref(!!recentParam, startDateParam, endDateParam);
 
-    if (searchInput.value || directorParam || masterpieceParam || myBestParam || awardParam || recentParam) {
+    if (searchInput.value || directorParam || masterpieceParam || myBestParam || awardParam || recentParam || startDateParam || endDateParam) {
       decodedDirectorParam = directorParam ? decodeURIComponent(directorParam) : null;
       _filterMovies(
         searchInput.value,
         decodedDirectorParam,
-        masterpieceParam, myBestParam, awardParam, recentParam);
+        masterpieceParam, myBestParam, awardParam, recentParam,
+        startDateParam, endDateParam);
 
       // console.log('filters applied:', {
       //   search: searchInput.value,
