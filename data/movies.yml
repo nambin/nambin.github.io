@@ -539,6 +539,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg
+- title: Afternoons of Solitude (Tardes de soledad)
+  year: 2025
+  director: Albert Serra
+  is_korean_director: false
+  imdb_id: tt26245982
+  imdb_url: https://www.imdb.com/title/tt26245982
+  tmdb_url: https://www.themoviedb.org/movie/975324
+  tmdb_title: Afternoons of Solitude
+  tmdb_original_title: Tardes de soledad
+  tmdb_original_language: Spanish
+  tmdb_director_name_1: Albert Serra
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/uxmv9ySlP0KKiGZcWsU0wzy9goL.jpg
+  date_committed: 2026-10-01
 - title: Anora
   year: 2024
   director: Sean Baker
