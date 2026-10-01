@@ -8243,6 +8243,21 @@
   custom_korean_title: 예언자
   award_names:
     - César Award for Best Film
+- title: A Serious Man
+  year: 2009
+  director: Ethan Coen
+  is_korean_director: false
+  imdb_id: tt1019452
+  imdb_url: https://www.imdb.com/title/tt1019452
+  tmdb_url: https://www.themoviedb.org/movie/12573
+  tmdb_title: null
+  tmdb_original_title: A Serious Man
+  tmdb_original_language: English
+  tmdb_director_name_1: Ethan Coen
+  tmdb_director_name_2: Joel Coen
+  tmdb_num_directors: 2
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/5gGxDS8WmrebPlMHexVS8EVehiP.jpg
+  date_committed: 2026-09-27
 - title: The Dark Knight
   year: 2008
   director: Christopher Nolan
@@ -11743,6 +11758,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vWVuht8stXzNF38bfxTHgK80SOW.jpg
+- title: End of the Century (세기말)
+  year: 1999
+  director: 송능한
+  is_korean_director: true
+  imdb_id: tt0261282
+  imdb_url: https://www.imdb.com/title/tt0261282
+  tmdb_url: https://www.themoviedb.org/movie/125502
+  tmdb_title: End of the Century
+  tmdb_original_title: 세기말
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Song Neung-han
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/mmIyq3mOSlEyCpVtUyyiIi5y0kI.jpg
 - title: Memento Mori (여고괴담 두번째 이야기)
   year: 1999
   director: 민규동
