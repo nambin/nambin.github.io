@@ -30,6 +30,21 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg
   date_committed: 2026-08-12
   masterpiece: true
+- title: The Assassin(s) (암살자(들))
+  year: 2026
+  director: 허진호
+  is_korean_director: true
+  imdb_id: tt38708063
+  imdb_url: https://www.imdb.com/title/tt38708063
+  tmdb_url: https://www.themoviedb.org/movie/1418428
+  tmdb_title: The Assassin(s)
+  tmdb_original_title: 암살자(들)
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Hur Jin-ho
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/vxLkqJHsFmrnOg78KoTvwxXDTKo.jpg
+  date_committed: 2026-10-02
 - title: The King's Warden (왕과 사는 남자)
   year: 2026
   director: 장항준
