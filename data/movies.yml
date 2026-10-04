@@ -135,6 +135,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg
   date_committed: 2026-08-02
+- title: Digger
+  year: 2026
+  director: Alejandro G. Iñárritu
+  is_korean_director: false
+  imdb_id: tt31450459
+  imdb_url: https://www.imdb.com/title/tt31450459
+  tmdb_url: https://www.themoviedb.org/movie/1248832
+  tmdb_title: null
+  tmdb_original_title: Digger
+  tmdb_original_language: English
+  tmdb_director_name_1: Alejandro G. Iñárritu
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg
+  date_committed: 2026-10-04
 - title: The World of Love (세계의 주인)
   year: 2025
   director: 윤가은
