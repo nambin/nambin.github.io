@@ -12941,6 +12941,26 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/l5uxY5m5OInWpcExIpKG6AR3rgL.jpg
+- title: Sense And Sensibility
+  year: 1995
+  director: Ang Lee
+  country: US
+  is_korean_director: false
+  imdb_id: tt0114388
+  imdb_url: https://www.imdb.com/title/tt0114388
+  tmdb_url: https://www.themoviedb.org/movie/4584
+  tmdb_title: null
+  tmdb_original_title: Sense and Sensibility
+  tmdb_original_language: English
+  tmdb_director_name_1: Ang Lee
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg
+  my_best: true
+  award_names:
+    - Berlin Goldener Bär
+  awards:
+    - berlin
 - title: Seven
   year: 1995
   director: David Fincher
@@ -12976,25 +12996,6 @@
     - Oscar Best Picture
   awards:
     - oscar
-- title: Sense And Sensibility
-  year: 1995
-  director: Ang Lee
-  country: US
-  is_korean_director: false
-  imdb_id: tt0114388
-  imdb_url: https://www.imdb.com/title/tt0114388
-  tmdb_url: https://www.themoviedb.org/movie/4584
-  tmdb_title: null
-  tmdb_original_title: Sense and Sensibility
-  tmdb_original_language: English
-  tmdb_director_name_1: Ang Lee
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg
-  award_names:
-    - Berlin Goldener Bär
-  awards:
-    - berlin
 - title: Outbreak
   year: 1995
   director: Wolfgang Petersen
