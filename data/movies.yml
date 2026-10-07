@@ -30,6 +30,22 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg
   date_committed: 2026-08-12
   masterpiece: true
+- title: Sense and Sensibility
+  year: 2026
+  director: Georgia Oakley
+  is_korean_director: false
+  imdb_id: tt13609648
+  imdb_url: https://www.imdb.com/title/tt13609648
+  tmdb_url: https://www.themoviedb.org/movie/1503762
+  tmdb_title: null
+  tmdb_original_title: Sense and Sensibility
+  tmdb_original_language: English
+  tmdb_director_name_1: Georgia Oakley
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg
+  date_committed: 2026-10-07
+  my_best: true
 - title: The Assassin(s) (암살자(들))
   year: 2026
   director: 허진호
@@ -120,21 +136,6 @@
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg
   date_committed: 2026-05-10
-- title: Sense and Sensibility
-  year: 2026
-  director: Georgia Oakley
-  is_korean_director: false
-  imdb_id: tt13609648
-  imdb_url: https://www.imdb.com/title/tt13609648
-  tmdb_url: https://www.themoviedb.org/movie/1503762
-  tmdb_title: null
-  tmdb_original_title: Sense and Sensibility
-  tmdb_original_language: English
-  tmdb_director_name_1: Georgia Oakley
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg
-  date_committed: 2026-10-07
 - title: '"Wuthering Heights"'
   year: 2026
   director: Emerald Fennell
