@@ -90,6 +90,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg
   date_committed: 2026-07-23
+- title: The Diary of a Chambermaid (Le Journal d'une femme de chambre)
+  year: 2026
+  director: Radu Jude
+  is_korean_director: false
+  imdb_id: tt38785098
+  imdb_url: https://www.imdb.com/title/tt38785098
+  tmdb_url: https://www.themoviedb.org/movie/1472813
+  tmdb_title: The Diary of a Chambermaid
+  tmdb_original_title: Le Journal d'une femme de chambre
+  tmdb_original_language: French
+  tmdb_director_name_1: Radu Jude
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/vktQLUEEjg1KZhXfDINqxZNB29x.jpg
+  date_committed: 2026-10-07
 - title: Project Hail Mary
   year: 2026
   director: Phil Lord
