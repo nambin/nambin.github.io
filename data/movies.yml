@@ -30,6 +30,26 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg
   date_committed: 2026-08-12
   masterpiece: true
+- title: Fjord
+  year: 2026
+  director: Cristian Mungiu
+  is_korean_director: false
+  imdb_id: tt35410859
+  imdb_url: https://www.imdb.com/title/tt35410859
+  tmdb_url: https://www.themoviedb.org/movie/1401459
+  tmdb_title: null
+  tmdb_original_title: Fjord
+  tmdb_original_language: Romanian
+  tmdb_director_name_1: Cristian Mungiu
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/rhKlzjAJCEKUjxEk1qwr4bgbXlG.jpg
+  date_committed: 2026-10-08
+  my_best: true
+  award_names:
+    - Cannes Palme d'Or
+  awards:
+    - cannes
 - title: Sense and Sensibility
   year: 2026
   director: Georgia Oakley
