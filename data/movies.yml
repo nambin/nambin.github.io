@@ -141,6 +141,10 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/8Sxp3QIdamyoAfgLsUaGCQ1Z1ID.jpg
   date_committed: 2026-10-08
+  award_names:
+    - Berlin Goldener Bär
+  awards:
+    - berlin
 - title: The Diary of a Chambermaid (Le Journal d'une femme de chambre)
   year: 2026
   director: Radu Jude
