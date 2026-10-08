@@ -126,6 +126,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg
   date_committed: 2026-07-23
+- title: Yellow Letters (Gelbe Briefe)
+  year: 2026
+  director: İlker Çatak
+  is_korean_director: false
+  imdb_id: tt32888226
+  imdb_url: https://www.imdb.com/title/tt32888226
+  tmdb_url: https://www.themoviedb.org/movie/1315657
+  tmdb_title: Yellow Letters
+  tmdb_original_title: Gelbe Briefe
+  tmdb_original_language: German
+  tmdb_director_name_1: İlker Çatak
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8Sxp3QIdamyoAfgLsUaGCQ1Z1ID.jpg
+  date_committed: 2026-10-08
 - title: The Diary of a Chambermaid (Le Journal d'une femme de chambre)
   year: 2026
   director: Radu Jude
