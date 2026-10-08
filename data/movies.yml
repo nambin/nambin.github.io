@@ -66,6 +66,25 @@
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/czsyPHosFNbh4PPqXfqWu1aBXnA.jpg
   date_committed: 2026-10-07
   my_best: true
+- title: Yellow Letters (Gelbe Briefe)
+  year: 2026
+  director: İlker Çatak
+  is_korean_director: false
+  imdb_id: tt32888226
+  imdb_url: https://www.imdb.com/title/tt32888226
+  tmdb_url: https://www.themoviedb.org/movie/1315657
+  tmdb_title: Yellow Letters
+  tmdb_original_title: Gelbe Briefe
+  tmdb_original_language: German
+  tmdb_director_name_1: İlker Çatak
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8Sxp3QIdamyoAfgLsUaGCQ1Z1ID.jpg
+  date_committed: 2026-10-08
+  award_names:
+    - Berlin Goldener Bär
+  awards:
+    - berlin
 - title: The Assassin(s) (암살자(들))
   year: 2026
   director: 허진호
@@ -126,25 +145,6 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1n37BJchWHLiSYQkuFxe5KjB951.jpg
   date_committed: 2026-07-23
-- title: Yellow Letters (Gelbe Briefe)
-  year: 2026
-  director: İlker Çatak
-  is_korean_director: false
-  imdb_id: tt32888226
-  imdb_url: https://www.imdb.com/title/tt32888226
-  tmdb_url: https://www.themoviedb.org/movie/1315657
-  tmdb_title: Yellow Letters
-  tmdb_original_title: Gelbe Briefe
-  tmdb_original_language: German
-  tmdb_director_name_1: İlker Çatak
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8Sxp3QIdamyoAfgLsUaGCQ1Z1ID.jpg
-  date_committed: 2026-10-08
-  award_names:
-    - Berlin Goldener Bär
-  awards:
-    - berlin
 - title: The Diary of a Chambermaid (Le Journal d'une femme de chambre)
   year: 2026
   director: Radu Jude
@@ -175,6 +175,21 @@
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/yihdXomYb5kTeSivtFndMy5iDmf.jpg
   date_committed: 2026-05-10
+- title: Chevittorma (ചെവിട്ടോർമ്മ)
+  year: 2026
+  director: Leo Thaddeus
+  is_korean_director: false
+  imdb_id: tt38916381
+  imdb_url: https://www.imdb.com/title/tt38916381
+  tmdb_url: https://www.themoviedb.org/movie/1759456
+  tmdb_title: Chevittorma
+  tmdb_original_title: ചെവിട്ടോർമ്മ
+  tmdb_original_language: Malayalam
+  tmdb_director_name_1: Leo Thaddeus
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/hk81jHb9lxiUpr7UCxkZ7WJhstT.jpg
+  date_committed: 2026-10-08
 - title: '"Wuthering Heights"'
   year: 2026
   director: Emerald Fennell
