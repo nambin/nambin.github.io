@@ -220,6 +220,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/iPOn6DinuVyLY17YM9mKuPofV08.jpg
   date_committed: 2026-08-02
+- title: Pressure
+  year: 2026
+  director: Anthony Maras
+  is_korean_director: false
+  imdb_id: tt32547691
+  imdb_url: https://www.imdb.com/title/tt32547691
+  tmdb_url: https://www.themoviedb.org/movie/1318413
+  tmdb_title: null
+  tmdb_original_title: Pressure
+  tmdb_original_language: English
+  tmdb_director_name_1: Anthony Maras
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/gFjEggtrejCN79r6SXRjM269OtG.jpg
+  date_committed: 2026-10-09
 - title: Digger
   year: 2026
   director: Alejandro G. Iñárritu
