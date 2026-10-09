@@ -50,6 +50,22 @@
     - Cannes Palme d'Or
   awards:
     - cannes
+- title: Paradise Lost (실낙원)
+  year: 2026
+  director: 연상호
+  is_korean_director: true
+  imdb_id: tt43658893
+  imdb_url: https://www.imdb.com/title/tt43658893
+  tmdb_url: https://www.themoviedb.org/movie/1584855
+  tmdb_title: Paradise Lost
+  tmdb_original_title: 실낙원
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Yeon Sang-ho
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/6DLBaO4pKBuEXeoHZCCpEVAqyKz.jpg
+  date_committed: 2026-10-09
+  my_best: true
 - title: Sense and Sensibility
   year: 2026
   director: Georgia Oakley
@@ -130,21 +146,6 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/tN799oUR0f1gUKDYdMNrDaY7I51.jpg
   date_committed: 2026-08-04
-- title: Paradise Lost (실낙원)
-  year: 2026
-  director: 연상호
-  is_korean_director: true
-  imdb_id: tt43658893
-  imdb_url: https://www.imdb.com/title/tt43658893
-  tmdb_url: https://www.themoviedb.org/movie/1584855
-  tmdb_title: Paradise Lost
-  tmdb_original_title: 실낙원
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Yeon Sang-ho
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/6DLBaO4pKBuEXeoHZCCpEVAqyKz.jpg
-  date_committed: 2026-10-09
 - title: Hope (호프)
   year: 2026
   director: 나홍진
