@@ -131,6 +131,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3CnVA1jAA64Q3qNVAW8DekCu19b.jpg
   date_committed: 2026-05-10
+- title: Sapiens (사피엔스)
+  year: 2026
+  director: 이후빈
+  is_korean_director: true
+  imdb_id: null
+  imdb_url: null
+  tmdb_url: https://www.themoviedb.org/movie/1617774
+  tmdb_title: Sapiens
+  tmdb_original_title: 사피엔스
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Lee Hu-bin
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/y2Hx0ufD4l9q2sA9SCQU4jramzi.jpg
+  date_committed: 2026-10-10
 - title: Colony (군체)
   year: 2026
   director: 연상호
