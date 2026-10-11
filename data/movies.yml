@@ -458,6 +458,21 @@
     - Cannes Palme d'Or
   awards:
     - cannes
+- title: The Ugly (얼굴)
+  year: 2025
+  director: 연상호
+  is_korean_director: true
+  imdb_id: tt33514451
+  imdb_url: https://www.imdb.com/title/tt33514451
+  tmdb_url: https://www.themoviedb.org/movie/1316719
+  tmdb_title: The Ugly
+  tmdb_original_title: 얼굴
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Yeon Sang-ho
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/sNLTSYHRfQJ2gpdrA2UXjkfEije.jpg
+  date_committed: 2026-10-11
 - title: People and Meat (사람과 고기)
   year: 2025
   director: 양종현
