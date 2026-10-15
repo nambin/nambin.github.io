@@ -7589,6 +7589,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/6vpSXK8tAbwlfow5EpYqPnAI30i.jpg
   date_committed: 2026-06-26
+- title: The King of Pigs (돼지의 왕)
+  year: 2011
+  director: 연상호
+  is_korean_director: true
+  imdb_id: tt2086830
+  imdb_url: https://www.imdb.com/title/tt2086830
+  tmdb_url: https://www.themoviedb.org/movie/91088
+  tmdb_title: The King of Pigs
+  tmdb_original_title: 돼지의 왕
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Yeon Sang-ho
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/o93tMT3eyeOXBZ8F8TiGQWUq3Ta.jpg
+  date_committed: 2026-10-15
 - title: 퍼펙트 게임
   year: 2011
   director: 박희곤
