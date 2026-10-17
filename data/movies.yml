@@ -6671,6 +6671,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/hYBj2NWvYp0JoiOb4MMdD6MDCFz.jpg
+- title: The Fake (사이비)
+  year: 2013
+  director: 연상호
+  is_korean_director: true
+  imdb_id: tt3091272
+  imdb_url: https://www.imdb.com/title/tt3091272
+  tmdb_url: https://www.themoviedb.org/movie/211247
+  tmdb_title: The Fake
+  tmdb_original_title: 사이비
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Yeon Sang-ho
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/gcSsEKxGinzyaGXkbo0iKVwHb4G.jpg
+  date_committed: 2026-10-17
 - title: 설국열차
   year: 2013
   director: 봉준호
