@@ -4976,6 +4976,21 @@
   tmdb_num_directors: 2
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/1NX6NTj9FiiJwEgRUmEifSzE7Na.jpg
   custom_korean_title: 바르다가 사랑한 얼굴들
+- title: Spoor (Pokot)
+  year: 2017
+  director: Agnieszka Holland
+  is_korean_director: false
+  imdb_id: tt5328350
+  imdb_url: https://www.imdb.com/title/tt5328350
+  tmdb_url: https://www.themoviedb.org/movie/432799
+  tmdb_title: Spoor
+  tmdb_original_title: Pokot
+  tmdb_original_language: Polish
+  tmdb_director_name_1: Agnieszka Holland
+  tmdb_director_name_2: Kasia Adamik
+  tmdb_num_directors: 2
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/8a3rRg9hMp1swcejSGbUSDdSFl1.jpg
+  date_committed: 2026-10-22
 - title: Manchester by the sea
   year: 2016
   director: Kenneth Lonergan
