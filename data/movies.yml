@@ -7139,6 +7139,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/3ppxP6yFoKxkA3jQkDdv3E9u1tc.jpg
+- title: Helpless (화차)
+  year: 2012
+  director: 변영주
+  is_korean_director: true
+  imdb_id: tt2308725
+  imdb_url: https://www.imdb.com/title/tt2308725
+  tmdb_url: https://www.themoviedb.org/movie/108972
+  tmdb_title: Helpless
+  tmdb_original_title: 화차
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Byun Young-joo
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/yt1ZQ0C8C8fayMK8VRXiWX40Its.jpg
 - title: 베를린
   year: 2012
   director: 류승완
@@ -7410,20 +7424,6 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wH6OFdp2MVYXY0fVSolrWN9b17z.jpg
-- title: Helpless (화차)
-  year: 2012
-  director: Byun Young-joo
-  is_korean_director: false
-  imdb_id: tt2308725
-  imdb_url: https://www.imdb.com/title/tt2308725
-  tmdb_url: https://www.themoviedb.org/movie/108972
-  tmdb_title: Helpless
-  tmdb_original_title: 화차
-  tmdb_original_language: Korean
-  tmdb_director_name_1: Byun Young-joo
-  tmdb_director_name_2: null
-  tmdb_num_directors: 1
-  tmdb_poster_url: https://image.tmdb.org/t/p/w200/yt1ZQ0C8C8fayMK8VRXiWX40Its.jpg
 - title: Life of Pi
   year: 2012
   director: Ang Lee
@@ -10932,6 +10932,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/xgF6Syq1iN4Qh3bXoTcQA57P3G8.jpg
+- title: Addicted (중독)
+  year: 2002
+  director: 박영훈
+  is_korean_director: true
+  imdb_id: tt0336678
+  imdb_url: https://www.imdb.com/title/tt0336678
+  tmdb_url: https://www.themoviedb.org/movie/67025
+  tmdb_title: Addicted
+  tmdb_original_title: 중독
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Park Young-hoon
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/znBcfFX8BjFDCDwiW5MrKqXPKhT.jpg
 - title: 공공의 적
   year: 2002
   director: 강우석
