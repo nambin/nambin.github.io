@@ -7410,6 +7410,20 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wH6OFdp2MVYXY0fVSolrWN9b17z.jpg
+- title: Helpless (화차)
+  year: 2012
+  director: Byun Young-joo
+  is_korean_director: false
+  imdb_id: tt2308725
+  imdb_url: https://www.imdb.com/title/tt2308725
+  tmdb_url: https://www.themoviedb.org/movie/108972
+  tmdb_title: Helpless
+  tmdb_original_title: 화차
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Byun Young-joo
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/yt1ZQ0C8C8fayMK8VRXiWX40Its.jpg
 - title: Life of Pi
   year: 2012
   director: Ang Lee
