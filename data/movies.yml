@@ -730,6 +730,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/z53D72EAOxGRqdr7KXXWp9dJiDe.jpg
+- title: Romería
+  year: 2025
+  director: Carla Simón
+  is_korean_director: false
+  imdb_id: tt32538648
+  imdb_url: https://www.imdb.com/title/tt32538648
+  tmdb_url: https://www.themoviedb.org/movie/1182861
+  tmdb_title: null
+  tmdb_original_title: Romería
+  tmdb_original_language: Spanish
+  tmdb_director_name_1: Carla Simón
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/rkCHBDGgc6UW9ETyTWZ0RiEiten.jpg
+  date_committed: 2026-10-25
 - title: Afternoons of Solitude (Tardes de soledad)
   year: 2025
   director: Albert Serra
