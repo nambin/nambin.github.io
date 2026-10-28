@@ -9288,6 +9288,21 @@
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/dFipUR6W0y3PPkuVS8gjFd929m2.jpg
   date_committed: 2026-05-10
+- title: Becoming Jane
+  year: 2007
+  director: Julian Jarrold
+  is_korean_director: false
+  imdb_id: tt0416508
+  imdb_url: https://www.imdb.com/title/tt0416508
+  tmdb_url: https://www.themoviedb.org/movie/2977
+  tmdb_title: null
+  tmdb_original_title: Becoming Jane
+  tmdb_original_language: English
+  tmdb_director_name_1: Julian Jarrold
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/yHA6JEn57MBGp2yGFgYyopJvk2O.jpg
+  date_committed: 2026-10-28
 - title: Once
   year: 2007
   director: John Carney
