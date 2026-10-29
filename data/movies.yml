@@ -2863,6 +2863,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/wwrvjmcgkDyB2RbCbIVLXZf82pl.jpg
+- title: Emma.
+  year: 2020
+  director: Autumn de Wilde
+  is_korean_director: false
+  imdb_id: tt9214832
+  imdb_url: https://www.imdb.com/title/tt9214832
+  tmdb_url: https://www.themoviedb.org/movie/556678
+  tmdb_title: null
+  tmdb_original_title: Emma.
+  tmdb_original_language: English
+  tmdb_director_name_1: Autumn de Wilde
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/uHpHzbHLSsVmAuuGuQSpyVDZmDc.jpg
+  date_committed: 2026-10-29
 - title: Marona's Fantastic Tale
   year: 2020
   director: Anca Damian
