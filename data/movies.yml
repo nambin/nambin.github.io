@@ -5234,6 +5234,21 @@
   tmdb_director_name_2: null
   tmdb_num_directors: 1
   tmdb_poster_url: https://image.tmdb.org/t/p/w200/vNVFt6dtcqnI7hqa6LFBUibuFiw.jpg
+- title: Seoul Station (서울역)
+  year: 2016
+  director: 연상호
+  is_korean_director: true
+  imdb_id: tt3845670
+  imdb_url: https://www.imdb.com/title/tt3845670
+  tmdb_url: https://www.themoviedb.org/movie/389868
+  tmdb_title: Seoul Station
+  tmdb_original_title: 서울역
+  tmdb_original_language: Korean
+  tmdb_director_name_1: Yeon Sang-ho
+  tmdb_director_name_2: null
+  tmdb_num_directors: 1
+  tmdb_poster_url: https://image.tmdb.org/t/p/w200/4O9pQggt8V7a9g6brsyZx2zEHRj.jpg
+  date_committed: 2026-10-30
 - title: 강철비
   year: 2016
   director: 양우석
